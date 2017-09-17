@@ -234,7 +234,8 @@ blockquote p:last-child {
 }
 
 .section-heading h1 {
-  margin: 0 0 10px 0;
+    margin: 0 0 10px 0;
+    padding-bottom: 40px;
 }
 
 .home-section p{
@@ -561,6 +562,11 @@ article {
   display: block;
   position: relative;
   overflow: hidden;
+}
+
+.authorpub{
+    color: #AAAAAA;
+    font-size: 0.7rem;
 }
 
 /*************************************************
