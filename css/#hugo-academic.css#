@@ -570,7 +570,8 @@ article {
 }
 
 .authorpub strong{
-    text-decoration: underline;
+    font-size: 0.75rem;
+    
 }
 
 /*************************************************
