@@ -539,7 +539,12 @@ article {
 }
 
 .pub-list-item .pub-abstract {
-  font-size: 1rem;
+    font-size: 1rem;
+}
+
+p.pub-abstract{
+    font-size: 0.8rem;
+    text-align: justify;
 }
 
 .pub-list-item .pub-authors {
@@ -570,8 +575,7 @@ article {
 }
 
 .authorpub strong{
-    font-size: 0.75rem;
-    
+    text-decoration: underline;
 }
 
 /*************************************************
@@ -582,6 +586,19 @@ article {
   color: #090;
   font-size: 1rem;
 }
+
+.talk-title {
+    font-weight: 700;   
+}
+
+.talk-year {
+    margin-top: 0rem;
+}
+
+.talk-location {
+    
+}
+
 
 /*************************************************
  *  Projects

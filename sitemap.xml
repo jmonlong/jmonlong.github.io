@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>/talk/research-day-2017/</loc>
+      <lastmod>2017-05-18T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,7 +14,16 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
+      <loc>/talk/chsgm2017/</loc>
+      <lastmod>2017-04-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,6 +113,15 @@
     
     <url>
     
+      <loc>/talk/ichg2016/</loc>
+      <lastmod>2016-04-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
@@ -115,6 +133,33 @@
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/chsgm2015/</loc>
+      <lastmod>2015-04-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/genomeinformatics2014/</loc>
+      <lastmod>2014-09-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/research-day-2014/</loc>
+      <lastmod>2014-06-05T00:00:00+00:00</lastmod>
     </url>
     
   

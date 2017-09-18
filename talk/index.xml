@@ -11,12 +11,58 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
+      <link>/talk/research-day-2017/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+      <guid>/talk/research-day-2017/</guid>
+      <description>&lt;p&gt;🏆 Honorable Mentions for Oral Presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
+      <link>/talk/chsgm2017/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/chsgm2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global patterns of copy number variation in humans from a population-based analysis</title>
+      <link>/talk/ichg2016/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ichg2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
+      <link>/talk/chsgm2015/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/chsgm2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
+      <link>/talk/genomeinformatics2014/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/genomeinformatics2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-based detection of Structural Variants in normal and aberrant genomes.</title>
+      <link>/talk/research-day-2014/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/research-day-2014/</guid>
+      <description>&lt;p&gt;🏆 Best Oral Presentation.&lt;/p&gt;
 </description>
     </item>
     
