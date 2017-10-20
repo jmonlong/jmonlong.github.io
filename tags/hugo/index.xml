@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jean Monlong</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     <atom:link href="/tags/hugo/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -236,7 +236,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>
@@ -302,7 +302,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
