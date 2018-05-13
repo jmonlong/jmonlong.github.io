@@ -10,18 +10,10 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 60
+weight = 5
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- 2016 Kyoto.  Instructor at the 4th Kyoto Course and Symposium on Bioinformatics for Next Generation Sequencing with Applications in Human Genetics.
+- 2014: Teaching Assistant for the *Advanced Statistical Concepts in Genetic and Genomic Analysis* course. Human Genetics Dpt, McGill University.
+- 2014: Organizer of a four-days R and Bioinformatics workshop for graduate students from the System Biology (McGill University).
