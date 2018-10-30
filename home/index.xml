@@ -8,7 +8,65 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Jean Monlong</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>I&amp;rsquo;m a PhD candidate in genomics looking at copy number variation across healthy and disease genomes.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>Human copy number variants are enriched in regions of low mappability. Nucleic Acids Research 2018. J Monlong, P Cossette, C Meloche, G Rouleau, SL Girard, G Bourque  Preprint Data/Code       Global characterization of copy number variants in epilepsy patients from whole genome sequencing. PLOS Genetics 2018. J Monlong*, SL Girard*, …, JL Michaud, G Rouleau, BA Minassian, G Bourque, P Cossette  Preprint Data/Code       High Rate of Recurrent De Novo Mutations in Developmental and Epileptic Encephalopathies.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Between 2013 and 2018, I organized eight R workshops for the students of the Human Genetics department. Slides can be found here. For these workshops, I received a Certificate of Appreciation from the department.
+Other teaching experiences include:</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>/home/notes/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/notes/</guid>
+      <description>I regularly write down notes about the tools and programming languages I use in a separate website. There are instructions to setup my working environment (Emacs-based) or things I don&amp;rsquo;t use often enough to remember but enough to collectively waste my time re-googling. I also put some exploratory analyses that might be helpful or interesting to some.
+HippocamPlus: my second memory</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
