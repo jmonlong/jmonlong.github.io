@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Jean Monlong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jean Monlong</copyright>
+    <copyright>&amp;copy; 2019 Jean Monlong</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/getting-started/</guid>
-      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
-Key features:
- Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Easy to customize  Table of Contents    Installation Getting Started  Core parameters Introduce yourself Customize the homepage Add your content Remove unused widgets and pages Customization &amp;amp; Upgrading  Advanced customization  Navigation menu Website icon Theme color (CSS) Analytics Third party and local scripts (JS) Language and translation Permalinks  Upgrading Feedback &amp;amp; Contributing License    Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
+      <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
     </item>
     
     <item>
@@ -29,8 +27,7 @@ Key features:
       <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/widgets/</guid>
-      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
- About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
+      <description>Enable/disable and configure widgets to customize your homepage.</description>
     </item>
     
     <item>
@@ -57,8 +54,7 @@ Key features:
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0700</pubDate>
       
       <guid>/post/migrate-from-jekyll/</guid>
-      <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
-Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
+      <description>Learn how to migrate an existing website from Jekyll to Hugo.</description>
     </item>
     
   </channel>

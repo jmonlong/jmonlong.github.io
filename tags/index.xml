@@ -6,8 +6,8 @@
     <description>Recent content in Tags on Jean Monlong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jean Monlong</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Jean Monlong</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
+      <title>deep-learning</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Demo</title>
+      <title>demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>/tags/hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>Jekyll</title>
+      <title>jekyll</title>
       <link>/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0700</pubDate>
       
