@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="generator" content="Hugo 0.54.0" />
   <meta name="author" content="Jean Monlong">
   <meta name="description" content="Postdoctoral researcher">
 
@@ -239,7 +239,7 @@
 
 <p>This article gives an overview of the most common formatting options.</p>
 
-<p><h2>Table of Contents</h2>
+<h2>Table of Contents</h2>
 <nav id="TableOfContents">
 <ul>
 <li>
@@ -274,7 +274,8 @@
 <li><a href="#table-of-contents">Table of Contents</a></li>
 </ul></li>
 </ul>
-</nav></p>
+</nav>
+
 
 <h2 id="sub-headings">Sub-headings</h2>
 
@@ -494,16 +495,16 @@ print(&quot;You entered: {}&quot;.format(input_string_var))
 <p>See the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> for examples of available styles.</p>
 
 <div class="alert alert-note">
-  
-Not all styles listed on the [highlight.js demo page](https://highlightjs.org/static/demo/) are available from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/). If you want to use a style that is not served by cdnjs, just leave `highlight_style` unset, and place the corresponding css file in `/static/css/highlight.min.css`.
+  <p>Not all styles listed on the <a href="https://highlightjs.org/static/demo/" target="_blank">highlight.js demo page</a> are available from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>. If you want to use a style that is not served by cdnjs, just leave <code>highlight_style</code> unset, and place the corresponding css file in <code>/static/css/highlight.min.css</code>.</p>
 
 </div>
+
 
 <div class="alert alert-note">
-  
-If you don't want to change the default style that ships with Academic but you do want the style file served from the [cdnjs server](https://cdnjs.com/libraries/highlight.js/), set `highlight_style = "github"` in `config.toml`.
+  <p>If you don&rsquo;t want to change the default style that ships with Academic but you do want the style file served from the <a href="https://cdnjs.com/libraries/highlight.js/" target="_blank">cdnjs server</a>, set <code>highlight_style = &quot;github&quot;</code> in <code>config.toml</code>.</p>
 
 </div>
+
 
 <p>The <code>highlight_style</code> option is only recognized when set in <code>config.toml</code>. Setting <code>highlight_style</code> in your page&rsquo;s preamble has no effect.</p>
 
@@ -597,10 +598,10 @@ Here's a tip or note...
 <p>This will display the following <em>note</em> block:</p>
 
 <div class="alert alert-note">
-  
-Here's a tip or note...
+  <p>Here&rsquo;s a tip or note&hellip;</p>
 
 </div>
+
 
 <pre><code>{{% alert warning %}}
 Here's some important information...
@@ -610,10 +611,10 @@ Here's some important information...
 <p>This will display the following <em>warning</em> block:</p>
 
 <div class="alert alert-warning">
-  
-Here's some important information...
+  <p>Here&rsquo;s some important information&hellip;</p>
 
 </div>
+
 
 <h2 id="table-of-contents">Table of Contents</h2>
 
