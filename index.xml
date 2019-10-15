@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Genome variation graphs with the vg toolkit</title>
+      <link>/talk/grcgiab2019/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/grcgiab2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
+      <link>/talk/nccb2019/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/nccb2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to R Markdown</title>
       <link>/teaching/monbug2018/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
@@ -77,7 +95,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -300,7 +318,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>
@@ -366,7 +384,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -538,7 +556,7 @@ Below is an automatically generated list of all my blog posts!
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
       <link>/post/writing-markdown-latex/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
@@ -962,24 +980,6 @@ Here&#39;s some important information...
       <guid>/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
-      <link>/talk/chsgm2015/</link>
-      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/chsgm2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
-      <link>/talk/genomeinformatics2014/</link>
-      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/genomeinformatics2014/</guid>
-      <description></description>
     </item>
     
   </channel>

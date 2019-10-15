@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/talk/grcgiab2019/</loc>
+      <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/nccb2019/</loc>
+      <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/monbug2018/</loc>
       <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
@@ -42,7 +60,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -96,7 +114,7 @@
     <url>
     
       <loc>/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -105,7 +123,7 @@
     <url>
     
       <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-19T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -114,7 +132,7 @@
     <url>
     
       <loc>/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-18T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -123,7 +141,7 @@
     <url>
     
       <loc>/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-07:00</lastmod>
+      <lastmod>2016-04-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -204,7 +222,7 @@
     <url>
     
       <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -271,7 +289,7 @@
     <url>
     
       <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <lastmod>2017-09-03T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -291,7 +309,7 @@
     <url>
     
       <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <lastmod>2014-03-10T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
