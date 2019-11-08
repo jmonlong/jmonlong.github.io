@@ -11,21 +11,55 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
+      <link>/talk/gi2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/gi2019/</guid>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; is presenting genotyping of structural variances in graph genomes using vg. &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt;&lt;br&gt;&lt;br&gt;Preprint: &lt;a href=&#34;https://t.co/7R7JJ0CrCu&#34;&gt;https://t.co/7R7JJ0CrCu&lt;/a&gt;&lt;br&gt;Code: &lt;a href=&#34;https://t.co/e6nRfAbGSj&#34;&gt;https://t.co/e6nRfAbGSj&lt;/a&gt; &lt;a href=&#34;https://t.co/te1eVRSysg&#34;&gt;pic.twitter.com/te1eVRSysg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Martin Steinegger (@thesteinegger) &lt;a href=&#34;https://twitter.com/thesteinegger/status/1192453087337811969?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; has some beef with the VCF format (lol don&amp;#39;t we all!): multiple equivalent representation, over-simplification, impractical; he suggests representations based on mapping directly to the assembly &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Standage (@byuhobbes) &lt;a href=&#34;https://twitter.com/byuhobbes/status/1192455833940045825?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nice talk from &lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; about SV genotyping using VG  &lt;a href=&#34;https://twitter.com/BenedictPaten?ref_src=twsrc%5Etfw&#34;&gt;@BenedictPaten&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt; . Certainly a field we need more developments in to include SV in medical fields!&lt;/p&gt;&amp;mdash; Fritz Sedlazeck (@sedlazeck) &lt;a href=&#34;https://twitter.com/sedlazeck/status/1192455931881234432?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Genome variation graphs with the vg toolkit</title>
       <link>/talk/grcgiab2019/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/talk/grcgiab2019/</guid>
-      <description></description>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; Jean Monlong presenting overview of genome graph rep package vg GRC session &lt;a href=&#34;https://t.co/TkBWc8lI9v&#34;&gt;pic.twitter.com/TkBWc8lI9v&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184133683231580162?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;no&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; JM: vg handling large sets of genomes &lt;a href=&#34;https://t.co/Xo01Dlf6pZ&#34;&gt;pic.twitter.com/Xo01Dlf6pZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184134221184536577?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; JM: vg graph viewer &lt;a href=&#34;https://t.co/EexFptZWnZ&#34;&gt;pic.twitter.com/EexFptZWnZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184134656230383618?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
     </item>
     
     <item>
       <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
       <link>/talk/nccb2019/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/talk/nccb2019/</guid>
-      <description></description>
+      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Jean Monlong from &lt;a href=&#34;https://twitter.com/ucsc?ref_src=twsrc%5Etfw&#34;&gt;@UCSC&lt;/a&gt; :&lt;br&gt;Genotyping Structural Variants in Pangenome Graphs Using the VG Toolkit &lt;a href=&#34;https://twitter.com/hashtag/nccb2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#nccb2019&lt;/a&gt; &lt;a href=&#34;https://t.co/hjHEzJr6Cj&#34;&gt;pic.twitter.com/hjHEzJr6Cj&lt;/a&gt;&lt;/p&gt;&amp;mdash; NCCB Symposium (@NorCalCompBio) &lt;a href=&#34;https://twitter.com/NorCalCompBio/status/1183149160733626368?ref_src=twsrc%5Etfw&#34;&gt;October 12, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
     </item>
     
     <item>
@@ -95,7 +129,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -318,7 +352,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>
@@ -384,7 +418,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -556,7 +590,7 @@ Below is an automatically generated list of all my blog posts!
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
       <link>/post/writing-markdown-latex/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
@@ -970,16 +1004,6 @@ Here&#39;s some important information...
       
       <guid>/teaching/kyoto2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
