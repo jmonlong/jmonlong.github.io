@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Jean Monlong</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
@@ -26,7 +26,7 @@ Key features:
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
@@ -36,7 +36,7 @@ Key features:
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
