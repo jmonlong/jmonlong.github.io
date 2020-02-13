@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Genotyping structural variants in TOPMed using pangenome graphs</title>
+      <link>/talk/gsptopmed2020/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/gsptopmed2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
       <link>/talk/gi2019/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
@@ -150,7 +159,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -373,7 +382,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/widgets/</guid>
       <description>
@@ -439,7 +448,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -611,7 +620,7 @@ Below is an automatically generated list of all my blog posts!
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
       <link>/post/writing-markdown-latex/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/writing-markdown-latex/</guid>
       <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
@@ -1015,15 +1024,6 @@ Here&#39;s some important information...
       <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/talk/ichg2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instructor at the *4th Kyoto Course and Symposium on Bioinformatics for Next Generation Sequencing with Applications in Human Genetics*.</title>
-      <link>/teaching/kyoto2016/</link>
-      <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/kyoto2016/</guid>
       <description></description>
     </item>
     

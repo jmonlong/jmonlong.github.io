@@ -52,11 +52,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/post/widgets/">
+  <link rel="canonical" href="/talk/gsptopmed2020/">
 
   
 
-  <title>Customizing the homepage with widgets | Jean Monlong</title>
+  <title>Genotyping structural variants in TOPMed using pangenome graphs | Jean Monlong</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -162,184 +162,128 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
+<div class="article-header">
+  <img src="/img/headers/nyc.jpg" class="article-banner" itemprop="image">
+  
+</div>
+
 
 
   <div class="article-container">
-    <h1 itemprop="name">Customizing the homepage with widgets</h1>
-    
 
-<div class="article-metadata">
-
-  <span class="article-date">
-    
-    <time datetime="2016-04-19 00:00:00 -0400 EDT" itemprop="datePublished">
-      Apr 19, 2016
-    </time>
-  </span>
-
-  
-
-  
-  
-  
-  <span class="article-tags">
-    <i class="fa fa-tags"></i>
-    
-    <a href="/tags/academic">academic</a
-    >, 
-    
-    <a href="/tags/hugo">hugo</a
-    >
-    
-  </span>
-  
-  
-
-  
-  
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpost%2fwidgets%2f"
-         target="_blank">
-        <i class="fa fa-facebook"></i>
-      </a>
-    </li>
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Customizing%20the%20homepage%20with%20widgets&amp;url=%2fpost%2fwidgets%2f"
-         target="_blank">
-        <i class="fa fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpost%2fwidgets%2f&amp;title=Customizing%20the%20homepage%20with%20widgets"
-         target="_blank">
-        <i class="fa fa-linkedin"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpost%2fwidgets%2f&amp;title=Customizing%20the%20homepage%20with%20widgets"
-         target="_blank">
-        <i class="fa fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Customizing%20the%20homepage%20with%20widgets&amp;body=%2fpost%2fwidgets%2f">
-        <i class="fa fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-  
-
-</div>
-
-    <div class="article-style" itemprop="articleBody">
+    <div class="pub-title">
+      <h1 itemprop="name">Genotyping structural variants in TOPMed using pangenome graphs</h1>
+      <span class="pub-authors" itemprop="author">
+        
+      </span>
       
-
-<p>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:</p>
-
-<ul>
-<li>About/biography</li>
-<li>Selected publications</li>
-<li>Recent publications</li>
-<li>Recent news/blog posts</li>
-<li>Projects</li>
-<li>Selected talks</li>
-<li>Recent talks</li>
-<li>Contact</li>
-<li>Custom widget (demonstrated with the <em>teaching</em> example)</li>
-</ul>
-
-<p>The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&rsquo;t need and customize the parameters of the widgets you wish to keep.</p>
-
-<p>The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of <code>+++</code>) for each widget installed in the <code>content/home/</code> folder.</p>
-
-<div class="alert alert-note">
-  <p>By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting <code>detailed_list = true</code> in <code>content/home/publications.md</code>.</p>
-
-</div>
-
-
-<h2 id="add-a-widget-to-the-homepage">Add a widget to the homepage</h2>
-
-<p>To add a widget manually, copy the relevant widget from <code>themes/academic/exampleSite/content/home/</code> to your <code>content/home/</code> folder.</p>
-
-<p>Widget identifiers are set to their respective filenames, so a <code>content/home/about.md</code> widget can be linked from the navigation bar by setting the relevant URL as <code>&quot;#about&quot;</code> in <code>config.toml</code>.</p>
-
-<p>This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.</p>
-
-<h2 id="using-the-custom-widget">Using the custom widget</h2>
-
-<p>You can use the custom widget to create your own home page sections.</p>
-
-<p>Simply duplicate (copy/paste) and rename the example <em>teaching</em> file at <code>content/home/teaching.md</code>. Then edit the section title, weight (refer to <em>Ordering sections</em> below), and content as desired.</p>
-
-<p>You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your <code>config.toml</code>, where the URL will consist of the first title word in lowercase:</p>
-
-<pre><code>[[menu.main]]
-    name = &quot;Research&quot;
-    url = &quot;#research&quot;
-    weight = 10
-</code></pre>
-
-<h2 id="remove-a-widget-from-the-homepage">Remove a widget from the homepage</h2>
-
-<p>If you do not require a particular widget, you can simply delete any associated files from the <code>content/home/</code> folder.</p>
-
-<p>To remove a navigation link from the top of the page, remove the associated <code>[[menu.main]]</code> entry in <code>config.toml</code>.</p>
-
-<h2 id="ordering-widgets">Ordering widgets</h2>
-
-<p>The order that the homepage widgets are displayed in is defined by the <code>weight</code> parameter in each of the files in the <code>content/home/</code> directory. The widgets are displayed in ascending order of their <code>weight</code>, so you can simply edit the <code>weight</code> parameters as desired.</p>
-
+      
+      
     </div>
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Structural variants (SVs) are significant components of genetic diversity and have been associated with diseases, but the technological challenges surrounding their representation and identification make them difficult to study relative to point mutations. Still, thousands of SVs have been characterized, and catalogs continue to improve with new technologies. In parallel, variation graphs have been proposed to represent human pangenomes, offering reduced reference bias and better mapping accuracy than linear reference genomes. We contend that variation graphs provide an effective means for leveraging SV catalogs for short-read SV genotyping experiments. We extended vg (a software toolkit for working with variation graphs) to support SV genotyping. We show that it is capable of genotyping insertions, deletions and inversions, even in the presence of small errors in the location of the SVs breakpoints. We benchmarked vg against state-of-the-art SV genotypers using three high-quality sequence-resolved SV catalogs generated by recent studies ranging up to 97,368 variants in size. We find that vg systematically produces the best genotype predictions in all datasets. It is also capable of fine-tuning the breakpoints of a large proportion of SV using graph augmentation from the mapped reads. The genotyping pipeline was optimized and written in the WDL workflow language to facilitate the analysis of large cohorts. The workflow is available in Dockstore and can be run on different cloud computing platforms. Within the DataSTAGE project, we have already genotyped SVs in a subset of the TOPMed dataset to estimate variant frequencies in a diverse population and provide genotypes for association studies within TOPMed.</p>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            Feb 12, 2020
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
+          <div class="col-xs-12 col-sm-9">
+            <a href="https://nhlbiwgs.org/" target="_blank">
+            GSP-TOPMed Analysis Workshop
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
+          <div class="col-xs-12 col-sm-9">New York City, NY, USA</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+<a class="btn btn-primary btn-outline" href="/slides/GSPTOPMed2020-NY-JeanMonlong.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
   </div>
-
-</article>
-
-
-
-<div class="article-container">
-  <h3>Related</h3>
-  <ul>
-    
-    <li><a href="/post/managing-content/">Managing content</a></li>
-    
-  </ul>
 </div>
-
 
 <div class="container">
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="/post/managing-content/"><span
-      aria-hidden="true">&larr;</span> Managing content</a></li>
+    <li class="previous"><a href="/talk/gi2019/"><span
+      aria-hidden="true">&larr;</span> Genotyping structural variants in pangenome graphs using the vg toolkit</a></li>
     
 
-    
-    <li class="next"><a href="/post/getting-started/">Getting started with the Academic framework for Hugo <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
-
-</div>
-
-<div class="article-container">
-  
 
 </div>
 
@@ -387,6 +331,13 @@
       <script>hljs.initHighlightingOnLoad();</script>
     
 
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
     
