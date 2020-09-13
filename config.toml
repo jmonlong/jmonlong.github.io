@@ -2,6 +2,7 @@ baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Jean Monlong"
 copyright = "&copy; 2020 Jean Monlong"
 theme = "hugo-academic"
+publishDir = "docs"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
