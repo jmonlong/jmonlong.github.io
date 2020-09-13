@@ -1,0 +1,462 @@
+\documentclass[11pt,a4paper]{cv}
+
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb}
+\usepackage{bibentry}
+
+%%
+%% Adapted from site.perso.mika.free.fr/cvEnLigne/cv/monCVLaTex/en/cv-en.tex
+%%
+
+% Langue
+\Language{francais}
+
+% Metadata
+\hypersetup{
+  pdfauthor   = {Jean MONLONG},
+  pdftitle    = {Resume},
+  %	pdfsubject  = {},
+  %	pdfkeywords = {},
+  pdfcreator  = {PDFLaTeX},
+  pdfproducer = {PDFLaTeX}
+}
+
+\definecolor{urlcolor}{rgb}{0, 0, 0.5}
+\Detailed{1}
+
+% Marges
+\geometry{
+  hmargin=2cm,
+  vmargin=2.3cm
+}
+
+% Largeur de la colonne de gauche
+\setlength{\colwidth}{2.5cm}
+
+% Espacements
+\smallskipamount=1mm	% Espace entre les différents entrées d'une section
+ \medskipamount=3mm		% Espace entre les sections
+\bigskipamount=5mm		% Espace entre le chapeau et l'objectif ou la première section
+
+\begin{document}
+
+\begin{heading}
+  \Name{Jean MONLONG}
+  \Address{Room 507A, Engineering 2, 1156 High St\\
+    Santa Cruz, CA 95064, USA}
+  %%\Telephone{}
+  \Email{jmonlong@ucsc.edu}
+  %% \Nationality{French}
+  %% \DateOfBirth{}
+  %%\Age{}
+  \Gender{M}	% M = Masculin, F = Féminin. Est utilisé pour savoir s'il faut écrire Né ou Née par exemple ;-)
+  % \MaritalStatus{}
+  %%\Mobility{Driver's license}
+  %% \Photo{Photo.jpg}
+  \Webpage{https://jmonlong.github.io/}
+\end{heading}
+
+\vspace{1cm}
+% Objectif (optionnel)
+%\begin{objective}
+%  Have fun
+%\end{objective}
+
+\medskip
+
+\begin{section}{Expériences professionnelles et projets}
+  \begin{entry}
+    \Date{2018 -- }
+    \Place{\href{https://www.ucsc.edu/}{University of California Santa Cruz}}
+    \Locality{Santa Cruz}
+    \Country{États-Unis}
+    \Activity{Postdoctorat avec Benedict Paten sur l'utilisation des \href{https://github.com/vgteam/vg}{graphes de variations}}
+  \end{entry}
+  \begin{entry}
+    \Date{2012 -- 2018}
+    \Place{\href{http://www.computationalgenomics.ca/BourqueLab/}{Bourque lab}}
+    \Locality{\href{http://www.mcgillgenomecentre.org/}{McGill Genome Centre}, Montreal}
+    \Country{Canada}
+    \Activity{Projet de doctorat. Implémention d'une \href{https://github.com/jmonlong/PopSV}{méthode de détection de CNV} à partir de séquencage de génome. Application sur de larges cohortes de génomes normaux ou de malades}
+  \end{entry}
+  \begin{entry}
+    \Date{2017}
+    \Duration{3 mois}
+    \Place{\href{http://www.genome.med.kyoto-u.ac.jp/index-en.html}{Center for Genomic Medicine}}
+    \Locality{Kyoto}
+    \Country{Japon}
+    \Activity{En échange dans le laboratoire du Dr. Matsuda, j'ai contribué à leur projets d'assemblage et séquencage de génomes japonais}
+  \end{entry}
+  \begin{entry}
+    \Date{2017}
+    \Duration{1.5 mois}
+    \Place{\href{https://www.genomicsengland.co.uk/}{Genomics England}}
+    \Locality{Londres}
+    \Country{Royaume-Uni}
+    \Activity{En visite dans l'équipe bioinformatique du Dr. Rendon, j'ai contribué à leur pipeline d'analyse de variants structuraux}
+  \end{entry}
+  \begin{entry}
+    \Date{2011 -- 2012}
+    \Duration{1 an}
+    \Place{\href{http://www.pasteur.crg.es}{Center for Genomic Regulation (CRG)}}
+    \Locality{Barcelone}
+    \Country{Espagne}
+    \Activity{Projet de fin d'études avec \href{http://big.crg.cat/computational_biology_of_rna_processing}{Dr. Roderic Guig\'{o}}. Analyse de l'épissage alternatif et de \href{https://github.com/jmonlong/sQTLseekeR}{QTLs associes} à partir de données RNA-seq. Participation aux projets \href{http://www.geuvadis.org/web/geuvadis/RNAseq-project}{Geuvadis} et \href{http://www.gtexportal.org/home/}{GTEx}}
+  \end{entry}
+  \begin{entry}
+    \Date{2010}
+    \Duration{3 mois}
+    \Place{\href{http://www.neomades.com/}{Neomades}}
+    \Locality{Bidart}
+    \Country{France}
+    \Activity{Impl\'ementation d'un module Java pour leur produit principal}
+  \end{entry}
+  \begin{entry}
+    \Date{2010}
+    \Duration{1 mois}
+    \Place{\href{http://ensimag.grenoble-inp.fr/}{Ensimag}}
+    \Locality{Grenoble}
+    \Country{France}
+    \Activity{Estimation bayésienne du taux de sur-diagnostique du cancer du sein en collaboration avec l'hôpital de La Tronche}
+  \end{entry}
+\end{section}
+
+\medskip
+
+\begin{section}{Éducation}
+  \begin{entry}
+    \Date{2012 -- 2018}
+    \Place{\href{http://www.mcgill.ca/}{Université McGill}}
+    \Locality{Montréal}
+    \Country{Canada}
+    \Activity{{\bf Doctorat en Génétique Humaine} avec \href{http://www.computationalgenomics.ca/BourqueLab/}{Dr. Guillaume Bourque}}
+  \end{entry}
+  \begin{entry}
+    \Date{2010 -- 2011}
+    \Place{\href{http://www.fme.upc.edu/}{Universitat Politècnica de Catalunya}}
+    \Locality{Barcelone}
+    \Country{Espagne}
+    \Activity{{\bf Échange international} \`a la Faculté de Mathématiques et Statistiques}
+  \end{entry}
+  \begin{entry}
+    \Date{2008 -- 2010}
+    \Place{\href{http://ensimag.grenoble-inp.fr/}{Ensimag}}
+    \Locality{Grenoble}
+    \Country{France}
+    \Activity{Diplôme d'ingénieur en {\bf Informatique} et {\bf Mathématiques}, spécialité {\bf bioinformatique}}
+  \end{entry}
+  \begin{entry}
+    \Date{2006 -- 2008}
+    \Place{\href{http://montaigne-bordeaux.fr/}{Lycée Michel Montaigne}}
+    \Locality{Bordeaux}
+    \Country{France}
+    \Activity{Classes préparatoires aux Grandes Écoles. Mathématiques and Physique}
+  \end{entry}
+  \begin{entry}[]
+    \Date{2003 -- 2006}
+    \Place{\href{http://www.lyceedenavarre.fr/}{Lycée de Navarre}}
+    \Locality{St Jean-Pied-de-Port, 64}
+    \Country{France}
+    % \Activity{Lycée en classe scientifique}
+  \end{entry}
+\end{section}
+
+\medskip
+
+\begin{section}{Expertise}
+  \begin{entry}
+    \Activity{{\Large R}, {\scriptsize Java}, {\scriptsize C}, {\large Bash}, Python, {\scriptsize AWK}, {\scriptsize Perl}, {\scriptsize D3/Javascript/HTML/CSS}}
+  \end{entry}
+  \begin{entry}
+    \Activity{Git, {\small Linux}, {\small High Performance Computing}, {\small LaTeX}, R/Markdown, Emacs}
+  \end{entry}
+  \begin{entry}
+    \Activity{{\large Bioinformatique}, {\Large Génomique}, {\scriptsize Transcriptomique}}
+  \end{entry}
+  \begin{entry}
+    \Activity{Langues: Français; anglais (courant); espagnol (basique).}
+  \end{entry}
+\end{section}
+
+\newpage
+
+
+
+
+% %% \begin{section}{Selected Scholarships and Awards}
+% \begin{section}{Scholarships and Awards}
+%   \begin{entry}
+%     \Date{2018}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Department Activity Award. Human Genetics Dept, McGill University}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2017}
+%     % \Place{JASSO}
+%     % \Locality{Japan}
+%     \Activity{Student Exchange Support Program. JASSO, Japan}
+%   \end{entry}
+%   \begin{entry}
+%     \Date{2017}
+%     % \Locality{Graduate and Postdoctoral Studies}
+%     % \Place{McGill University}
+%     \Activity{Graduate Mobility Award. Graduate and Postdoctoral Studies, McGill University}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2017}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Oral Presentation, Honorable Mention. Human Genetics Dept's Research Day, McGill University}
+%   \end{entry}
+%   \begin{entry}
+%     \Date{2017}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Excellence Award. Human Genetics Dept, McGill University}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2013-2016}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Graduate Research Enhancement and Travel Award funding attendance to five international conferences. Human Genetics Dept, McGill University}
+%   \end{entry}
+%   \begin{entry}
+%     \Date{2015}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Excellence Award. Human Genetics Dept, McGill University}
+%   \end{entry}
+%   % \begin{entry}[\detailedOnly]
+%   %   \Date{2016}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Graduate Research Enhancement and Travel Award for the {\it International Congress of Human Genetics} in Kyoto, Japan}
+%   % \end{entry}
+%   % \begin{entry}[\detailedOnly]
+%   %   \Date{2015}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Graduate Research Enhancement and Travel Award for the {\it European Society of Human Genetics} conference in Glasgow, Scotland}
+%   % \end{entry}
+%   % \begin{entry}
+%   %   \Date{2015}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Excellence award}
+%   % \end{entry}
+%   % \begin{entry}[\detailedOnly]
+%   %   \Date{2014}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Graduate Research Enhancement and Travel Award for the {\it Genome Informatics} conference in Cambridge (UK)}
+%   % \end{entry}
+%   \begin{entry}
+%     \Date{2014}
+%     % \Locality{Human Genetics Dept}
+%     % \Place{McGill University}
+%     \Activity{Best oral presentation. Human Genetics Dept's Research Day, McGill University}
+%   \end{entry}
+%   % \begin{entry}[\detailedOnly]
+%   %   \Date{2013}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Graduate Research Enhancement and Travel Award for the {\it Mobile Genetic Elements and Genome Evolution} Keystone conference in Santa Fe, New Mexico (USA)}
+%   % \end{entry}
+%   % \begin{entry}[\detailedOnly]
+%   %   \Date{2013}
+%   %   \Locality{Human Genetics Dept}
+%   %   \Place{McGill University}
+%   %   \Activity{Graduate Research Enhancement and Travel Award for the {\it Mobile DNA in Mammalian Genomes} FASEB conference in Big Sky, Montana (USA)}
+%   % \end{entry}
+% \end{section}
+
+% %% \newpage
+
+
+
+%% \begin{section}{Publications}
+\begin{section}{Sélection d'article scientifiques}
+\bibliographystyle{plain}
+\nobibliography{JM-publication.bib}
+  \begin{entry}
+    \Date{2019}
+    \Activity{\bibentry{Hickey654566}}
+  \end{entry}
+  \begin{entry}
+    \Date{2018}
+    \Activity{\bibentry{Monlong2018reppopsv}}
+  \end{entry}
+  \begin{entry}
+    \Date{2018}
+    \Activity{\bibentry{Monlong2018}}
+  \end{entry}
+  \begin{entry}
+    \Date{2017}
+    \Activity{\bibentry{Arseneault2017}}
+  \end{entry}
+  \begin{entry}
+    \Date{2015}
+    \Activity{\bibentry{Mele2015}}
+  \end{entry}
+  \begin{entry}
+    \Date{2014}
+    \Activity{\bibentry{Monlong2014}}
+  \end{entry}
+  \begin{entry}
+    \Date{2013}
+    \Activity{\bibentry{Lappalainen2013}}
+  \end{entry}
+  \begin{entry}[\detailedOnly]
+    \Date{2011}
+    \Activity{\bibentry{Seigneurin2011}}
+  \end{entry}
+\end{section}
+
+%% \begin{section}{Selected Scientific Presentations}
+\begin{section}{Sélection de présentations scientifiques}
+  \begin{entry}
+    \Date{2017}
+    \Locality{Québec}
+    \Place{Quebec, Canada}
+    \Activity{Présentation orale, {\it 6th Annual Canadian Human and Statistical Genetics Meeting}}
+  \end{entry}
+  \begin{entry}
+    \Date{2016}
+    \Locality{Kyoto}
+    \Place{Japon}
+    \Activity{Présentation orale, {\it 13th International Congress of Human Genetics}}
+  \end{entry}
+  % \begin{entry}
+  %   \Date{2015}
+  %   \Locality{Vancouver}
+  %   \Place{Canada}
+  %   \Activity{Présentation orale, {\it 4rd Annual Canadian Human and Statistical Genetics Meeting}}
+  % \end{entry}
+  \begin{entry}
+    \Date{2014}
+    \Locality{Cambridge}
+    \Place{Royaume-Uni}
+    \Activity{Présentation orale à la conférence {\it Genome Informatics}}
+  \end{entry}
+\end{section}
+
+
+% %% \begin{section}{Selected Scientific Presentations}
+% \begin{section}{Other Scientific Presentations}[\detailedOnly]
+%   \begin{entry}
+%     \Date{2017}
+%     \Locality{Montreal}
+%     \Place{Quebec, Canada}
+%     \Activity{{\bf Oral} presentation, Human Genetics Dept. Research Day}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2016}
+%     \Locality{Barcelona}
+%     \Place{Spain}
+%     \Activity{{\bf Poster} presentation, {\it European Society of Human Genetics} conference. Best Poster Award candidate}
+%   \end{entry}
+%   \begin{entry}
+%     \Date{2015}
+%     \Locality{Glasgow}
+%     \Place{Scotland}
+%     \Activity{{\bf Poster} presentation, {\it European Society of Human Genetics} conference}
+%   \end{entry}
+%   \begin{entry}
+%     \Date{2014}
+%     \Locality{Montreal}
+%     \Place{Quebec, Canada}
+%     \Activity{{\bf Oral} presentation, Human Genetics Dept. Research Day}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2014}
+%     \Locality{Victoria}
+%     \Place{British Columbia, Canada}
+%     \Activity{{\bf Poster} presentation at the {\it 3rd Annual Canadian Human and Statistical Genetics Meeting}}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2014}
+%     \Locality{Santa Fe}
+%     \Place{New Mexico, USA}
+%     \Activity{{\bf Poster} presentation at the {\it Mobile Genetic Elements and Genome Evolution} Keystone conference}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2013}
+%     \Locality{Esterel}
+%     \Place{Quebec, Canada}
+%     \Activity{{\bf Poster} presentation at the {\it 2nd Annual Canadian Human and Statistical Genetics Meeting}}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2013}
+%     \Locality{Big Sky}
+%     \Place{Montana, USA}
+%     \Activity{{\bf Poster} presentation at the {\it Mobile DNA in Mammalian Genomes} FASEB conference}
+%   \end{entry}
+%   \begin{entry}[\detailedOnly]
+%     \Date{2011}
+%     \Locality{Barcelona}
+%     \Place{Spain}
+%     \Activity{{\bf Poster} presentation at the  {\it XIIIth Spanish Biometry Conference and 3rd Ibero-American Biometry Meeting}}
+%   \end{entry}
+
+% \end{section}
+
+%% \clearpage
+\bigskip
+
+\begin{section}{Autres activités}
+  % \begin{entry}[\detailedOnly]
+  %   \Date{2018}
+  %   \Place{IRCM, Montreal}
+  %   \Activity{Gave a \href{https://github.com/jmonlong/MonBUG18_RMarkdown}{short seminar about R Markdown} at the \href{http://www.monbug.ca/}{Montreal Bioinformatics User Group}}
+  % \end{entry}
+  \begin{entry}
+    \Date{2013-2018}
+    \Place{Université McGill}
+    \Activity{Organisateur et instructeur de 8 workshops {\it ``Introduction to R and Bioinformatics''} workshops pour les étudiants en Génétique Humaine}
+  \end{entry}
+  \begin{entry}
+    \Date{2014-2017}
+    \Place{Université McGill}
+    \Activity{VP Communication dans la \href{https://hgssmcgill.wordpress.com/}{Société des Étudiants de Génétique Humaine}}
+  \end{entry}
+  % \begin{entry}[\detailedOnly]
+  %   \Date{2017}
+  %   \Place{Universite de Montreal}
+  %   \Activity{Participated to a Bio-Hackaton. Our 24h project was to detect extending filaments from 3D cell imaging}
+  % \end{entry}
+  % \begin{entry}[\detailedOnly]
+  %   \Date{2017}
+  %   \Place{IRCM, Montreal}
+  %   \Activity{Gave a \href{https://github.com/jmonlong/MonBUG17_Gviz}{short seminar about the Gviz package} at the \href{http://www.monbug.ca/}{Montreal Bioinformatics User Group}}
+  % \end{entry}
+  \begin{entry}[\detailedOnly]
+    \Date{2016}
+    \Place{Kyoto, Japon}
+    \Activity{Instructeur au {\it ``4th Kyoto Course and Symposium on Bioinformatics for Next Generation Sequencing with Applications in Human Genetics''}}
+  \end{entry}
+  % \begin{entry}[\detailedOnly]
+  %   \Date{2015}
+  %   \Place{Universite de Montreal}
+  %   \Activity{Participated to a Bio-Hackaton. Our 24h project was to develop interactive visualization of gene expression in cancer samples}
+  % \end{entry}
+  \begin{entry}
+    \Date{2014}
+    \Place{Université McGill}
+    \Activity{Assistant à l'enseignement du cours {\it ``Advanced Statistical Concepts in Genetic and Genomic Analysis''}}
+  \end{entry}
+  % \begin{entry}
+  %   \Date{2014}
+  %   \Place{McGill University}
+  %   \Activity{Organizer of a four-days {\it R and Bioinformatics} workshop for System Biology graduate students}
+  % \end{entry}
+\end{section}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

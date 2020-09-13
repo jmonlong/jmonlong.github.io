@@ -1,0 +1,19 @@
++++
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Teaching"
+subtitle = ""
+widget = "custom"
+
+# Order that this section will appear in.
+weight = 5
+
++++
+
+- 2016 Kyoto.  Instructor at the 4th Kyoto Course and Symposium on Bioinformatics for Next Generation Sequencing with Applications in Human Genetics.
+- 2014: Teaching Assistant for the *Advanced Statistical Concepts in Genetic and Genomic Analysis* course. Human Genetics Dpt, McGill University.
+- 2014: Organizer of a four-days R and Bioinformatics workshop for graduate students from the System Biology (McGill University).

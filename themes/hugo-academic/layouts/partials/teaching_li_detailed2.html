@@ -1,0 +1,42 @@
+<li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-university pub-icon" aria-hidden="true"></i>
+  <span class="talk-title" itemprop="name">{{ .Title | markdownify }}</span>
+  <p>
+    {{ if .Params.abstract_short }}
+    {{ .Params.abstract_short | markdownify }}
+    </br>
+    {{ end }}
+    {{ .Date.Format $.Site.Params.date_format }},
+    {{ if .Params.event_short }}
+    {{ .Params.event_short | markdownify }}
+    {{ else if .Params.event }}
+    {{ .Params.event | markdownify }}
+    {{ end }}
+    </br>
+    <span class="talk-location">{{ .Params.location | markdownify }}</span>
+
+    {{ partial "teaching_links" (dict "content" . "is_list" 1) }}
+  </p>
+</li>
+
+<!-- <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork"> -->
+<!--   <div class="row"> -->
+
+<!--     <h3 class="article-title" itemprop="name"> -->
+<!--       <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a> -->
+<!--     </h3> -->
+
+<!--     <div class="talk-event"> -->
+<!--       {{ if .Params.event }} -->
+<!--         {{ .Params.event | markdownify }} -->
+<!--       {{ else if .Params.event_short }} -->
+<!--         {{ .Params.event_short | markdownify }} -->
+<!--       {{ end }} -->
+<!--     </div> -->
+
+<!--     <div class="talk-links"> -->
+<!--       {{ partial "talk_links" (dict "content" . "is_list" 1) }} -->
+<!--     </div> -->
+
+<!--   </div> -->
+<!-- </div> -->

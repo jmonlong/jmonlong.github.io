@@ -1,0 +1,105 @@
+---
+# Publications widget.
+# This widget displays recent publications from `content/publication/`.
+
+date: "2016-04-20T00:00:00"
+draft: false
+
+title: "Selected Publications"
+subtitle: ""
+widget: "custom_vertical"
+
+# Order that this section will appear in.
+weight: 2
+
+# Number of publications to list.
+count: 10
+
+# Show publication details (such as abstract)? (true/false)
+detailed_list: false
+
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r readbib}
+library(RefManageR)
+library(magrittr)
+library(dplyr)
+
+bib <- ReadBib('../../misc/JM-publication.bib')
+
+convertBold <- function(cc){
+  sapply(cc, function(ccc){
+    if(grepl('\\\\bf', ccc)){
+      ccc %>% gsub('\\\\bf', '', .) %>% paste0('<strong>', ., '</strong>') %>% return
+    } else {
+      return(ccc)
+    }
+  })
+}
+convertStars <- function(cc){
+  cc %>% gsub('\\*', '\\\\*', .)
+}
+bib.df = lapply(bib, function(bibi){
+  data.frame(title=bibi$title %>% gsub('\\{','',.) %>% gsub('\\}','',.),
+             year=as.numeric(bibi$year),
+             doi=ifelse(is.null(bibi$doi), NA, bibi$doi),
+             journal=gsub('.*\\}\\{(.*)\\}', '\\1', bibi$journal),
+             author=bibi$author %>% as.character %>% convertBold %>% convertStars %>% paste(collapse=', '),
+             keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
+             preprintdoi=ifelse(is.null(bibi$preprintdoi), '', bibi$preprintdoi),
+             scripts=ifelse(is.null(bibi$scripts), '', bibi$scripts),
+             stringsAsFactors=FALSE)
+})
+bib.df = do.call(rbind, bib.df)
+bib.df %<>% mutate(rk=1:n())
+```
+
+```{r outlist, results='asis'}
+htmlCit <- function(df){
+  ## Button linking to the preprint
+  preprintdoi = ''
+  if(df$preprintdoi != ''){
+    preprintdoi = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="https://doi.org/', df$preprintdoi, '">Preprint</a>')
+  }
+  ## Button linking to the repo with scripts
+  scripts = ''
+  if(df$scripts != ''){
+    scripts = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="', df$scripts, '">Data/Code</a>')
+  }
+  ## Start a "row"
+  cat('<li itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>')
+  cat('<div class="row">')
+  ## Article info and links
+  cat('<div class="col-md-10"><span itemprop="name">', df$title, '. <a target=\"_blank\" href="https://doi.org/',
+      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', preprintdoi, scripts, '</div>', sep='')
+  ## Badges
+  cat('<div class="col-md-2">')
+  cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$doi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
+  cat(paste0('<div data-badge-type="2" data-doi="',df$doi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-badge-popover="left" data-link-target="_blank"></div>'))
+  if(df$preprintdoi != ''){
+  cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$preprintdoi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
+  cat(paste0('<div data-badge-type="2" data-doi="',df$preprintdoi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-badge-popover="left" data-link-target="_blank"></div>'))
+  }
+  cat('</div>')
+  ## End article "row"
+  cat('</div>')
+  cat('</li>')
+  data.frame()
+}
+
+cat('<ul class="fa-ul">')
+dump = bib.df %>% filter(!grepl('Under review', journal), !grepl('no-website', keywords)) %>% group_by(desc(year),rk,title) %>% do(htmlCit(.))
+cat('</ul>')
+
+## cat('<h3>Consortia publications</h3>\n<ul class="fa-ul">')
+## dump = bib.df %>% filter(!grepl('Under review', journal), grepl('no-website', keywords)) %>% group_by(desc(year),rk,title) %>% do(htmlCit(.))
+## cat('</ul>')
+
+```
+
+And here is the [PDF of my PhD thesis](https://github.com/jmonlong/phdthesis/releases/download/final/Monlong_Jean_HumanGenetics_thesis.pdf) on "*Population-Based Approaches to Characterize Copy Number Variation from Whole-Genome Sequencing in Healthy Individuals and Disease Cohorts*" ([LaTeX source](https://github.com/jmonlong/phdthesis)).

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jean Monlong</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jean Monlong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jean Monlong</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genotyping structural variants in TOPMed using pangenome graphs</title>
+      <link>/talk/gsptopmed2020/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/gsptopmed2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
+      <link>/talk/gi2019/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/gi2019/</guid>
+      <description>@JMonlong is presenting genotyping of structural variances in graph genomes using vg. #gi2019
+Preprint: https://t.co/7R7JJ0CrCu
+Code: https://t.co/e6nRfAbGSj pic.twitter.com/te1eVRSysg
+&amp;mdash; Martin Steinegger (마틴 스타이네거) (@thesteinegger) November 7, 2019  @JMonlong has some beef with the VCF format (lol don&amp;#39;t we all!): multiple equivalent representation, over-simplification, impractical; he suggests representations based on mapping directly to the assembly #gi2019
+&amp;mdash; Daniel Standage (@byuhobbes) November 7, 2019  Nice talk from @JMonlong about SV genotyping using VG @BenedictPaten at #gi2019 .</description>
+    </item>
+    
+    <item>
+      <title>Genome variation graphs with the vg toolkit</title>
+      <link>/talk/grcgiab2019/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/grcgiab2019/</guid>
+      <description>#ASHG19 Jean Monlong presenting overview of genome graph rep package vg GRC session pic.twitter.com/TkBWc8lI9v
+&amp;mdash; Chris Boles (@tchrisboles) October 15, 2019  #ASHG19 JM: vg handling large sets of genomes pic.twitter.com/Xo01Dlf6pZ
+&amp;mdash; Chris Boles (@tchrisboles) October 15, 2019  #ASHG19 JM: vg graph viewer pic.twitter.com/EexFptZWnZ
+&amp;mdash; Chris Boles (@tchrisboles) October 15, 2019  </description>
+    </item>
+    
+    <item>
+      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
+      <link>/talk/nccb2019/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/nccb2019/</guid>
+      <description>Jean Monlong from @UCSC :
+Genotyping Structural Variants in Pangenome Graphs Using the VG Toolkit #nccb2019 pic.twitter.com/hjHEzJr6Cj
+&amp;mdash; NCCB Symposium (@NorCalCompBio) October 12, 2019  </description>
+    </item>
+    
+    <item>
+      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
+      <link>/talk/research-day-2017/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/research-day-2017/</guid>
+      <description>🏆 Honorable Mentions for Oral Presentation.</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
+      <link>/talk/chsgm2017/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/chsgm2017/</guid>
+      <description>@JMonlong talks about genome-wide characterization of copy number variants in epilepsy patients #genetics17
+&amp;mdash; Mehran Karimzadeh (@MKarimzade) April 24, 2017  Now: @JMonlong: Genome-wide Characterization of Copy Number Variants in Epilepsy Patients #genetics17 https://t.co/Ip7q3KFDsN
+&amp;mdash; Michael Hoffman (@michaelhoffman) April 24, 2017  JM validates PopSV using a twin dataset. PopSV outperforms commonly used tools in detecting copy number variation #genetics17
+&amp;mdash; Mehran Karimzadeh (@MKarimzade) April 24, 2017  JM: Rare exonic CNVs enriched and more recurrent in epilepsy patients compared to controls.</description>
+    </item>
+    
+    <item>
+      <title>Global patterns of copy number variation in humans from a population-based analysis</title>
+      <link>/talk/ichg2016/</link>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ichg2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
+      <link>/talk/chsgm2015/</link>
+      <pubDate>Sun, 19 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/chsgm2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population-based Detection of Structural Variants in Normal and Aberrant Genomes</title>
+      <link>/talk/genomeinformatics2014/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/genomeinformatics2014/</guid>
+      <description>Jean Monlong SV detection in normal and aberrant genomes #gi2014
+&amp;mdash; Karyn Meltz (@karynotype) September 23, 2014  JM PopSV: population based approach. Use a set of reference experiments to detect abnormal patterns #gi2014
+&amp;mdash; Karyn Meltz (@karynotype) September 23, 2014  Monlong: rather than throw out findings in hard-to-map genome tracts, embrace them -- at population scale -- to call elusive SVs. #gi2014
+&amp;mdash; Nathan Pearson (@GenomeNathan) September 23, 2014  Jean Monlong: importance of normalization.</description>
+    </item>
+    
+    <item>
+      <title>Population-based detection of Structural Variants in normal and aberrant genomes.</title>
+      <link>/talk/research-day-2014/</link>
+      <pubDate>Thu, 05 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/research-day-2014/</guid>
+      <description>🏆 Best Oral Presentation.</description>
+    </item>
+    
+  </channel>
+</rss>

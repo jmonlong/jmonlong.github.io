@@ -1,0 +1,42 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $teachings_len := len (where $.Data.Pages "Type" "teaching") }}
+
+<!-- Custom widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-12 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-md-12">
+    {{ with $page.Content }}
+    <div class="article-style" itemprop="articleBody">{{ . | markdownify }}</div>
+    {{ end }}
+
+    {{ range (where $.Data.Pages "Type" "teaching").GroupByDate "2006" }}
+    <div class="row" id="teaching_list">
+      <div class="col-md-2">
+        <h3 class="teaching-year">{{ .Key }}</h3>
+      </div>
+      <div class="col-md-10">
+        <ul class="compact fa-ul">
+	  
+          {{ range .Pages.ByDate.Reverse }}
+          <li>
+            <i class="fa-li fa fa-university" aria-hidden="true"
+               style="color:#03396c;font-size:80%;padding-top:6px;"></i>
+	    {{ partial "teaching_li_detailed2" . }}
+            <!-- {{ .Title }} -->
+            <!-- <p>{{ partial "teaching_links" (dict "content" . "is_list" 1) }}</p> -->
+          </li>
+          {{ end }}
+	  
+        </ul>
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</div>
