@@ -1,17 +1,9 @@
-This repo contains the content of my personal page (https://github.com/jmonlong/jmonlong.github.io) hosted at https://jmonlong.github.io/.
-As far as I remember, either at the time or still now, the static files had to be in the root folder of https://github.com/jmonlong/jmonlong.github.io.
-A way to use blogdown was then to setup another repo (this one) with the content and compile it in a `public` folder that is actually a sub-module linking to https://github.com/jmonlong/jmonlong.github.io.
-
-To setup the `public` folder I ran: `git submodule add -b master git@github.com:jmonlong/jmonlong.github.io.git public`
-
-Then, when I want to update the content, I do:
+This repo contains the content of my personal page hosted at https://jmonlong.github.io/.
+It's a [blogdown](https://bookdown.org/yihui/blogdown/) website so it can be built using:
 
 ```
-make pull
-## update the content
-make serve
-MSG="a commit message" make deploy
+Rscript -e "blogdown::build_site()"
 ```
 
-Note: It looks like this 2-repo setup is not necessary anymore. 
-I'll try to switch to a simpler 1-repo system soon.
+I write my CV in latex, see the [misc](misc) folder which contains the BibTeX library with my publications and the LaTeX document and style.
+Note: the BibTeX file is also used for the ["Selected  Publications" section](content/home/publications.Rmd) of the website (using the [RefManageR package](https://cran.r-project.org/web/packages/RefManageR/index.html))
