@@ -174,6 +174,16 @@ K~Shafin, T~Pesout, R~Lorig-Roach, M~Haukness, HE~Olsen, ..., {\bf J}~{\bf
 \newblock {\em \href{https://www.nature.com/articles/s41587-020-0503-6}{Nature
   Biotechnology}}, May 2020.
 
+\bibitem{Giraffe2020preprint}
+J~Sir{\'e}n*, {\bf J}~{\bf Monlong*}, X~Chang*, AM~Novak*, JM~Eizenga*,
+  C~Markello, JA~Sibbesen, G~Hickey, P~Chang, A~Carroll, D~Haussler,
+  E~Garrison, and B~Paten.
+\newblock Genotyping common, large structural variations in 5,202 genomes using
+  pangenomes, the giraffe mapper, and the vg toolkit.
+\newblock {\em
+  \href{https://www.biorxiv.org/content/early/2020/12/06/2020.12.04.412486}{bioRxiv}},
+  2020.
+
 \bibitem{Hoen2013}
 PC~t~Hoen, et~al., and {\bf The Geuvadis}~{\bf Consortium}.
 \newblock {Reproducibility of high-throughput mRNA and small RNA sequencing
