@@ -23,7 +23,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "misc"]
 
 [params]
   name = "Jean Monlong"
-  role = "Postdoctoral researcher"
+  role = "Postdoctoral researcher. he/him"
   organization = "University of California, Santa Cruz"
   organization_url = "https://cgl.genomics.ucsc.edu/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
