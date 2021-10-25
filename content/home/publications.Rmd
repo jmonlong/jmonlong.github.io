@@ -44,11 +44,14 @@ convertBold <- function(cc){
 convertStars <- function(cc){
   cc %>% gsub('\\*', '\\\\*', .)
 }
+
 bib.df = lapply(bib, function(bibi){
   data.frame(title=bibi$title %>% gsub('\\{','',.) %>% gsub('\\}','',.),
              year=as.numeric(bibi$year),
              doi=ifelse(is.null(bibi$doi), NA, bibi$doi),
-             journal=gsub('.*\\}\\{(.*)\\}', '\\1', bibi$journal),
+             journal=ifelse(!is.null(bibi$journal),
+                            gsub('.*\\}\\{(.*)\\}', '\\1', bibi$journal),
+                            gsub('.*\\}\\{(.*)\\}', '\\1', bibi$booktitle)),
              author=bibi$author %>% as.character %>% convertBold %>% convertStars %>% paste(collapse=', '),
              keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
              preprintdoi=ifelse(is.null(bibi$preprintdoi), '', bibi$preprintdoi),

@@ -45,7 +45,7 @@ M~Dankner, M~Caron, T~Al-Saadi, W~Yu, V~Ouellet, R~Ezzeddine, SM~Maritan,
   expression drives recurrence of surgically resected brain metastases.
 \newblock {\em
   \href{https://academic.oup.com/neuro-oncology/advance-article/doi/10.1093/neuonc/noab002/6089125}{Neuro-Oncology}},
-  page noab002, January 2021.
+  January 2021.
 
 \bibitem{Ferreira2014}
 PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
@@ -98,6 +98,15 @@ S~Jessa, A~Blanchet-Cohen, B~Krug, M~Vladoiu, M~Coutelier, D~Faury, B~Poreau,
 \newblock Stalled developmental programs at the root of pediatric brain tumors.
 \newblock {\em \href{https://www.nature.com/articles/s41588-019-0531-7}{Nature
   Genetics}}, 2019.
+
+\bibitem{Kuzmin2021}
+E~Kuzmin, {\bf J}~{\bf Monlong}, C~Martinez, H~Kuasne, CL~Kleinman,
+  J~Ragoussis, G~Bourque, and M~Park.
+\newblock Inferring {Copy} {Number} from {Triple}-{Negative} {Breast} {Cancer}
+  {Patient} {Derived} {Xenograft} {scRNAseq} {Data} {Using} {scCNA}.
+\newblock In {\em
+  \href{https://link.springer.com/10.1007/978-1-0716-1740-3_16}{Mapping Genetic
+  Interactions}}, volume 2381, pages 285--303. Springer US, 2021.
 
 \bibitem{Lappalainen2013}
 T~Lappalainen, M~Sammeth*, MR~Friedlander*, PA~t Hoen*, {\bf J}~{\bf Monlong*},
