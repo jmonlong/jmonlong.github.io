@@ -45,7 +45,7 @@ M~Dankner, M~Caron, T~Al-Saadi, W~Yu, V~Ouellet, R~Ezzeddine, SM~Maritan,
   expression drives recurrence of surgically resected brain metastases.
 \newblock {\em
   \href{https://academic.oup.com/neuro-oncology/advance-article/doi/10.1093/neuonc/noab002/6089125}{Neuro-Oncology}},
-  January 2021.
+  2021.
 
 \bibitem{Ferreira2014}
 PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
@@ -56,6 +56,14 @@ PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
 \newblock {\em
   \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912412/}{Genome
   research}}, 2014.
+
+\bibitem{Gorzynski2022}
+JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
+  T~Pesout, {\bf J}~{\bf Monlong}, ..., B~Paten, and EA~Ashley.
+\newblock Ultrarapid {Nanopore} {Genome} {Sequencing} in a {Critical} {Care}
+  {Setting}.
+\newblock {\em \href{http://www.nejm.org/doi/10.1056/NEJMc2112090}{New England
+  Journal of Medicine}}, 2022.
 
 \bibitem{Grajcarek2019}
 J~Grajcarek, {\bf J}~{\bf Monlong}, Y~Nishinaka-Arai, M~Nakamura, M~Nagai,
@@ -192,17 +200,17 @@ K~Shafin, T~Pesout, R~Lorig-Roach, M~Haukness, HE~Olsen, ..., {\bf J}~{\bf
 \newblock Nanopore sequencing and the {Shasta} toolkit enable efficient de novo
   assembly of eleven human genomes.
 \newblock {\em \href{https://www.nature.com/articles/s41587-020-0503-6}{Nature
-  Biotechnology}}, May 2020.
+  Biotechnology}}, 2020.
 
-\bibitem{Giraffe2020preprint}
-J~Sir{\'e}n*, {\bf J}~{\bf Monlong*}, X~Chang*, AM~Novak*, JM~Eizenga*,
-  C~Markello, JA~Sibbesen, G~Hickey, P~Chang, A~Carroll, D~Haussler,
-  E~Garrison, and B~Paten.
-\newblock Genotyping common, large structural variations in 5,202 genomes using
-  pangenomes, the giraffe mapper, and the vg toolkit.
+\bibitem{Giraffe2021}
+J~Sir{\'e}n*, {\bf J}~{\bf Monlong}*, X~Chang*, AM~Novak*, JM~Eizenga*,
+  C~Markello, JA~Sibbesen, G~Hickey, P~Chang, A~Carroll, N~Gupta, S~Gabriel,
+  TW~Blackwell, A~Ratan, KD~Taylor, SS~Rich, JI~Rotter, D~Haussler, E~Garrison,
+  and B~Paten.
+\newblock Pangenomics enables genotyping of known structural variants in 5202
+  diverse genomes.
 \newblock {\em
-  \href{https://www.biorxiv.org/content/early/2020/12/06/2020.12.04.412486}{bioRxiv}},
-  2020.
+  \href{https://www.science.org/doi/10.1126/science.abg8871}{Science}}, 2021.
 
 \bibitem{Hoen2013}
 PC~t~Hoen, et~al., and {\bf The Geuvadis}~{\bf Consortium}.
