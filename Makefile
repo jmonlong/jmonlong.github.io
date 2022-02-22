@@ -4,7 +4,6 @@ serve: static/MonlongJeanCV.pdf
 
 rebuild: static/MonlongJeanCV.pdf
 	Rscript -e "blogdown::build_site(build_rmd=TRUE)"
-	Rscript -e "blogdown::serve_site()"
 
 static/MonlongJeanCV.pdf: misc/MonlongJeanCV.pdf
 	cp $< $@
