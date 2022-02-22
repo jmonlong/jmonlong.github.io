@@ -56,6 +56,7 @@ bib.df = lapply(bib, function(bibi){
              keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
              preprintdoi=ifelse(is.null(bibi$preprintdoi), '', bibi$preprintdoi),
              scripts=ifelse(is.null(bibi$scripts), '', bibi$scripts),
+             press=ifelse(is.null(bibi$pressurl), '', bibi$pressurl),
              stringsAsFactors=FALSE)
 })
 bib.df = do.call(rbind, bib.df)
@@ -74,19 +75,24 @@ htmlCit <- function(df){
   if(df$scripts != ''){
     scripts = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="', df$scripts, '">Data/Code</a>')
   }
+  ## Button linking to the press page
+  press = ''
+  if(df$press != ''){
+    press = paste0(' <a class="btn btn-primary btn-outline btn-xs" href="/fixed/', df$press, '">Press</a>')
+  }
   ## Start a "row"
   cat('<li itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>')
   cat('<div class="row">')
   ## Article info and links
   cat('<div class="col-md-10"><span itemprop="name">', df$title, '. <a target=\"_blank\" href="https://doi.org/',
-      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', preprintdoi, scripts, '</div>', sep='')
+      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', preprintdoi, scripts, press, '</div>', sep='')
   ## Badges
   cat('<div class="col-md-2">')
   cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$doi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
   cat(paste0('<div data-badge-type="2" data-doi="',df$doi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-badge-popover="left" data-link-target="_blank"></div>'))
   if(df$preprintdoi != ''){
-  cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$preprintdoi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
-  cat(paste0('<div data-badge-type="2" data-doi="',df$preprintdoi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-badge-popover="left" data-link-target="_blank"></div>'))
+    cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$preprintdoi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
+    cat(paste0('<div data-badge-type="2" data-doi="',df$preprintdoi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-badge-popover="left" data-link-target="_blank"></div>'))
   }
   cat('</div>')
   ## End article "row"

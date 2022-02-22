@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on Jean Monlong</title>
+    <link>/fixed/</link>
+    <description>Recent content in Fixeds on Jean Monlong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Jean Monlong</copyright>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting</title>
+      <link>/fixed/nicu-rapid-nanopore-2022/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/nicu-rapid-nanopore-2022/</guid>
+      <description>Published in New England Journal of Medicine.
+For this study, we set the Guinness World Record for fastest sequencing technique. We sequenced a patient and called variants (SNVs/indels/SVs) in five hours and two minutes.
+Image: Steve Fisch/Stanford University.
+Press  Fastest DNA sequencing technique helps undiagnosed patients find answers in mere hours - Stanford Medicine News.
+  Advancing genomics to better understand and treat disease - Google Blog.</description>
+    </item>
+    
+    <item>
+      <title>Pangenomics enables genotyping of known structural variants in 5202 diverse genomes</title>
+      <link>/fixed/giraffe-sv-2021/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/giraffe-sv-2021/</guid>
+      <description>Published in Science.
+Press  A new way to find genetic variations removes bias from human genotyping - UCSC News.
+  The benchmark for human diversity is based on one man’s genome. A new tool could change that. - Popular Science
+  Novel tool can efficiently map new genome sequences to a &amp;ldquo;pangenome&amp;rdquo; - AZ Life Sciences
+  Pangenomic Mapping Tool Betters Structural Variant Identification - GEN News</description>
+    </item>
+    
+    <item>
+      <title>Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy</title>
+      <link>/fixed/scrna-glioblastoma-2020/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/scrna-glioblastoma-2020/</guid>
+      <description> Published in Nature Communications.
+Press  Incursion inédite dans les tumeurs du cerveau - Québec Science
+  Top Quebec discoveries of 2020 feature McGill brain cancer studies - The McGill Tribune
+  scRNA-seq of glioblastoma complexity reveals its pattern of development - RNA-Seq Blog
+  Deconstructing glioblastoma complexity reveals its pattern of development - McGill Press Release
+ </description>
+    </item>
+    
+    <item>
+      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
+      <link>/fixed/vg-sv-2020/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/vg-sv-2020/</guid>
+      <description> Published in Genome Biology.
+Press  Variant Detection Gets Boost From Graph Genomes, De Novo Assemblies - GenomeWeb
+ </description>
+    </item>
+    
+    <item>
+      <title>Stalled developmental programs at the root of pediatric brain tumors</title>
+      <link>/fixed/scrna-pediatric-brain-tumor-2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/fixed/scrna-pediatric-brain-tumor-2019/</guid>
+      <description> Published in Nature Genetics.
+Press  Origin of Childhood Brain Tumors Discovered - GEN News
+  Researchers discover cellular origins of pediatric brain tumors - News Medical Life Sciences
+  Incursion inédite dans les tumeurs du cerveau - Québec Science
+  Cellular origins of pediatric brain tumors identified - McGill News
+ </description>
+    </item>
+    
+    <item>
+      <title>Genome-wide microhomologies enable precise template-free editing of biologically relevant deletion mutations</title>
+      <link>/fixed/mhcut-2019/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/fixed/mhcut-2019/</guid>
+      <description> Published in Nature Communications.
+Press  Transforming DNA repair errors into assets - Science Daily
+  Transforming DNA repair errors into assets - Phys.org
+  Transforming DNA repair errors into assets - Bioengineer.org
+ </description>
+    </item>
+    
+    <item>
+      <title>High Rate of Recurrent De Novo Mutations in Developmental and Epileptic Encephalopathies</title>
+      <link>/fixed/denovo-mutation-epilepsy-2017/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/fixed/denovo-mutation-epilepsy-2017/</guid>
+      <description> Published in the American Journal of Human Genetics
+Press  Eight New Epilepsy Genes Discovered - Neuroscience News
+  Researchers discover eight new epilepsy genes - Medical Press
+ </description>
+    </item>
+    
+  </channel>
+</rss>

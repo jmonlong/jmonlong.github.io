@@ -61,11 +61,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/post/widgets/">
+  <link rel="canonical" href="/fixed/giraffe-sv-2021/">
 
   
 
-  <title>Customizing the homepage with widgets | Jean Monlong</title>
+  <title>Pangenomics enables genotyping of known structural variants in 5202 diverse genomes | Jean Monlong</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -178,34 +178,20 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Customizing the homepage with widgets</h1>
+    <h1 itemprop="name">Pangenomics enables genotyping of known structural variants in 5202 diverse genomes</h1>
     
 
 <div class="article-metadata">
 
   <span class="article-date">
     
-    <time datetime="2016-04-19 00:00:00 -0700 PDT" itemprop="datePublished">
-      Apr 19, 2016
+    <time datetime="2021-12-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Dec 17, 2021
     </time>
   </span>
 
   
 
-  
-  
-  
-  <span class="article-tags">
-    <i class="fa fa-tags"></i>
-    
-    <a href="/tags/academic">academic</a
-    >, 
-    
-    <a href="/tags/hugo">hugo</a
-    >
-    
-  </span>
-  
   
 
   
@@ -217,61 +203,73 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<p>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:</p>
+<p>Published in <a href="https://www.science.org/doi/10.1126/science.abg8871" target="_blank">Science</a>.</p>
 
-<ul>
-<li>About/biography</li>
-<li>Selected publications</li>
-<li>Recent publications</li>
-<li>Recent news/blog posts</li>
-<li>Projects</li>
-<li>Selected talks</li>
-<li>Recent talks</li>
-<li>Contact</li>
-<li>Custom widget (demonstrated with the <em>teaching</em> example)</li>
-</ul>
+<h2 id="press">Press</h2>
 
-<p>The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&rsquo;t need and customize the parameters of the widgets you wish to keep.</p>
+<blockquote>
+<p>A new way to find genetic variations removes bias from human genotyping
+- <a href="https://news.ucsc.edu/2021/12/pangenomics.html" target="_blank">UCSC News</a>.</p>
+</blockquote>
 
-<p>The parameters for each widget vary. They can be found in the preamble/frontmatter (between the pair of <code>+++</code>) for each widget installed in the <code>content/home/</code> folder.</p>
+<hr />
 
-<div class="alert alert-note">
-  <p>By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting <code>detailed_list = true</code> in <code>content/home/publications.md</code>.</p>
+<blockquote>
+<p>The benchmark for human diversity is based on one man’s genome. A new tool could change that.
+- <a href="https://www.popsci.com/science/human-genome-blueprint/" target="_blank">Popular Science</a></p>
+</blockquote>
 
+<hr />
+
+<blockquote>
+<p>Novel tool can efficiently map new genome sequences to a &ldquo;pangenome&rdquo;
+- <a href="https://www.azolifesciences.com/news/20211217/New-tool-can-efficiently-map-new-genome-sequences-to-a-pangenome.aspx" target="_blank">AZ Life Sciences</a></p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+<p>Pangenomic Mapping Tool Betters Structural Variant Identification
+- <a href="https://www.genengnews.com/topics/omics/pangenomic-mapping-tool-betters-structural-variant-identification/" target="_blank">GEN News</a></p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+<p>A New Way to Find Genetic Variations Removes Bias from Human Genotyping
+- <a href="A New Way to Find Genetic Variations Removes Bias from Human Genotyping" target="_blank">Lab Manager</a></p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+<p>Science Papers on Pan-Cancer T Cell Atlas, Short-Read Mapping Tool for Pangenomes
+- <a href="https://www.genomeweb.com/scan/science-papers-pan-cancer-t-cell-atlas-short-read-mapping-tool-pangenomes" target="_blank">GenomeWeb</a></p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+<p>Advancing genomics to better understand and treat disease
+- <a href="https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/" target="_blank">Google Blog</a></p>
+</blockquote>
+
+<hr />
+
+<blockquote>
+<p>Giraffe: A new short-read mapping tool
+- <a href="https://frontlinegenomics.com/giraffe-a-new-short-read-mapping-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=giraffe-a-new-short-read-mapping-tool" target="_blank">Front Line Genomics</a></p>
+</blockquote>
+
+<h2 id="video-summary">Video summary</h2>
+
+<p>We (mostly Xian) made a 5 mins that summarize this article</p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/scD37MOBmQ0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
-<h2 id="add-a-widget-to-the-homepage">Add a widget to the homepage</h2>
-
-<p>To add a widget manually, copy the relevant widget from <code>themes/academic/exampleSite/content/home/</code> to your <code>content/home/</code> folder.</p>
-
-<p>Widget identifiers are set to their respective filenames, so a <code>content/home/about.md</code> widget can be linked from the navigation bar by setting the relevant URL as <code>&quot;#about&quot;</code> in <code>config.toml</code>.</p>
-
-<p>This means that if you want to use multiple instances of a widget, each widget will be assigned a unique ID based on the filename that you set. You can then use that ID for linking, like in the above example.</p>
-
-<h2 id="using-the-custom-widget">Using the custom widget</h2>
-
-<p>You can use the custom widget to create your own home page sections.</p>
-
-<p>Simply duplicate (copy/paste) and rename the example <em>teaching</em> file at <code>content/home/teaching.md</code>. Then edit the section title, weight (refer to <em>Ordering sections</em> below), and content as desired.</p>
-
-<p>You may also wish to add a navigation link to the top of the page that points to the new section. This can be achieved by adding something similar to the following lines to your <code>config.toml</code>, where the URL will consist of the first title word in lowercase:</p>
-
-<pre><code>[[menu.main]]
-    name = &quot;Research&quot;
-    url = &quot;#research&quot;
-    weight = 10
-</code></pre>
-
-<h2 id="remove-a-widget-from-the-homepage">Remove a widget from the homepage</h2>
-
-<p>If you do not require a particular widget, you can simply delete any associated files from the <code>content/home/</code> folder.</p>
-
-<p>To remove a navigation link from the top of the page, remove the associated <code>[[menu.main]]</code> entry in <code>config.toml</code>.</p>
-
-<h2 id="ordering-widgets">Ordering widgets</h2>
-
-<p>The order that the homepage widgets are displayed in is defined by the <code>weight</code> parameter in each of the files in the <code>content/home/</code> directory. The widgets are displayed in ascending order of their <code>weight</code>, so you can simply edit the <code>weight</code> parameters as desired.</p>
 
     </div>
   </div>
@@ -280,26 +278,17 @@
 
 
 
-<div class="article-container">
-  <h3>Related</h3>
-  <ul>
-    
-    <li><a href="/post/managing-content/">Managing content</a></li>
-    
-  </ul>
-</div>
-
 
 <div class="container">
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="/post/managing-content/"><span
-      aria-hidden="true">&larr;</span> Managing content</a></li>
+    <li class="previous"><a href="/fixed/scrna-glioblastoma-2020/"><span
+      aria-hidden="true">&larr;</span> Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy</a></li>
     
 
     
-    <li class="next"><a href="/post/getting-started/">Getting started with the Academic framework for Hugo <span
+    <li class="next"><a href="/fixed/nicu-rapid-nanopore-2022/">Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
