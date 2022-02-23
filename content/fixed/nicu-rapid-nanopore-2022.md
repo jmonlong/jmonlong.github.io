@@ -66,4 +66,11 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in **five hours and
 > Record breaking sequencing technique diagnoses patients in hours
 - [BioTechScope](https://biotechscope.com/record-breaking-sequencing-technique-diagnoses-patients-hours/)
 
+## Radio
 
+> Rapid genome sequencing in the clinic
+- [Inside Health (BBC)](https://www.bbc.co.uk/sounds/play/m0014p9j)
+
+## Video
+
+{{< tweet 1496291719100260356 >}}
