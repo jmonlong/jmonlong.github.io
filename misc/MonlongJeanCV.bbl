@@ -57,6 +57,14 @@ PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
   \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912412/}{Genome
   research}}, 2014.
 
+\bibitem{Goenka2022}
+SD~Goenka, JE~Gorzynski, K~Shafin, DG~Fisk, T~Pesout, TD~Jensen, {\bf J}~{\bf
+  Monlong}, P~Chang, G~Baid, B~...~Paten, and EA~Ashley.
+\newblock Accelerated identification of disease-causing variants with
+  ultra-rapid nanopore genome sequencing.
+\newblock {\em \href{https://www.nature.com/articles/s41587-022-01221-5}{Nature
+  Biotechnology}}, 2022.
+
 \bibitem{Gorzynski2022}
 JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
   T~Pesout, {\bf J}~{\bf Monlong}, ..., B~Paten, and EA~Ashley.
@@ -64,6 +72,15 @@ JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
   {Setting}.
 \newblock {\em \href{http://www.nejm.org/doi/10.1056/NEJMc2112090}{New England
   Journal of Medicine}}, 2022.
+
+\bibitem{Gorzynski2022circgen}
+JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
+  T~Pesout, {\bf J}~{\bf Monlong}, JA~Bernstein, B~...~Paten, and EA~Ashley.
+\newblock Ultra-{Rapid} {Nanopore} {Whole} {Genome} {Genetic} {Diagnosis} of
+  {Dilated} {Cardiomyopathy} in an {Adolescent} {With} {Cardiogenic} {Shock}.
+\newblock {\em
+  \href{https://www.ahajournals.org/doi/10.1161/CIRCGEN.121.003591}{Circulation:
+  Genomic and Precision Medicine}}, 2022.
 
 \bibitem{Grajcarek2019}
 J~Grajcarek, {\bf J}~{\bf Monlong}, Y~Nishinaka-Arai, M~Nakamura, M~Nagai,

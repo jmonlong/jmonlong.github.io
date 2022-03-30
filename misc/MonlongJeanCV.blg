@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: MonlongJeanCV.aux
 The style file: plain.bst
 Database file #1: JM-publication.bib
-You've used 31 entries,
+You've used 33 entries,
             2118 wiz_defined-function locations,
-            664 strings with 14276 characters,
-and the built_in function-call counts, 14012 in all, are:
-= -- 1148
-> -- 1420
+            674 strings with 15122 characters,
+and the built_in function-call counts, 15081 in all, are:
+= -- 1232
+> -- 1541
 < -- 2
-+ -- 565
-- -- 532
-* -- 1234
-:= -- 2651
-add.period$ -- 94
-call.type$ -- 31
-change.case$ -- 359
++ -- 613
+- -- 578
+* -- 1336
+:= -- 2855
+add.period$ -- 100
+call.type$ -- 33
+change.case$ -- 388
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 324
-empty$ -- 552
-format.name$ -- 532
-if$ -- 2568
+cite$ -- 33
+duplicate$ -- 344
+empty$ -- 586
+format.name$ -- 578
+if$ -- 2759
 int.to.chr$ -- 0
-int.to.str$ -- 31
-missing$ -- 31
-newline$ -- 158
-num.names$ -- 62
-pop$ -- 361
+int.to.str$ -- 33
+missing$ -- 33
+newline$ -- 168
+num.names$ -- 66
+pop$ -- 390
 preamble$ -- 1
-purify$ -- 328
+purify$ -- 355
 quote$ -- 0
-skip$ -- 228
+skip$ -- 242
 stack$ -- 0
-substring$ -- 189
-swap$ -- 41
+substring$ -- 199
+swap$ -- 43
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 124
+type$ -- 132
 warning$ -- 0
-while$ -- 65
-width$ -- 33
-write$ -- 315
+while$ -- 69
+width$ -- 35
+write$ -- 335
