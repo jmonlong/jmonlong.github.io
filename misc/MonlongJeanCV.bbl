@@ -70,7 +70,7 @@ PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
 
 \bibitem{Goenka2022}
 SD~Goenka, JE~Gorzynski, K~Shafin, DG~Fisk, T~Pesout, TD~Jensen, {\bf J}~{\bf
-  Monlong}, P~Chang, G~Baid, B~...~Paten, and EA~Ashley.
+  Monlong}, P~Chang, G~Baid, ..., B~Paten, and EA~Ashley.
 \newblock Accelerated identification of disease-causing variants with
   ultra-rapid nanopore genome sequencing.
 \newblock {\em \href{https://www.nature.com/articles/s41587-022-01221-5}{Nature
@@ -86,7 +86,7 @@ JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
 
 \bibitem{Gorzynski2022circgen}
 JE~Gorzynski, SD~Goenka, K~Shafin, TD~Jensen, DG~Fisk, ME~Grove, E~Spiteri,
-  T~Pesout, {\bf J}~{\bf Monlong}, JA~Bernstein, B~...~Paten, and EA~Ashley.
+  T~Pesout, {\bf J}~{\bf Monlong}, JA~Bernstein, ..., B~Paten, and EA~Ashley.
 \newblock Ultra-{Rapid} {Nanopore} {Whole} {Genome} {Genetic} {Diagnosis} of
   {Dilated} {Cardiomyopathy} in an {Adolescent} {With} {Cardiogenic} {Shock}.
 \newblock {\em
@@ -157,6 +157,16 @@ X~Li, et~al., and {\bf The GTEx}~{\bf Consortium}.
 \newblock {The impact of rare variation on gene expression across tissues.}
 \newblock {\em \href{http://www.ncbi.nlm.nih.gov/pubmed/29022581}{Nature}},
   2017.
+
+\bibitem{HPRCdraft2022}
+W~Liao, M~Asri, J~Ebler, D~Doerr, M~Haukness, G~Hickey, S~Lu, JK~Lucas, {\bf
+  J}~{\bf Monlong}, ..., G~Bourque, MJP Chaisson, P~Flicek, AM~Phillippy,
+  JM~Zook, EE~Eichler, D~Haussler, ED~Jarvis, KH~Miga, T~Wang, E~Garrison,
+  T~Marschall, IM~Hall, H~Li, and B~Paten.
+\newblock A {Draft} {Human} {Pangenome} {Reference}.
+\newblock {\em
+  \href{http://biorxiv.org/lookup/doi/10.1101/2022.07.09.499321}{bioRxiv}},
+  2022.
 
 \bibitem{Mele2015}
 M~Mel\'e, PG~Ferreira, F~Reverter, DS~DeLuca, {\bf J}~{\bf Monlong}, M~Sammeth,
