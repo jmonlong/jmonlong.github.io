@@ -54,6 +54,7 @@ bib.df = lapply(bib, function(bibi){
                             gsub('.*\\}\\{(.*)\\}', '\\1', bibi$booktitle)),
              author=bibi$author %>% as.character %>% convertBold %>% convertStars %>% paste(collapse=', '),
              keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
+             pmid=ifelse(is.null(bibi$pmid), '', bibi$pmid),
              preprintdoi=ifelse(is.null(bibi$preprintdoi), '', bibi$preprintdoi),
              scripts=ifelse(is.null(bibi$scripts), '', bibi$scripts),
              press=ifelse(is.null(bibi$pressurl), '', bibi$pressurl),
@@ -65,6 +66,11 @@ bib.df %<>% mutate(rk=1:n())
 
 ```{r outlist, results='asis'}
 htmlCit <- function(df){
+  ## Button linking to PubMed Central
+  pmcid = ''
+  if(df$pmid != ''){
+    pmcid = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/', df$pmid, '">PubMed Central</a>')
+  }
   ## Button linking to the preprint
   preprintdoi = ''
   if(df$preprintdoi != ''){
@@ -85,7 +91,7 @@ htmlCit <- function(df){
   cat('<div class="row">')
   ## Article info and links
   cat('<div class="col-md-10"><span itemprop="name">', df$title, '. <a target=\"_blank\" href="https://doi.org/',
-      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', preprintdoi, scripts, press, '</div>', sep='')
+      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', pmcid, preprintdoi, scripts, press, '</div>', sep='')
   ## Badges
   cat('<div class="col-md-2">')
   cat(paste0('<span class="__dimensions_badge_embed__" data-doi="', df$doi, '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'))
