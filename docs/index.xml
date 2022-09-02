@@ -11,6 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Accurate short variant calling from sequencing data with pangenomes and DeepVariant</title>
+      <link>/talk/agbtph2022/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/agbtph2022/</guid>
+      <description>&lt;p&gt;Resources for the poster:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://humanpangenome.org/&#34; target=&#34;_blank&#34;&gt;Human Pangenome Reference Consortium (HPRC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Draft Human Pangenome Reference&lt;/em&gt;. bioRxiv 2022 &lt;a href=&#34;https://doi.org/10.1101/2022.07.09.499321&#34; target=&#34;_blank&#34;&gt;DOI:10.1101/2022.07.09.499321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;HPRC pangenomes resources index: &lt;a href=&#34;https://github.com/human-pangenomics/hpp_pangenome_resources&#34; target=&#34;_blank&#34;&gt;https://github.com/human-pangenomics/hpp_pangenome_resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Variation graph toolkit (vg): &lt;a href=&#34;https://github.com/vgteam/vg&#34; target=&#34;_blank&#34;&gt;https://github.com/vgteam/vg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DeepVariant: &lt;a href=&#34;https://github.com/google/deepvariant&#34; target=&#34;_blank&#34;&gt;https://github.com/google/deepvariant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Workflows (WDL):
+
+&lt;ul&gt;
+&lt;li&gt;WDLs are maintained on &lt;a href=&#34;https://github.com/vgteam/vg_wdl&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and deposited on &lt;a href=&#34;https://dockstore.org/workflows/github.com/vgteam/vg_wdl/GiraffeDeepVariantLite:giraffe-dv-dt-hprcy1?tab=info&#34; target=&#34;_blank&#34;&gt;Dockstore&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The versions used in the bioRxiv preprint is &lt;a href=&#34;https://doi.org/10.5281/zenodo.6655968&#34; target=&#34;_blank&#34;&gt;DOI:10.5281/zenodo.6655968&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting</title>
       <link>/fixed/nicu-rapid-nanopore-2022/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
@@ -440,36 +464,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
       
       <guid>/talk/research-day-2017/</guid>
       <description>&lt;p&gt;🏆 Honorable Mentions for Oral Presentation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
-      <link>/talk/chsgm2017/</link>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/chsgm2017/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; talks about genome-wide characterization of copy number variants in epilepsy patients &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mehran Karimzadeh (@MKarimzade) &lt;a href=&#34;https://twitter.com/MKarimzade/status/856511209641791490?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Now: &lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt;: Genome-wide Characterization of Copy Number Variants in Epilepsy Patients &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt; &lt;a href=&#34;https://t.co/Ip7q3KFDsN&#34;&gt;https://t.co/Ip7q3KFDsN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Hoffman (@michaelhoffman) &lt;a href=&#34;https://twitter.com/michaelhoffman/status/856512367227752449?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;JM validates PopSV using a twin dataset. PopSV outperforms commonly used tools in detecting copy number variation &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mehran Karimzadeh (@MKarimzade) &lt;a href=&#34;https://twitter.com/MKarimzade/status/856512554490875905?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;JM: Rare exonic CNVs enriched and more recurrent in epilepsy patients compared to controls. &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Hoffman (@michaelhoffman) &lt;a href=&#34;https://twitter.com/michaelhoffman/status/856514198796472320?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;JM: Identified putatively pathogenic exonic CNVs, some replicated in an additional cohort. &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Hoffman (@michaelhoffman) &lt;a href=&#34;https://twitter.com/michaelhoffman/status/856514332120809472?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;JM: Rare noncoding CNVs enriched close to epilepsy genes. &lt;a href=&#34;https://twitter.com/hashtag/genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#genetics17&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michael Hoffman (@michaelhoffman) &lt;a href=&#34;https://twitter.com/michaelhoffman/status/856514396587216896?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Sitting next to the famous &lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; on our way to Quebec City for &lt;a href=&#34;https://twitter.com/hashtag/Genetics17?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Genetics17&lt;/a&gt;! Come check out our talks! @HgssMG &lt;a href=&#34;https://twitter.com/Human_Genetics?ref_src=twsrc%5Etfw&#34;&gt;@Human_Genetics&lt;/a&gt; &lt;a href=&#34;https://twitter.com/mcgillu?ref_src=twsrc%5Etfw&#34;&gt;@mcgillu&lt;/a&gt;&lt;/p&gt;&amp;mdash; John A. Morris (@johnomix) &lt;a href=&#34;https://twitter.com/johnomix/status/855774009157443584?ref_src=twsrc%5Etfw&#34;&gt;April 22, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/p&gt;
 </description>
     </item>
     

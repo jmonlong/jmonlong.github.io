@@ -6,9 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.27.1" />
+  <meta name="generator" content="Hugo 0.54.0" />
   <meta name="author" content="Jean Monlong">
-  <meta name="description" content="PhD Candidate">
+  <meta name="description" content="Postdoctoral researcher. he/him">
 
   
   
@@ -32,6 +32,28 @@
   
 
   
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113785126-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'UA-113785126-2');
+  </script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Jean Monlong">
   <link rel="feed" href="/index.xml" type="application/rss+xml" title="Jean Monlong">
@@ -39,11 +61,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/talk/example-talk/">
+  <link rel="canonical" href="/talk/agbtph2022/">
 
   
 
-  <title>Genome-wide characterization of copy number variants in epilepsy patients | Jean Monlong</title>
+  <title>Accurate short variant calling from sequencing data with pangenomes and DeepVariant | Jean Monlong</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -97,6 +119,30 @@
         
 
         <li class="nav-item">
+          <a href="/#talks">
+            
+            <span>Talks</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
           <a href="/#notes">
             
             <span>Notes</span>
@@ -128,17 +174,12 @@
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-<div class="article-header">
-  <img src="/img/headers/hg-rd-poster.jpg" class="article-banner" itemprop="image">
-  
-</div>
-
 
 
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Genome-wide characterization of copy number variants in epilepsy patients</h1>
+      <h1 itemprop="name">Accurate short variant calling from sequencing data with pangenomes and DeepVariant</h1>
       <span class="pub-authors" itemprop="author">
         
       </span>
@@ -149,7 +190,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">Epilepsy will affect nearly 3% of people at some point during their lifetime. Copy number variants (CNVs) have been implicated in many diseases including neurological pathologies. Previous CNV studies of epilepsy patients used array-based technology and were restricted to the detection of large or exonic events. Whole-genome sequencing (WGS) has the potential to more comprehensively profile CNVs. However, existing analytical methods suffer from limited sensitivity and specificity, especially for small events. We show that this is in part due to the non-uniformity of read coverage, even after intra-sample normalization. Instead, we propose a new analytical method, PopSV, that uses multiple samples to control for technical variation and enables the robust detection of CNVs. Using WGS and this new method, we perform a comprehensive characterization of CNVs in 198 epilepsy patients and 301 controls. This genome-wide profile first reveals an enrichment of rare exonic CNVs in patients. We also observe that those rare exonic CNVs are more recurrent in patients. More interestingly, more patients harbor non-coding CNVs in proximity to known epilepsy genes compared to controls. We found that surveying the whole genome reveals a much higher yield of putative pathogenic CNVs than when comparing with exon regions. We also report on 21 potentially damaging events that could be associated with new candidate disease genes. Our results suggest that more comprehensive profiling of CNVs, and more generally of structural variants, will help explain a larger fraction of epilepsy cases.</p>
+      <p class="pub-abstract" itemprop="text">Accurate identification of genomic variants is critical for genetic studies and, more and more, for clinical genetic testing. With genome sequencing technology, the whole-genome can be assessed and a comprehensive spectrum of genomic variants could in theory be called. Some genomics regions and variants are in practice still challenging to detect with the standard techniques, which is to first align the sequenced reads to a reference genome. A new approach has recently shown better results by a reference pangenome instead, i.e. a reference representing multiple genomes and incorporating information about known variants a priori. At the forefront of human pangenomics, the Human Pangenome Reference Consortium (HPRC) aims at producing high-quality phased de novo assemblies for more than 300 diverse individuals, and build a comprehensive and representative human pangenome. With its draft representing 45 individuals, we show that using the HPRC pangenome improves the mapping of short reads and, as a result, the identification of short variants in an individual. Our approach maps the short Illumina reads to the pangenome using vg Giraffe and calls short variants with DeepVariant using new models trained on the pangenome. We compared our approach to the standard technique of mapping reads to the linear reference genome with BWA-MEM, or the more recent Dragen pipeline. Using both the Genome in a Bottle and the Challenging Medically-Relevant Genes truthsets, we observed a better performance for our pangenomic approach. It makes about 34% less errors and is capable of calling short variants in a larger fraction of the genome, including in more challenging regions. As expected, the calling accuracy increases when trio sequencing data is available and is still superior when mapping the short-reads to the HPRC pangenome rather than to the linear reference genome or using the DragenGRAPH mapper. In addition to quantifying the benefit of this pangenomic approach, we share the resources and workflows to accurately call small variants from sequencing data using the HPRC draft pangenome.</p>
     
 
     <div class="row">
@@ -158,7 +199,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            May 18, 2017
+            Sep 2, 2022
           </div>
         </div>
       </div>
@@ -172,8 +213,8 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
           <div class="col-xs-12 col-sm-9">
-            <a href="http://www.mcgill.ca/humangenetics/" target="_blank">
-            Human Genetics Research Day, McGill University
+            <a href="https://www.agbt.org/events/precision-health/" target="_blank">
+            AGBT Precision Health
             </a>
           </div>
         </div>
@@ -188,7 +229,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
-          <div class="col-xs-12 col-sm-9">Montreal, Canada</div>
+          <div class="col-xs-12 col-sm-9">San Diego, CA, USA</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -209,7 +250,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="/slides/JeanMonlong-HGEN-RD-2017.pdf">
+<a class="btn btn-primary btn-outline" href="/slides/AGBTph2022-poster-HPRC-GiraffeDV.pdf">
   PDF
 </a>
 
@@ -230,7 +271,21 @@
     <div class="space-below"></div>
 
     <div class="article-style">
-      <p>🏆 Honorable Mentions for Oral Presentation.</p>
+      <p>Resources for the poster:</p>
+
+<ul>
+<li><a href="https://humanpangenome.org/" target="_blank">Human Pangenome Reference Consortium (HPRC)</a></li>
+<li><em>A Draft Human Pangenome Reference</em>. bioRxiv 2022 <a href="https://doi.org/10.1101/2022.07.09.499321" target="_blank">DOI:10.1101/2022.07.09.499321</a></li>
+<li>HPRC pangenomes resources index: <a href="https://github.com/human-pangenomics/hpp_pangenome_resources" target="_blank">https://github.com/human-pangenomics/hpp_pangenome_resources</a></li>
+<li>Variation graph toolkit (vg): <a href="https://github.com/vgteam/vg" target="_blank">https://github.com/vgteam/vg</a></li>
+<li>DeepVariant: <a href="https://github.com/google/deepvariant" target="_blank">https://github.com/google/deepvariant</a></li>
+<li>Workflows (WDL):
+
+<ul>
+<li>WDLs are maintained on <a href="https://github.com/vgteam/vg_wdl" target="_blank">GitHub</a> and deposited on <a href="https://dockstore.org/workflows/github.com/vgteam/vg_wdl/GiraffeDeepVariantLite:giraffe-dv-dt-hprcy1?tab=info" target="_blank">Dockstore</a>.</li>
+<li>The versions used in the bioRxiv preprint is <a href="https://doi.org/10.5281/zenodo.6655968" target="_blank">DOI:10.5281/zenodo.6655968</a></li>
+</ul></li>
+</ul>
 
     </div>
 
@@ -240,6 +295,9 @@
 <div class="container">
   <nav>
   <ul class="pager">
+    
+    <li class="previous"><a href="/talk/voiceresearcher2020/"><span
+      aria-hidden="true">&larr;</span> Genotyping structural variants in human cohorts using pangenome graphs</a></li>
     
 
     
@@ -252,7 +310,7 @@
   <div class="container">
     <p class="powered-by">
 
-      &copy; 2017 Jean Monlong &middot; 
+      &copy; 2020 Jean Monlong &middot; 
 
       Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
       theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
@@ -301,7 +359,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
     
     
-
+    
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    
   </body>
 </html>
 
