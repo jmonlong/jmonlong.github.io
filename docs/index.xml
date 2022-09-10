@@ -13,14 +13,25 @@
     <item>
       <title>Accurate short variant calling from sequencing data with pangenomes and DeepVariant</title>
       <link>/talk/agbtph2022/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/talk/agbtph2022/</guid>
-      <description>&lt;p&gt;Resources for the poster:&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;resources-for-the-poster&#34;&gt;Resources for the poster&lt;/h2&gt;
 
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/slides/AGBTph2022-poster-HPRC-GiraffeDV.pdf&#34;&gt;PDF of the poster&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://humanpangenome.org/&#34; target=&#34;_blank&#34;&gt;Human Pangenome Reference Consortium (HPRC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Literature
+
+&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;A Draft Human Pangenome Reference&lt;/em&gt;. bioRxiv 2022 &lt;a href=&#34;https://doi.org/10.1101/2022.07.09.499321&#34; target=&#34;_blank&#34;&gt;DOI:10.1101/2022.07.09.499321&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;vg giraffe&lt;/em&gt; for mapping short reads to a pangenome: &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abg8871&#34; target=&#34;_blank&#34;&gt;Siren et al. Science 2021&lt;/a&gt; (&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9365333/&#34; target=&#34;_blank&#34;&gt;PubMed Central&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Data and tools
+
+&lt;ul&gt;
 &lt;li&gt;HPRC pangenomes resources index: &lt;a href=&#34;https://github.com/human-pangenomics/hpp_pangenome_resources&#34; target=&#34;_blank&#34;&gt;https://github.com/human-pangenomics/hpp_pangenome_resources&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Variation graph toolkit (vg): &lt;a href=&#34;https://github.com/vgteam/vg&#34; target=&#34;_blank&#34;&gt;https://github.com/vgteam/vg&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DeepVariant: &lt;a href=&#34;https://github.com/google/deepvariant&#34; target=&#34;_blank&#34;&gt;https://github.com/google/deepvariant&lt;/a&gt;&lt;/li&gt;
@@ -30,7 +41,12 @@
 &lt;li&gt;WDLs are maintained on &lt;a href=&#34;https://github.com/vgteam/vg_wdl&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and deposited on &lt;a href=&#34;https://dockstore.org/workflows/github.com/vgteam/vg_wdl/GiraffeDeepVariantLite:giraffe-dv-dt-hprcy1?tab=info&#34; target=&#34;_blank&#34;&gt;Dockstore&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The versions used in the bioRxiv preprint is &lt;a href=&#34;https://doi.org/10.5281/zenodo.6655968&#34; target=&#34;_blank&#34;&gt;DOI:10.5281/zenodo.6655968&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Accurate identification of genomic variants is critical for genetic studies and, more and more, for clinical genetic testing. With genome sequencing technology, the whole-genome can be assessed and a comprehensive spectrum of genomic variants could in theory be called. Some genomics regions and variants are in practice still challenging to detect with the standard techniques, which is to first align the sequenced reads to a reference genome. A new approach has recently shown better results by a reference pangenome instead, i.e. a reference representing multiple genomes and incorporating information about known variants a priori. At the forefront of human pangenomics, the Human Pangenome Reference Consortium (HPRC) aims at producing high-quality phased de novo assemblies for more than 300 diverse individuals, and build a comprehensive and representative human pangenome. With its draft representing 45 individuals, we show that using the HPRC pangenome improves the mapping of short reads and, as a result, the identification of short variants in an individual. Our approach maps the short Illumina reads to the pangenome using vg Giraffe and calls short variants with DeepVariant using new models trained on the pangenome. We compared our approach to the standard technique of mapping reads to the linear reference genome with BWA-MEM, or the more recent Dragen pipeline. Using both the Genome in a Bottle and the Challenging Medically-Relevant Genes truthsets, we observed a better performance for our pangenomic approach. It makes about 34% less errors and is capable of calling short variants in a larger fraction of the genome, including in more challenging regions. As expected, the calling accuracy increases when trio sequencing data is available and is still superior when mapping the short-reads to the HPRC pangenome rather than to the linear reference genome or using the DragenGRAPH mapper. In addition to quantifying the benefit of this pangenomic approach, we share the resources and workflows to accurately call small variants from sequencing data using the HPRC draft pangenome.&lt;/p&gt;
 </description>
     </item>
     

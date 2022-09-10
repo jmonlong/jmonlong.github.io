@@ -15,11 +15,10 @@
     <item>
       <title>Accurate short variant calling from sequencing data with pangenomes and DeepVariant</title>
       <link>/talk/agbtph2022/</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/talk/agbtph2022/</guid>
-      <description>Resources for the poster:
- Human Pangenome Reference Consortium (HPRC) A Draft Human Pangenome Reference. bioRxiv 2022 DOI:10.1101/2022.07.09.499321 HPRC pangenomes resources index: https://github.com/human-pangenomics/hpp_pangenome_resources Variation graph toolkit (vg): https://github.com/vgteam/vg DeepVariant: https://github.com/google/deepvariant Workflows (WDL):  WDLs are maintained on GitHub and deposited on Dockstore. The versions used in the bioRxiv preprint is DOI:10.5281/zenodo.6655968   </description>
+      <description>Resources for the poster  PDF of the poster Human Pangenome Reference Consortium (HPRC) Literature  A Draft Human Pangenome Reference. bioRxiv 2022 DOI:10.1101/2022.07.09.499321 vg giraffe for mapping short reads to a pangenome: Siren et al. Science 2021 (PubMed Central)  Data and tools  HPRC pangenomes resources index: https://github.com/human-pangenomics/hpp_pangenome_resources Variation graph toolkit (vg): https://github.com/vgteam/vg DeepVariant: https://github.com/google/deepvariant Workflows (WDL):  WDLs are maintained on GitHub and deposited on Dockstore. The versions used in the bioRxiv preprint is DOI:10.</description>
     </item>
     
     <item>
