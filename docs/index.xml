@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Pangenomes: incorporating diversity into genomic analyses</title>
+      <link>/talk/googlegenomicsdeepdive2022/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/googlegenomicsdeepdive2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Accurate short variant calling from sequencing data with pangenomes and DeepVariant</title>
       <link>/talk/agbtph2022/</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
@@ -470,16 +479,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 &lt;p&gt;Researchers discover eight new epilepsy genes
 - &lt;a href=&#34;https://medicalxpress.com/news/2017-11-epilepsy-genes.html&#34; target=&#34;_blank&#34;&gt;Medical Press&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genome-wide characterization of copy number variants in epilepsy patients</title>
-      <link>/talk/research-day-2017/</link>
-      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/research-day-2017/</guid>
-      <description>&lt;p&gt;🏆 Honorable Mentions for Oral Presentation.&lt;/p&gt;
 </description>
     </item>
     

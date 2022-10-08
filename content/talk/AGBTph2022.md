@@ -7,6 +7,7 @@ event = "AGBT Precision Health"
 event_url = "https://www.agbt.org/events/precision-health/"
 location = "San Diego, CA, USA"
 selected = false
+is_poster = true
 math = true
 url_pdf = "slides/AGBTph2022-poster-HPRC-GiraffeDV.pdf"
 url_slides = ""

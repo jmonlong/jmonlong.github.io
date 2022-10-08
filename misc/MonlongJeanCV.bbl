@@ -63,7 +63,7 @@ PG~Ferreira, P~Jares, D~Rico, G~Gomez-Lopez, A~Martinez-Trillos, N~Villamor,
   S~Ecker, A~Gonzalez-Perez, DG~Knowles, {\bf J}~{\bf Monlong}, ..., E~Campo,
   and R~Guigo.
 \newblock {Transcriptome characterization by RNA sequencing identifies a major
-  molecular and clinical subdivision in chronic lymphocytic leukemia.}
+  molecular and clinical subdivision in chronic lymphocytic leukemia}.
 \newblock {\em
   \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912412/}{Genome
   research}}, 2014.
@@ -114,7 +114,7 @@ L~Greger, J~Su, J~Rung, PG~Ferreira, {\bf The Geuvadis}~{\bf Consortium},
 F~Hamdan, CT~Myers, P~Cossette, P~Lemay, D~Spiegelman, A~Dionne-Laporte,
   C~Nassif, O~Diallo, {\bf J}~{\bf Monlong}, ..., BA~Minassian, and JL~Michaud.
 \newblock {High Rate of Recurrent De Novo Mutations in Developmental and
-  Epileptic Encephalopathies.}
+  Epileptic Encephalopathies}.
 \newblock {\em \href{http://www.ncbi.nlm.nih.gov/pubmed/29100083}{American
   journal of human genetics}}, 2017.
 
@@ -126,6 +126,15 @@ G~Hickey*, D~Heller*, {\bf J}~{\bf Monlong*}, JA~Sibbesen, J~Siren, J~Eizenga,
 \newblock {\em
   \href{https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1941-7}{Genome
   Biology}}, 2020.
+
+\bibitem{Hickey2022}
+G~Hickey*, {\bf J}~{\bf Monlong}*, A~Novak, JM~Eizenga, {}~Human Pangenome
+  Reference~Consortium, H~Li, and B~Paten.
+\newblock Pangenome graph construction from genome alignment with
+  minigraph-cactus.
+\newblock {\em
+  \href{https://www.biorxiv.org/content/early/2022/10/07/2022.10.06.511217}{bioRxiv}},
+  2022.
 
 \bibitem{Jessa2019}
 S~Jessa, A~Blanchet-Cohen, B~Krug, M~Vladoiu, M~Coutelier, D~Faury, B~Poreau,

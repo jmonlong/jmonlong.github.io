@@ -1,5 +1,9 @@
 <li itemscope itemtype="http://schema.org/CreativeWork">
+  {{ if .Params.is_poster }}
+  <i class="fa-li fa fa-file-powerpoint-o pub-icon" aria-hidden="true"></i>
+  {{ else }}
   <i class="fa-li fa fa-comment-o pub-icon" aria-hidden="true"></i>
+  {{ end }}
   <span class="talk-title" itemprop="name">{{ .Title }}</span>
   <p>
     {{ .Date.Format $.Site.Params.date_format }},
@@ -10,7 +14,7 @@
     {{ end }}
     </br>
     <span class="talk-location">{{ .Params.location | markdownify }}</span>
-
+    
     {{ partial "talk_links" (dict "content" . "is_list" 1) }}
   </p>
 </li>
