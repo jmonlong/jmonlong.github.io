@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.8)  8 OCT 2022 13:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.3)  17 JAN 2023 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **MonlongJeanCV.tex
 (./MonlongJeanCV.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-09-28> (./cv.cls
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02> (./cv.cls
 Document Class: cv 
 (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -23,26 +23,26 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen140
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/carlisle/ltxtable.sty
 Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
  (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
  (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen139
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
 \ar@mcellbox=\box51
-\extrarowheight=\dimen140
+\extrarowheight=\dimen142
 \NC@list=\toks16
 \extratabsurround=\skip49
 \backup@length=\skip50
 \ar@cellbox=\box52
 )
-\TX@col@width=\dimen141
-\TX@old@table=\dimen142
-\TX@old@col=\dimen143
-\TX@target=\dimen144
-\TX@delta=\dimen145
+\TX@col@width=\dimen143
+\TX@old@table=\dimen144
+\TX@old@col=\dimen145
+\TX@target=\dimen146
+\TX@delta=\dimen147
 \TX@cols=\count193
 \TX@ftn=\toks17
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
@@ -52,7 +52,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTpre=\skip53
 \LTpost=\skip54
 \LTchunksize=\count194
-\LTcapwidth=\dimen146
+\LTcapwidth=\dimen148
 \LT@head=\box53
 \LT@firsthead=\box54
 \LT@foot=\box55
@@ -73,8 +73,6 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-\stockwidth=\dimen147
-\stockheight=\dimen148
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
  (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -229,7 +227,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \smedskip=\skip61
 \ssmallskip=\skip62
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/10/04 3.81 The Babel package
+Package: babel 2022/10/23 3.82 The Babel package
 \babel@savecnt=\count279
 \U@D=\dimen163
 \l@unhyphenated=\language3
@@ -272,7 +270,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box58
 ) (./MonlongJeanCV.aux)
@@ -644,8 +642,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.147 \bibitem{Kuzmin2021}
-                          
+l.147 \bibitem{CARDpreprint}
+                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -661,8 +659,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.156 \bibitem{Lappalainen2013}
-                               
+l.156 \bibitem{Kuzmin2021}
+                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -672,274 +670,274 @@ Underfull \hbox (badness 10000) detected at line 156
  []
 
 
-./MonlongJeanCV.bbl:164: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./MonlongJeanCV.bbl:165: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \bibitem{Li2017}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 164
-[][]
- []
-
-
-./MonlongJeanCV.bbl:170: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.170 \bibitem{HPRCdraft2022}
-                             
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 170
-[][]
- []
-
-
-./MonlongJeanCV.bbl:180: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.180 \bibitem{Mele2015}
-                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 180
-[][]
- []
-
-
-./MonlongJeanCV.bbl:187: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.187 \bibitem{Monlong2014}
-                           
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 187
-[][]
- []
-
-
-./MonlongJeanCV.bbl:195: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.195 \bibitem{Monlong2018reppopsv}
-                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 195
-[][]
- []
-
-
-./MonlongJeanCV.bbl:203: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.203 \bibitem{Monlong2018}
-                           
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 203
-[][]
- []
-
-
-./MonlongJeanCV.bbl:211: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 \bibitem{Pervouchine2015}
+l.165 \bibitem{Lappalainen2013}
                                
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 211
+Underfull \hbox (badness 10000) detected at line 165
 [][]
  []
 
 
-./MonlongJeanCV.bbl:221: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./MonlongJeanCV.bbl:173: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.221 \bibitem{RodriguezMartin2020}
-                                   
+l.173 \bibitem{Li2017}
+                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 221
+Underfull \hbox (badness 10000) detected at line 173
 [][]
  []
 
 
-./MonlongJeanCV.bbl:229: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./MonlongJeanCV.bbl:179: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 \bibitem{Saha2017}
-                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 229
-[][]
- []
-
-
-./MonlongJeanCV.bbl:236: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.236 \bibitem{Seigneurin2011}
-                              
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 236
-[][]
- []
-
-
-./MonlongJeanCV.bbl:244: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.244 \bibitem{Nanopore2020}
-                            
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 244
-[][]
- []
-
-
-./MonlongJeanCV.bbl:252: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.252 \bibitem{Giraffe2021}
-                           
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 252
-[][]
- []
-
-
-./MonlongJeanCV.bbl:262: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.262 \bibitem{Hoen2013}
-                        
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 262
-[][]
- []
-
-
-./MonlongJeanCV.bbl:269: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.269 \bibitem{Tan2017}
-                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 269
-[][]
- []
-
-
-./MonlongJeanCV.bbl:275: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.275 \bibitem{Tukiainen2017}
+l.179 \bibitem{HPRCdraft2022}
                              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 275
+Underfull \hbox (badness 10000) detected at line 179
 [][]
  []
 
 
-./MonlongJeanCV.bbl:281: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./MonlongJeanCV.bbl:189: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.281 \bibitem{Wang2020}
+l.189 \bibitem{Mele2015}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 281
+Underfull \hbox (badness 10000) detected at line 189
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:196: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 \bibitem{Monlong2014}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 196
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:204: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 \bibitem{Monlong2018reppopsv}
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 204
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:212: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 \bibitem{Monlong2018}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 212
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:220: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 \bibitem{Pervouchine2015}
+                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 220
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:230: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.230 \bibitem{RodriguezMartin2020}
+                                   
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 230
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:238: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 \bibitem{Saha2017}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 238
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:245: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.245 \bibitem{Seigneurin2011}
+                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 245
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:253: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253 \bibitem{Nanopore2020}
+                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 253
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:261: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 \bibitem{Giraffe2021}
+                           
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 261
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:271: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 \bibitem{Hoen2013}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 271
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:278: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 \bibitem{Tan2017}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 278
+[][]
+ []
+
+
+./MonlongJeanCV.bbl:284: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 \bibitem{Tukiainen2017}
+                             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 284
 [][]
  []
 
@@ -950,7 +948,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.290 \bibitem{Yang2017}
+l.290 \bibitem{Wang2020}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -960,25 +958,42 @@ Underfull \hbox (badness 10000) detected at line 290
 [][]
  []
 
+
+./MonlongJeanCV.bbl:299: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.299 \bibitem{Yang2017}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 299
+[][]
+ []
+
 )
-Underfull \hbox (badness 3386) in paragraph at lines 346--346
+Underfull \hbox (badness 3386) in paragraph at lines 350--350
 []|[]\T1/cmr/m/n/10.95 B Rodriguez-Martin, EG Al-varez, A Baez-Ortega, ..., \T1/cmr/bx/n/10.95 J Mon-long\T1/cmr/m/n/10.95 , ...,
  []
 
 [2] [3] [4] [5] [6] (./MonlongJeanCV.aux) ) 
 Here is how much of TeX's memory you used:
- 10724 strings out of 477031
- 170641 string characters out of 5827863
- 568186 words of memory out of 5000000
- 31670 multiletter control sequences out of 15000+600000
+ 10720 strings out of 476931
+ 170479 string characters out of 5825076
+ 573182 words of memory out of 5000000
+ 31765 multiletter control sequences out of 15000+600000
  480659 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  87i,7n,91p,413b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
-Output written on MonlongJeanCV.pdf (6 pages, 129558 bytes).
+Output written on MonlongJeanCV.pdf (6 pages, 129838 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 51 named destinations out of 1000 (max. 500000)
+ 559 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 52 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
