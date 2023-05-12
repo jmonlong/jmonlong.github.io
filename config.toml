@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Jean Monlong"
-copyright = "&copy; 2020 Jean Monlong"
+copyright = "&copy; 2023 Jean Monlong"
 theme = "hugo-academic"
 publishDir = "docs"
 enableEmoji = true
@@ -24,13 +24,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "misc"]
 
 [params]
   name = "Jean Monlong"
-  role = "Postdoctoral researcher. he/him"
-  organization = "University of California, Santa Cruz"
-  organization_url = "https://cgl.genomics.ucsc.edu/"
+  role = "Researcher CRCN INSERM. he/him"
+  organization = "IRSD, Toulouse, France"
+  organization_url = "https://www.irsd.fr/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2018.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jean.monlong@gmail.com"
-  address = "Room 405A, Physical Sciences Building, 1156 High St, Santa Cruz, CA 95064"
+  address = "B522, INSERM IRSD U1220, CHU PURPAN, Place du Docteur Baylac, CS 60039, 31024 TOULOUSE CEDEX 3, ​FRANCE"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
   # skype = "jean.monlong"

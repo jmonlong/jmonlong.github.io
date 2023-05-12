@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Jean Monlong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Jean Monlong</copyright>
+    <copyright>&amp;copy; 2023 Jean Monlong</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/publications/</guid>
-      <description>Phased nanopore assembly with Shasta and modular graph phasing with GFAse. bioRxiv 2023. R Lorig-Roach, M Meredith,  J Monlong, …, P Carnevali, K Miga, B Paten         Scalable Nanopore sequencing of human genomes provides a comprehensive view of haplotype-resolved variation and methylation. bioRxiv 2023. M Kolmogorov, KJ Billingsley, M Mastoras, M Meredith,  J Monlong, .., C Blauwendraat, B Paten         Pangenome Graph Construction from Genome Alignment with Minigraph-Cactus.</description>
+      <description>A draft human pangenome reference. Nature 2023. W Liao, M Asri, J Ebler, D Doerr, M Haukness, G Hickey, S Lu, JK Lucas,  J Monlong, …, G Bourque, MJP Chaisson, P Flicek, AM Phillippy, JM Zook, EE Eichler, D Haussler, T Wang, ED Jarvis, KH Miga, E Garrison, T Marschall, IM Hall, H Li, B Paten  Preprint          Pangenome graph construction from genome alignments with Minigraph-Cactus.</description>
     </item>
     
     <item>

@@ -75,10 +75,10 @@ G~Hickey*, D~Heller*, {\bf J}~{\bf Monlong*}, JA~Sibbesen, J~Siren, J~Eizenga, E
 \newblock Genotyping structural variants in pangenome graphs using the vg toolkit.
 \newblock {\em \href{https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1941-7}{Genome Biology}}, 2020.
 
-\bibitem{Hickey2022}
-G~Hickey*, {\bf J}~{\bf Monlong}*, A~Novak, JM~Eizenga, {}~Human Pangenome Reference~Consortium, H~Li, and B~Paten.
-\newblock Pangenome graph construction from genome alignment with minigraph-cactus.
-\newblock {\em \href{https://www.biorxiv.org/content/early/2022/10/07/2022.10.06.511217}{bioRxiv}}, 2022.
+\bibitem{Hickey2023}
+G~Hickey*, {\bf J}~{\bf Monlong}*, J~Ebler, AM~Novak, JM~Eizenga, Y~Gao, {Human Pangenome Reference Consortium}, H~Li, and B~Paten.
+\newblock Pangenome graph construction from genome alignments with {Minigraph}-{Cactus}.
+\newblock {\em \href{https://www.nature.com/articles/s41587-023-01793-w}{Nature Biotechnology}}, 2023.
 
 \bibitem{Jessa2019}
 S~Jessa, A~Blanchet-Cohen, B~Krug, M~Vladoiu, M~Coutelier, D~Faury, B~Poreau, N~De~Jay, S~H\'ebert, {\bf J}~{\bf Monlong}, ..., G~Bourque, J~Ragoussis, L~Garzia, MD~Taylor, N~Jabado, and CL~Kleinman.
@@ -105,10 +105,10 @@ X~Li, et~al., and {\bf The GTEx}~{\bf Consortium}.
 \newblock {The impact of rare variation on gene expression across tissues.}
 \newblock {\em \href{http://www.ncbi.nlm.nih.gov/pubmed/29022581}{Nature}}, 2017.
 
-\bibitem{HPRCdraft2022}
-W~Liao, M~Asri, J~Ebler, D~Doerr, M~Haukness, G~Hickey, S~Lu, JK~Lucas, {\bf J}~{\bf Monlong}, ..., G~Bourque, MJP Chaisson, P~Flicek, AM~Phillippy, JM~Zook, EE~Eichler, D~Haussler, ED~Jarvis, KH~Miga, T~Wang, E~Garrison, T~Marschall, IM~Hall, H~Li, and B~Paten.
-\newblock A {Draft} {Human} {Pangenome} {Reference}.
-\newblock {\em \href{http://biorxiv.org/lookup/doi/10.1101/2022.07.09.499321}{bioRxiv}}, 2022.
+\bibitem{HPRC2023}
+W~Liao, M~Asri, J~Ebler, D~Doerr, M~Haukness, G~Hickey, S~Lu, JK~Lucas, {\bf J}~{\bf Monlong}, ..., G~Bourque, MJP Chaisson, P~Flicek, AM~Phillippy, JM~Zook, EE~Eichler, D~Haussler, T~Wang, ED~Jarvis, KH~Miga, E~Garrison, T~Marschall, IM~Hall, H~Li, and B~Paten.
+\newblock A draft human pangenome reference.
+\newblock {\em \href{https://www.nature.com/articles/s41586-023-05896-x}{Nature}}, 2023.
 
 \bibitem{gfasepreprint}
 R~Lorig-Roach, M~Meredith, {\bf J}~{\bf Monlong}, ..., P~Carnevali, K~Miga, and B~Paten.

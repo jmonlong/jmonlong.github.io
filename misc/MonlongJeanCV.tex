@@ -1,7 +1,8 @@
 \documentclass[11pt,a4paper]{cv}
 
 \usepackage[english]{babel}
-\usepackage[latin1]{inputenc}
+% \usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{amssymb}
 \usepackage{bibentry}
@@ -34,12 +35,12 @@
 }
 
 % Largeur de la colonne de gauche
-\setlength{\colwidth}{2.5cm}
+\setlength{\colwidth}{2.3cm}
 
 % Espacements
-\smallskipamount=1mm	% Espace entre les diffÈrents entrÈes d'une section
- \medskipamount=3mm		% Espace entre les sections
-\bigskipamount=5mm		% Espace entre le chapeau et l'objectif ou la premiËre section
+\smallskipamount=1mm	% Espace entre les diff√©rents entr√©es d'une section
+\medskipamount=3mm		% Espace entre les sections
+\bigskipamount=2mm		% Espace entre le chapeau et l'objectif ou la premi√®re section
 
 \begin{document}
 
@@ -52,7 +53,7 @@
   %% \Nationality{French}
   %% \DateOfBirth{}
   %%\Age{}
-  \Gender{M}	% M = Masculin, F = FÈminin. Est utilisÈ pour savoir s'il faut Ècrire NÈ ou NÈe par exemple ;-)
+  \Gender{M}	% M = Masculin, F = F√©minin. Est utilis√© pour savoir s'il faut √©crire N√© ou N√©e par exemple ;-)
   % \MaritalStatus{}
   %%\Mobility{Driver's license}
   %% \Photo{Photo.jpg}
@@ -77,7 +78,7 @@
   \end{entry}
   \begin{entry}
     \Date{2010 -- 2011}
-    \Place{\href{http://www.fme.upc.edu/}{Universitat PolitËcnica de Catalunya}}
+    \Place{\href{http://www.fme.upc.edu/}{Universitat Polit√®cnica de Catalunya}}
     \Locality{Barcelona}
     \Country{Spain}
     \Activity{{\bf Master in Statistic and Operations Research} as an exchange student in the Faculty of Mathematics and Statistics}
@@ -91,14 +92,14 @@
   \end{entry}
   \begin{entry}
     \Date{2006 -- 2008}
-    \Place{\href{http://montaigne-bordeaux.fr/}{LycÈe Michel Montaigne}}
+    \Place{\href{http://montaigne-bordeaux.fr/}{Lyc√©e Michel Montaigne}}
     \Locality{Bordeaux}
     \Country{France}
-    \Activity{Preparatory classes for entrance to the Grandes …coles. Mathematics and Physics}
+    \Activity{Preparatory classes for entrance to the Grandes √âcoles. Mathematics and Physics}
   \end{entry}
   %% \begin{entry}[\detailedOnly]
   %%   \Date{2003 -- 2006}
-  %%   \Place{\href{http://www.lyceedenavarre.fr/}{LycÈe de Navarre}}
+  %%   \Place{\href{http://www.lyceedenavarre.fr/}{Lyc√©e de Navarre}}
   %%   \Locality{St Jean-Pied-de-Port, 64}
   %%   \Country{France}
   %%   \Activity{High School student with specialization in Mathematics}
@@ -109,11 +110,18 @@
 
 \begin{section}{Professional Experiences and Projects}
   \begin{entry}
-    \Date{2018 -- }
+    \Date{2023 -- }
+    \Place{\href{https://www.irsd.fr/}{Institut de Recherche en Sant√© Digestive}}
+    \Locality{Toulouse}
+    \Country{France}
+    \Activity{Researcher CRCN at \href{https://www.inserm.fr/en/home/}{INSERM}. Genomics research on pangenomes and structural variants}
+  \end{entry}
+  \begin{entry}
+    \Date{2018 -- 2023}
     \Place{\href{https://www.ucsc.edu/}{University of California Santa Cruz}}
     \Locality{Santa Cruz}
     \Country{USA}
-    \Activity{Postdoctoral researcher with Benedict Paten in the \href{https://cgl.genomics.ucsc.edu/}{Computational Genomics Lab}, analyzing structural variation using \href{https://github.com/vgteam/vg}{variation graphs}}
+    \Activity{Postdoctoral researcher with Benedict Paten in the \href{https://cgl.genomics.ucsc.edu/}{Computational Genomics Lab}, analyzing structural variation with pangenomes}
   \end{entry}
   \begin{entry}
     \Date{2012 -- 2018}
@@ -149,7 +157,7 @@
   \begin{entry}[\detailedOnly]
     \Date{2011}
     \Duration{3 months}
-    \Place{\href{http://www.fme.upc.edu/}{Universitat PolitËcnica de Catalunya}}
+    \Place{\href{http://www.fme.upc.edu/}{Universitat Polit√®cnica de Catalunya}}
     \Locality{Barcelona}
     \Country{Spain}
     \Activity{Study of the regularization of the generalized canonical correlation analysis}
@@ -177,17 +185,17 @@
 
 \begin{section}{Expertise}[\detailedOnly]
   \begin{entry}
-    \Activity{{\Large R}, {\scriptsize Java}, {\scriptsize C}, {\large Bash}, Python, WDL, Snakemake, {\scriptsize AWK}, {\scriptsize Perl}, {\scriptsize D3/Javascript/HTML/CSS}}
+    \Activity{{\Large R}, {\scriptsize Java}, {\scriptsize C}, {\large Bash}, Python, {\large WDL}, Snakemake, {\scriptsize AWK}, {\scriptsize Perl}, {\scriptsize D3/Javascript/HTML/CSS}}
   \end{entry}
   \begin{entry}
     \Activity{Git, {\small Linux}, {\small High Performance Computing}, {\small LaTeX}, R/Markdown, Emacs}
   \end{entry}
   \begin{entry}
-    \Activity{{\Large Structural Variation}, {\large Bioinformatics}, {\Large Genomics}, {\large Pangenomics}, {\scriptsize Transcriptomics}}
+    \Activity{{\Large Genomics}, {\large Structural Variation}, {\large Pangenomics}, {\scriptsize Transcriptomics}, Bioinformatics}
   \end{entry}
 \end{section}
 
-\newpage
+% \newpage
 
 %% \begin{section}{Selected Scholarships and Awards}
 \begin{section}{Scholarships and Awards}
@@ -290,19 +298,19 @@
   \nobibliography{JM-publication}
   \begin{entry}
     \Date{2023}
+    \Activity{\bibentry{Hickey2023}}
+  \end{entry}
+  \begin{entry}
+    \Date{2023}
+    \Activity{\bibentry{HPRC2023}}
+  \end{entry}
+  \begin{entry}
+    \Date{2023}
     \Activity{\bibentry{gfasepreprint}}
   \end{entry}
   \begin{entry}
     \Date{2023}
     \Activity{\bibentry{CARDpreprint}}
-  \end{entry}
-  \begin{entry}
-    \Date{2022}
-    \Activity{\bibentry{Hickey2022}}
-  \end{entry}
-  \begin{entry}
-    \Date{2022}
-    \Activity{\bibentry{HPRCdraft2022}}
   \end{entry}
   \begin{entry}
     \Date{2022}
@@ -446,11 +454,19 @@
   \end{entry}
 \end{section}
 
-\bigskip
-\bigskip
+% \bigskip
+% \bigskip
+
+\newpage
 
 %% \begin{section}{Selected Scientific Presentations}
 \begin{section}{Selected Scientific Presentations}
+  \begin{entry}
+    \Date{2020}
+    \Locality{New York City}
+    \Place{NY, USA}
+    \Activity{{\bf Oral} presentation, {\it GSP-TOPMed Analysis Workshop}}
+  \end{entry}
   \begin{entry}
     \Date{2019}
     \Locality{Cold Spring Harbor Laboratory}
