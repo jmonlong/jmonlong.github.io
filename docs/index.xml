@@ -11,6 +11,55 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A draft human pangenome reference</title>
+      <link>/fixed/hprc-draft-human-pangenome/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/hprc-draft-human-pangenome/</guid>
+      <description>&lt;p&gt;Published in &lt;a href=&#34;https://www.nature.com/articles/s41586-023-05896-x&#34; target=&#34;_blank&#34;&gt;Nature&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/hprc-draft-banner.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://www.genome.gov/about-genomics/new-human-pangenome-reference&#34; target=&#34;_blank&#34;&gt;NHGRI webpage&lt;/a&gt; and &lt;a href=&#34;https://humanpangenome.org/news/&#34; target=&#34;_blank&#34;&gt;HPRC webpage&lt;/a&gt; compile links to the papers, news coverage, and multimedia material.&lt;/p&gt;
+
+&lt;p&gt;Among others:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Scientists have updated the human genome to make it more equitable and inclusive
+- &lt;a href=&#34;https://edition.cnn.com/2023/05/10/health/human-pangenome-scn-wellness/index.html&#34; target=&#34;_blank&#34;&gt;CNN&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A new, more diverse human genome offers hope for rare genetic diseases
+- &lt;a href=&#34;https://www.washingtonpost.com/science/2023/05/10/pangenome-human-diseases/&#34; target=&#34;_blank&#34;&gt;The Washington Post&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Scientists Unveil a More Diverse Human Genome
+- &lt;a href=&#34;https://www.nytimes.com/2023/05/10/science/pangenome-human-dna-genetics.html&#34; target=&#34;_blank&#34;&gt;The New York Times&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Scientists Have Built a Human &amp;lsquo;Pangenome&amp;rsquo; to Better Reflect Diversity
+- &lt;a href=&#34;https://time.com/6278859/dna-pangenome-research/&#34; target=&#34;_blank&#34;&gt;TIME&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Updated DNA map better reflects human diversity
+- &lt;a href=&#34;https://www.bbc.com/news/science-environment-65539594&#34; target=&#34;_blank&#34;&gt;BBC News&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pangenomes: incorporating diversity into genomic analyses</title>
       <link>/talk/googlegenomicsdeepdive2022/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
@@ -454,32 +503,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
       
       <guid>/teaching/monbug2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>High Rate of Recurrent De Novo Mutations in Developmental and Epileptic Encephalopathies</title>
-      <link>/fixed/denovo-mutation-epilepsy-2017/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/fixed/denovo-mutation-epilepsy-2017/</guid>
-      <description>
-
-&lt;p&gt;Published in the &lt;a href=&#34;https://www.cell.com/ajhg/fulltext/S0002-9297(17)30377-4&#34; target=&#34;_blank&#34;&gt;American Journal of Human Genetics&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Eight New Epilepsy Genes Discovered
-- &lt;a href=&#34;https://neurosciencenews.com/epilepsy-genetics-7884/?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+neuroscience-rss-feeds-neuroscience-news+%28Neuroscience+News+Updates%29&#34; target=&#34;_blank&#34;&gt;Neuroscience News&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Researchers discover eight new epilepsy genes
-- &lt;a href=&#34;https://medicalxpress.com/news/2017-11-epilepsy-genes.html&#34; target=&#34;_blank&#34;&gt;Medical Press&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
     </item>
     
   </channel>

@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/fixed/hprc-draft-human-pangenome/</loc>
+      <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/googlegenomicsdeepdive2022/</loc>
       <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     </url>
@@ -397,7 +406,7 @@
     <url>
     
       <loc>/fixed/</loc>
-      <lastmod>2022-01-12T00:00:00+00:00</lastmod>
+      <lastmod>2023-05-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

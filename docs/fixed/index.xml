@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Jean Monlong</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/fixed/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A draft human pangenome reference</title>
+      <link>/fixed/hprc-draft-human-pangenome/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/hprc-draft-human-pangenome/</guid>
+      <description>Published in Nature.
+The NHGRI webpage and HPRC webpage compile links to the papers, news coverage, and multimedia material.
+Among others:
+ Scientists have updated the human genome to make it more equitable and inclusive - CNN.
+  A new, more diverse human genome offers hope for rare genetic diseases - The Washington Post.
+  Scientists Unveil a More Diverse Human Genome - The New York Times.
+  Scientists Have Built a Human &amp;lsquo;Pangenome&amp;rsquo; to Better Reflect Diversity - TIME.</description>
+    </item>
     
     <item>
       <title>Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting</title>
