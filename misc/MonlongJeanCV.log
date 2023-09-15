@@ -1,17 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.12)  12 MAY 2023 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.15)  15 SEP 2023 10:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **MonlongJeanCV.tex
 (./MonlongJeanCV.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-11> (./cv.cls
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(./cv.cls
 Document Class: cv 
-(/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+(/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -24,16 +25,16 @@ File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/carlisle/ltxtable.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/carlisle/ltxtable.sty
 Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen141
 \ar@mcellbox=\box51
 \extrarowheight=\dimen142
-\NC@list=\toks16
+\NC@list=\toks17
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box52
@@ -44,8 +45,8 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen146
 \TX@delta=\dimen147
 \TX@cols=\count193
-\TX@ftn=\toks17
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+\TX@ftn=\toks18
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip52
 \LTright=\skip53
@@ -62,109 +63,109 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LT@rows=\count196
 \c@LT@tables=\count197
 \c@LT@chunks=\count198
-\LT@p@ftn=\toks18
-)) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+\LT@p@ftn=\toks19
+)) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+\KV@toks@=\toks20
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count199
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count266
 )
 \@linkdim=\dimen149
 \Hy@linkcounter=\count267
 \Hy@pagecounter=\count268
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count269
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `false' on input line 4065.
-Package hyperref Info: Option `colorlinks' set `true' on input line 4065.
-Package hyperref Info: Option `breaklinks' set `true' on input line 4065.
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4050.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
+Package hyperref Info: Option `breaklinks' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks OFF on input line 4455.
+Package hyperref Info: Bookmarks OFF on input line 4440.
 \c@Hy@tempcnt=\count270
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/url/url.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen150
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count271
 \Field@Width=\dimen151
 \Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring ON on input line 6084.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring ON on input line 6069.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -173,25 +174,25 @@ package with kernel methods
 \c@Hfootnote=\count274
 )
 Package hyperref Info: Driver: hpdftex.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count275
 \c@bookmark@seq@number=\count276
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip56
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count277
@@ -205,14 +206,14 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen158
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
-\Gm@dimlist=\toks20
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+\Gm@dimlist=\toks21
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
@@ -227,15 +228,15 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \sbigskip=\skip61
 \smedskip=\skip62
 \ssmallskip=\skip63
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2023/05/11 v3.89 The Babel package
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/09/12 v3.94 The Babel package
 \babel@savecnt=\count280
 \U@D=\dimen163
 \l@unhyphenated=\language3
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count281
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel-english/english.ldf
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'british' set to \l@english
 (babel)             (\language0). Reported on input line 82.
@@ -247,28 +248,28 @@ Package babel Info: Hyphen rules for 'australian' set to \l@english
 (babel)             (\language0). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@english
 (babel)             (\language0). Reported on input line 108.
-)) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+)) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks23
+\@emptytoks=\toks24
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
+)) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
-) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box58
@@ -293,10 +294,10 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 45.
@@ -335,16 +336,29 @@ Package hyperref Info: Link coloring ON on input line 45.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
-(/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+./MonlongJeanCV.tex:60: LaTeX Error: Unicode character ​ (U+200B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{heading}
+                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+(/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
- (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+ (/home/jean.monlong/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/home/jmonlong/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./MonlongJeanCV.bbl
+{/home/jean.monlong/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./MonlongJeanCV.bbl
 
 ./MonlongJeanCV.bbl:3: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -641,8 +655,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 \bibitem{CARDpreprint}
-                           
+l.88 \bibitem{CARD2023}
+                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -992,28 +1006,33 @@ Underfull \hbox (badness 10000) detected at line 188
  []
 
 )
-Underfull \hbox (badness 1275) in paragraph at lines 314--314
-[]|[]\T1/cmr/m/n/10.95 M Kol-mogorov, KJ Billings-ley, M Mas-toras, M Mered-ith, \T1/cmr/bx/n/10.95 J Mon-long\T1/cmr/m/n/10.95 , ..,
+Underfull \hbox (badness 1024) in paragraph at lines 301--301
+[]|[]\T1/cmr/m/n/10.95 M Kol-mogorov, KJ Billings-ley, M Mas-toras, M Mered-ith, \T1/cmr/bx/n/10.95 J Mon-long\T1/cmr/m/n/10.95 , ...,
  []
 
 [2] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 582--582
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
 []|\T1/cmr/bx/n/10.95 2019-
  []
 
-[5] [6] (./MonlongJeanCV.aux) ) 
+[5] [6] (./MonlongJeanCV.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 11085 strings out of 478007
- 175579 string characters out of 5838997
- 1896999 words of memory out of 5000000
- 31060 multiletter control sequences out of 15000+600000
- 523687 words of font info for 59 fonts, out of 8000000 for 9000
+ 10963 strings out of 476894
+ 171407 string characters out of 5808436
+ 1963807 words of memory out of 5000000
+ 32059 multiletter control sequences out of 15000+600000
+ 569469 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,7n,90p,413b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
-Output written on MonlongJeanCV.pdf (6 pages, 129497 bytes).
+ 90i,7n,93p,413b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
+Output written on MonlongJeanCV.pdf (6 pages, 128768 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
+ 560 PDF objects out of 1000 (max. 8388607)
  196 compressed objects within 2 object streams
  53 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)

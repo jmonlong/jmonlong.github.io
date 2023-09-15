@@ -85,10 +85,10 @@ S~Jessa, A~Blanchet-Cohen, B~Krug, M~Vladoiu, M~Coutelier, D~Faury, B~Poreau, N~
 \newblock Stalled developmental programs at the root of pediatric brain tumors.
 \newblock {\em \href{https://www.nature.com/articles/s41588-019-0531-7}{Nature Genetics}}, 2019.
 
-\bibitem{CARDpreprint}
-M~Kolmogorov, KJ~Billingsley, M~Mastoras, M~Meredith, {\bf J}~{\bf Monlong}, .., C~Blauwendraat, and B~Paten.
-\newblock Scalable nanopore sequencing of human genomes provides a comprehensive view of haplotype-resolved variation and methylation.
-\newblock {\em \href{https://www.biorxiv.org/content/early/2023/01/15/2023.01.12.523790}{bioRxiv}}, 2023.
+\bibitem{CARD2023}
+M~Kolmogorov, KJ~Billingsley, M~Mastoras, M~Meredith, {\bf J}~{\bf Monlong}, ..., C~Blauwendraat, and B~Paten.
+\newblock Scalable {Nanopore} sequencing of human genomes provides a comprehensive view of haplotype-resolved variation and methylation.
+\newblock {\em \href{https://www.nature.com/articles/s41592-023-01993-x}{Nature Methods}}, 2023.
 
 \bibitem{Kuzmin2021}
 E~Kuzmin, {\bf J}~{\bf Monlong}, C~Martinez, H~Kuasne, CL~Kleinman, J~Ragoussis, G~Bourque, and M~Park.
