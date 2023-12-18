@@ -160,6 +160,11 @@ K~Shafin, T~Pesout, R~Lorig-Roach, M~Haukness, HE~Olsen, ..., {\bf J}~{\bf Monlo
 \newblock Nanopore sequencing and the {Shasta} toolkit enable efficient de novo assembly of eleven human genomes.
 \newblock {\em \href{https://www.nature.com/articles/s41587-020-0503-6}{Nature Biotechnology}}, 2020.
 
+\bibitem{Siren2023}
+J~Siren, P~Eskandar, MT~Ungaro, G~Hickey, JM~Eizenga, AM~Novak, X~Chang, PC~Chang, M~Kolmogorov, A~Carroll, {\bf J Monlong}, and B~Paten.
+\newblock Personalized pangenome references.
+\newblock {\em \href{https://www.biorxiv.org/content/early/2023/12/15/2023.12.13.571553}{bioRxiv}}, 2023.
+
 \bibitem{Giraffe2021}
 J~Sir{\'e}n*, {\bf J}~{\bf Monlong}*, X~Chang*, AM~Novak*, JM~Eizenga*, C~Markello, JA~Sibbesen, G~Hickey, P~Chang, A~Carroll, N~Gupta, S~Gabriel, TW~Blackwell, A~Ratan, KD~Taylor, SS~Rich, JI~Rotter, D~Haussler, E~Garrison, and B~Paten.
 \newblock Pangenomics enables genotyping of known structural variants in 5202 diverse genomes.
