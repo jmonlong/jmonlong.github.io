@@ -110,10 +110,10 @@ W~Liao, M~Asri, J~Ebler, D~Doerr, M~Haukness, G~Hickey, S~Lu, JK~Lucas, {\bf J}~
 \newblock A draft human pangenome reference.
 \newblock {\em \href{https://www.nature.com/articles/s41586-023-05896-x}{Nature}}, 2023.
 
-\bibitem{gfasepreprint}
+\bibitem{LorigRoach2024}
 R~Lorig-Roach, M~Meredith, {\bf J}~{\bf Monlong}, ..., P~Carnevali, K~Miga, and B~Paten.
-\newblock Phased nanopore assembly with shasta and modular graph phasing with gfase.
-\newblock {\em \href{https://www.biorxiv.org/content/early/2023/02/22/2023.02.21.529152}{bioRxiv}}, 2023.
+\newblock Phased nanopore assembly with {Shasta} and modular graph phasing with {GFAse}.
+\newblock {\em \href{http://genome.cshlp.org/lookup/doi/10.1101/gr.278268.123}{Genome Research}}, 2024.
 
 \bibitem{Mele2015}
 M~Mel\'e, PG~Ferreira, F~Reverter, DS~DeLuca, {\bf J}~{\bf Monlong}, M~Sammeth, ..., and The~GTEx Consortium.
@@ -179,6 +179,11 @@ PC~t~Hoen, et~al., and {\bf The Geuvadis}~{\bf Consortium}.
 MH~Tan, et~al., and {\bf The GTEx}~{\bf Consortium}.
 \newblock {Dynamic landscape and regulation of RNA editing in mammals.}
 \newblock {\em \href{http://www.ncbi.nlm.nih.gov/pubmed/29022589}{Nature}}, 2017.
+
+\bibitem{Review2024}
+DJ~Taylor, JM~Eizenga, Q~Li, A~Das, KM~Jenike, EE~Kenny, KH~Miga, {\bf J}~{\bf Monlong}, RC~McCoy, B~Paten, and MC~Schatz.
+\newblock Beyond the {Human} {Genome} {Project}: {The} {Age} of {Complete} {Human} {Genome} {Sequences} and {Pangenome} {References}.
+\newblock {\em \href{https://www.annualreviews.org/content/journals/10.1146/annurev-genom-021623-081639}{Annual Review of Genomics and Human Genetics}}, 2024.
 
 \bibitem{Tukiainen2017}
 T~Tukiainen, et~al., and {\bf The GTEx}~{\bf Consortium}.
