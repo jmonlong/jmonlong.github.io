@@ -90,6 +90,11 @@ M~Kolmogorov, KJ~Billingsley, M~Mastoras, M~Meredith, {\bf J}~{\bf Monlong}, ...
 \newblock Scalable {Nanopore} sequencing of human genomes provides a comprehensive view of haplotype-resolved variation and methylation.
 \newblock {\em \href{https://www.nature.com/articles/s41592-023-01993-x}{Nature Methods}}, 2023.
 
+\bibitem{Kuzmin2024}
+E~Kuzmin, TM~Baker, T~Lesluyes, {\bf J}~{\bf Monlong}, KT~Abe, PP~Coelho, M~Schwartz, ..., J~Ragoussis, G~Bourque, P~Van~Loo, and M~Park.
+\newblock Evolution of chromosome-arm aberrations in breast cancer through genetic network rewiring.
+\newblock {\em \href{https://linkinghub.elsevier.com/retrieve/pii/S2211124724003164}{Cell Reports}}, 2024.
+
 \bibitem{Kuzmin2021}
 E~Kuzmin, {\bf J}~{\bf Monlong}, C~Martinez, H~Kuasne, CL~Kleinman, J~Ragoussis, G~Bourque, and M~Park.
 \newblock Inferring {Copy} {Number} from {Triple}-{Negative} {Breast} {Cancer} {Patient} {Derived} {Xenograft} {scRNAseq} {Data} {Using} {scCNA}.

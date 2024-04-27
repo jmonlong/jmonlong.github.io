@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  26 APR 2024 23:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.29)  27 APR 2024 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,7 +670,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.93 \bibitem{Kuzmin2021}
+l.93 \bibitem{Kuzmin2024}
                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -687,8 +687,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \bibitem{Lappalainen2013}
-                              
+l.98 \bibitem{Kuzmin2021}
+                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -704,8 +704,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.103 \bibitem{Li2017}
-                      
+l.103 \bibitem{Lappalainen2013}
+                               
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -721,8 +721,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \bibitem{HPRC2023}
-                        
+l.108 \bibitem{Li2017}
+                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -738,8 +738,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.113 \bibitem{LorigRoach2024}
-                              
+l.113 \bibitem{HPRC2023}
+                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -755,8 +755,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 \bibitem{Mele2015}
-                        
+l.118 \bibitem{LorigRoach2024}
+                              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -772,8 +772,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.123 \bibitem{Monlong2014}
-                           
+l.123 \bibitem{Mele2015}
+                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -789,8 +789,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \bibitem{Monlong2018reppopsv}
-                                   
+l.128 \bibitem{Monlong2014}
+                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -806,8 +806,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 \bibitem{Monlong2018}
-                           
+l.133 \bibitem{Monlong2018reppopsv}
+                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -823,8 +823,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 \bibitem{Pervouchine2015}
-                               
+l.138 \bibitem{Monlong2018}
+                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -840,8 +840,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 \bibitem{RodriguezMartin2020}
-                                   
+l.143 \bibitem{Pervouchine2015}
+                               
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -857,8 +857,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 \bibitem{Saha2017}
-                        
+l.148 \bibitem{RodriguezMartin2020}
+                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -874,8 +874,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.153 \bibitem{Seigneurin2011}
-                              
+l.153 \bibitem{Saha2017}
+                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -891,8 +891,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 \bibitem{Nanopore2020}
-                            
+l.158 \bibitem{Seigneurin2011}
+                              
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -908,8 +908,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.163 \bibitem{Siren2023}
-                         
+l.163 \bibitem{Nanopore2020}
+                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -925,8 +925,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.168 \bibitem{Giraffe2021}
-                           
+l.168 \bibitem{Siren2023}
+                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -942,8 +942,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.173 \bibitem{Hoen2013}
-                        
+l.173 \bibitem{Giraffe2021}
+                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -959,8 +959,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 \bibitem{Tan2017}
-                       
+l.178 \bibitem{Hoen2013}
+                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -976,8 +976,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 \bibitem{Review2024}
-                          
+l.183 \bibitem{Tan2017}
+                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -993,8 +993,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.188 \bibitem{Tukiainen2017}
-                             
+l.188 \bibitem{Review2024}
+                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1010,8 +1010,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 \bibitem{Wang2020}
-                        
+l.193 \bibitem{Tukiainen2017}
+                             
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1027,7 +1027,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.198 \bibitem{Yang2017}
+l.198 \bibitem{Wang2020}
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1037,13 +1037,30 @@ Underfull \hbox (badness 10000) detected at line 198
 [][]
  []
 
+
+./MonlongJeanCV.bbl:203: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 \bibitem{Yang2017}
+                        
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 203
+[][]
+ []
+
 )
-Underfull \hbox (badness 1024) in paragraph at lines 319--319
+Underfull \hbox (badness 1024) in paragraph at lines 323--323
 []|\T1/cmr/m/n/10.95 M Kol-mogorov, KJ Billings-ley, M Mas-toras, M Mered-ith, \T1/cmr/bx/n/10.95 J Mon-long\T1/cmr/m/n/10.95 , ...,
  []
 
 [2] [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 601--601
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
 []|\T1/cmr/bx/n/10.95 2019-
  []
 
@@ -1054,18 +1071,18 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 10949 strings out of 476188
- 171229 string characters out of 5795083
- 1969975 words of memory out of 5000000
- 32751 multiletter control sequences out of 15000+600000
+ 10952 strings out of 476188
+ 171271 string characters out of 5795083
+ 1971975 words of memory out of 5000000
+ 32753 multiletter control sequences out of 15000+600000
  569469 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  90i,6n,93p,413b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jean.monlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
-Output written on MonlongJeanCV.pdf (7 pages, 131251 bytes).
+Output written on MonlongJeanCV.pdf (7 pages, 131520 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 579 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
