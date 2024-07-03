@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Characterising the CYP21A2 gene with Parakit</title>
+      <link>/talk/iggsy2024/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/iggsy2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pangenome graph construction from genome alignments with Minigraph-Cactus</title>
+      <link>/talk/jobim2024/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/jobim2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A draft human pangenome reference</title>
       <link>/fixed/hprc-draft-human-pangenome/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
@@ -517,28 +535,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 
 
 </description>
-    </item>
-    
-    <item>
-      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
-      <link>/talk/nccb2019/</link>
-      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/nccb2019/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Jean Monlong from &lt;a href=&#34;https://twitter.com/ucsc?ref_src=twsrc%5Etfw&#34;&gt;@UCSC&lt;/a&gt; :&lt;br&gt;Genotyping Structural Variants in Pangenome Graphs Using the VG Toolkit &lt;a href=&#34;https://twitter.com/hashtag/nccb2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#nccb2019&lt;/a&gt; &lt;a href=&#34;https://t.co/hjHEzJr6Cj&#34;&gt;pic.twitter.com/hjHEzJr6Cj&lt;/a&gt;&lt;/p&gt;&amp;mdash; NCCB Symposium (@NorCalCompBio) &lt;a href=&#34;https://twitter.com/NorCalCompBio/status/1183149160733626368?ref_src=twsrc%5Etfw&#34;&gt;October 12, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to R Markdown</title>
-      <link>/teaching/monbug2018/</link>
-      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/teaching/monbug2018/</guid>
-      <description></description>
     </item>
     
   </channel>

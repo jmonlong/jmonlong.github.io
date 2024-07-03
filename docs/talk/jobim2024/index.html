@@ -61,11 +61,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/talk/googlegenomicsdeepdive2022/">
+  <link rel="canonical" href="/talk/jobim2024/">
 
   
 
-  <title>Pangenomes: incorporating diversity into genomic analyses | Jean Monlong</title>
+  <title>Pangenome graph construction from genome alignments with Minigraph-Cactus | Jean Monlong</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -174,15 +174,18 @@
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
+<div class="article-header">
+  <img src="/img/headers/toulouse.jpg" class="article-banner" itemprop="image">
+  
+</div>
+
 
 
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Pangenomes: incorporating diversity into genomic analyses</h1>
+      <h1 itemprop="name">Pangenome graph construction from genome alignments with Minigraph-Cactus</h1>
       <span class="pub-authors" itemprop="author">
-        
-        Xian Chang, Jean Monlong
         
       </span>
       
@@ -192,7 +195,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract" itemprop="text">The human reference genome is one of the most widely used resources in biological research.  It is the basis for studying the functional biology of the human genome, genetic variations and their implications in disease, evolutionary relationships between humans and other species, and countless other basic biological and clinical questions.  As a ``reference&#39;&#39;, the reference genome serves as a standard scaffold against which new genomic data is compared.  In order for a reference to be effective, it must be similar enough to the sample that they can be compared and differences between them identified and interpreted.  However, the human reference genome is a “linear” genome that represents just one copy of a genome and has no information about genetic diversity.  Because of its lack of diversity, the reference genome can differ significantly from an individual&#39;s genome and can bias new samples to appear more similar to the reference than they actually are. In its current form, the human reference genome is not representative of the human population and analyses that use it can be inaccurate for people who are dissimilar to the reference. One emerging alternative to a linear reference genome is a “pangenome” reference that represents a collection of genomic sequences. A pangenome incorporates information about genetic variants and can therefore better represent the genetic makeup of a population. The Human Pangenome Reference Consortium (HPRC) is working to produce a new pangenome reference that incorporates the genomes of hundreds of individuals from around the globe, selected to best represent global human genetic diversity as we currently understand it. With an improved reference, we can reduce biases in genetic analyses to make genomic research and genetic testing more accurate and useful for diverse populations. </p>
+      <p class="pub-abstract" itemprop="text">Pangenome references address biases of reference genomes by storing a representative set of diverse haplotypes and their alignment, usually as a graph. Alternate alleles determined by variant callers can be used to construct pangenome graphs, but advances in long-read sequencing are leading to widely available, high-quality phased assemblies. Constructing a pangenome graph directly from assemblies, as opposed to variant calls, leverages the graph’s ability to represent variation at different scales. Here we present the Minigraph-Cactus pangenome pipeline, which creates pangenomes directly from whole-genome alignments, and demonstrate its ability to scale to 90 human haplotypes from the Human Pangenome Reference Consortium. The method builds graphs containing all forms of genetic variation while allowing use of current mapping and genotyping tools. We measure the effect of the quality and completeness of reference genomes used for analysis within the pangenomes and show that using the CHM13 reference from the Telomere-to-Telomere Consortium improves the accuracy of our methods. We also demonstrate construction of a Drosophila melanogaster pangenome.</p>
     
 
     <div class="row">
@@ -201,7 +204,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            Oct 4, 2022
+            Jun 26, 2024
           </div>
         </div>
       </div>
@@ -215,9 +218,9 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
           <div class="col-xs-12 col-sm-9">
-            
-            Google Genomics Deep Dive
-            
+            <a href="https://jobim2024.sciencesconf.org" target="_blank">
+            Journées Ouvertes en Biologie, Informatique, et Mathématiques
+            </a>
           </div>
         </div>
       </div>
@@ -231,7 +234,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
-          <div class="col-xs-12 col-sm-9">Palo Alto, CA, USA</div>
+          <div class="col-xs-12 col-sm-9">Toulouse, France</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -239,6 +242,35 @@
     <div class="visible-xs space-below"></div>
     
 
+    
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+<a class="btn btn-primary btn-outline" href="/slides/JeanMonlong-JOBIM24.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
     
 
     <div class="space-below"></div>
@@ -254,12 +286,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="/talk/agbtph2022/"><span
-      aria-hidden="true">&larr;</span> Accurate short variant calling from sequencing data with pangenomes and DeepVariant</a></li>
+    <li class="previous"><a href="/talk/googlegenomicsdeepdive2022/"><span
+      aria-hidden="true">&larr;</span> Pangenomes: incorporating diversity into genomic analyses</a></li>
     
 
     
-    <li class="next"><a href="/talk/jobim2024/">Pangenome graph construction from genome alignments with Minigraph-Cactus <span
+    <li class="next"><a href="/talk/iggsy2024/">Characterising the CYP21A2 gene with Parakit <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
