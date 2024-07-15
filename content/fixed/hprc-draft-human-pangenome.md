@@ -3,9 +3,7 @@ title = "A draft human pangenome reference"
 date = "2023-05-12"
 +++
 
-Published in [Nature](https://www.nature.com/articles/s41586-023-05896-x).
-
-![](/img/hprc-draft-banner.jpeg)
+[![](/img/hprc-cover.jpg)](https://www.nature.com/articles/s41586-023-05896-x)
 
 ## Press in English
 
