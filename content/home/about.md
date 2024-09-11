@@ -12,8 +12,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Genomics",
-    "Bioinformatics"
+    "Structural Variation",
+    "Pangenomes",
+    "Genetics & Disease"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,5 +30,8 @@ weight = 1
  
 +++
 
+\ 
 
-I'm a PhD candidate in genomics looking at copy number variation across healthy and disease genomes.
+My research aims at characterizing the functional impact of structural variants.
+
+After working on their detection from sequencing data (short and long reads, pangenomes), I'm now looking for structural variants that could help us better understand complex diseases, or diagnose patients with rare undiagnosed diseases.

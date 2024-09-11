@@ -3,7 +3,7 @@
 
 <!-- About widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="{{ if $.Site.Params.email }}person-email{{ end }}{{ if $.Site.Params.phone }} person-telephone{{ end }}{{ if $.Site.Params.address}} person-address{{ end }}">
-  <div class="col-xs-12 col-md-12">
+  <div class="col-xs-12 col-md-6">
     <div id="profile">
 
       {{ if $.Site.Params.gravatar }}
@@ -61,40 +61,40 @@
 
     </div>
   </div>
-  <!-- <div class="col-xs-12 col-md-8" itemprop="description"> -->
+  <div class="col-xs-12 col-md-6" itemprop="description">
 
-  <!--   {{ $page.Content }} -->
+    {{ $page.Content }}
 
-  <!--   <div class="row"> -->
+    <!-- <div class="row"> -->
 
-  <!--     {{ with $page.Params.interests }} -->
-  <!--     <div class="col-sm-5"> -->
-  <!--       <h3>{{ i18n "interests" | markdownify }}</h3> -->
-  <!--       <ul class="ul-interests"> -->
-  <!--         {{ range .interests }} -->
-  <!--         <li>{{ . }}</li> -->
-  <!--         {{ end }} -->
-  <!--       </ul> -->
-  <!--     </div> -->
-  <!--     {{ end }} -->
+      {{ with $page.Params.interests }}
+      <div class="col-sm-6">
+        <h3>{{ i18n "interests" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range .interests }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
 
-  <!--     {{ with $page.Params.education }} -->
-  <!--     <div class="col-sm-7"> -->
-  <!--       <h3>{{ i18n "education" | markdownify }}</h3> -->
-  <!--       <ul class="ul-edu fa-ul"> -->
-  <!--         {{ range .courses }} -->
-  <!--         <li> -->
-  <!--           <i class="fa-li fa fa-graduation-cap"></i> -->
-  <!--           <div class="description"> -->
-  <!--             <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p> -->
-  <!--             <p class="institution">{{ .institution }}</p> -->
-  <!--           </div> -->
-  <!--         </li> -->
-  <!--         {{ end }} -->
-  <!--       </ul> -->
-  <!--     </div> -->
-  <!--     {{ end }} -->
+      <!-- {{ with $page.Params.education }} -->
+      <!-- <div class="col-sm-7"> -->
+      <!--   <h3>{{ i18n "education" | markdownify }}</h3> -->
+      <!--   <ul class="ul-edu fa-ul"> -->
+      <!--     {{ range .courses }} -->
+      <!--     <li> -->
+      <!--       <i class="fa-li fa fa-graduation-cap"></i> -->
+      <!--       <div class="description"> -->
+      <!--         <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p> -->
+      <!--         <p class="institution">{{ .institution }}</p> -->
+      <!--       </div> -->
+      <!--     </li> -->
+      <!--     {{ end }} -->
+      <!--   </ul> -->
+      <!-- </div> -->
+      <!-- {{ end }} -->
 
-  <!--   </div> -->
+    <!-- </div> -->
   </div>
 </div>

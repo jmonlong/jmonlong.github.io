@@ -139,10 +139,10 @@ publishDir = "docs"
     icon_pack = "fa"
     link = "//github.com/jmonlong"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/JMonlong"
+  # [[params.social]]
+  #   icon = "twitter"
+  #   icon_pack = "fa"
+  #   link = "//twitter.com/JMonlong"
 
   [[params.social]]
     icon = "orcid"
