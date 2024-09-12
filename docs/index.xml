@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>HPRC workshop</title>
+      <link>/teaching/hugo2024/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/hugo2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A draft human pangenome reference</title>
       <link>/fixed/hprc-draft-human-pangenome/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
@@ -156,6 +165,15 @@
 - &lt;a href=&#34;https://www.sudouest.fr/genetique-un-pan-genome-humain-devoile-pour-la-premiere-fois-par-des-scientifiques-15110027.php&#34; target=&#34;_blank&#34;&gt;Sud Ouest&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>HPRC workshop</title>
+      <link>/teaching/acmg23/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/acmg23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -528,62 +546,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 
 
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nice talk from &lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; about SV genotyping using VG  &lt;a href=&#34;https://twitter.com/BenedictPaten?ref_src=twsrc%5Etfw&#34;&gt;@BenedictPaten&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt; . Certainly a field we need more developments in to include SV in medical fields!&lt;/p&gt;&amp;mdash; Fritz Sedlazeck (@sedlazeck) &lt;a href=&#34;https://twitter.com/sedlazeck/status/1192455931881234432?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-</description>
-    </item>
-    
-    <item>
-      <title>Genome-wide microhomologies enable precise template-free editing of biologically relevant deletion mutations</title>
-      <link>/fixed/mhcut-2019/</link>
-      <pubDate>Thu, 24 Oct 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/fixed/mhcut-2019/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;https://www.nature.com/articles/s41467-019-12829-8&#34; target=&#34;_blank&#34;&gt;Nature Communications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Transforming DNA repair errors into assets
-- &lt;a href=&#34;https://www.sciencedaily.com/releases/2019/10/191028104201.htm&#34; target=&#34;_blank&#34;&gt;Science Daily&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Transforming DNA repair errors into assets
-- &lt;a href=&#34;https://phys.org/news/2019-10-dna-errors-assets.html&#34; target=&#34;_blank&#34;&gt;Phys.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Transforming DNA repair errors into assets
-- &lt;a href=&#34;https://bioengineer.org/transforming-dna-repair-errors-into-assets/&#34; target=&#34;_blank&#34;&gt;Bioengineer.org&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genome variation graphs with the vg toolkit</title>
-      <link>/talk/grcgiab2019/</link>
-      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/grcgiab2019/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; Jean Monlong presenting overview of genome graph rep package vg GRC session &lt;a href=&#34;https://t.co/TkBWc8lI9v&#34;&gt;pic.twitter.com/TkBWc8lI9v&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184133683231580162?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;no&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; JM: vg handling large sets of genomes &lt;a href=&#34;https://t.co/Xo01Dlf6pZ&#34;&gt;pic.twitter.com/Xo01Dlf6pZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184134221184536577?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;fr&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/ASHG19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ASHG19&lt;/a&gt; JM: vg graph viewer &lt;a href=&#34;https://t.co/EexFptZWnZ&#34;&gt;pic.twitter.com/EexFptZWnZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chris Boles (@tchrisboles) &lt;a href=&#34;https://twitter.com/tchrisboles/status/1184134656230383618?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 

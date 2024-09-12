@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023 Jean Monlong</copyright>
-    <lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HPRC workshop</title>
+      <link>/teaching/hugo2024/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/hugo2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPRC workshop</title>
+      <link>/teaching/acmg23/</link>
+      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/acmg23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRC-GIAB workshop</title>
+      <link>/teaching/ashg19/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/ashg19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Introduction to R Markdown</title>

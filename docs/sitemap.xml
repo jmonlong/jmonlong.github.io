@@ -23,8 +23,26 @@
     
     <url>
     
+      <loc>/teaching/hugo2024/</loc>
+      <lastmod>2024-04-08T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/fixed/hprc-draft-human-pangenome/</loc>
       <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/acmg23/</loc>
+      <lastmod>2023-03-14T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -124,6 +142,15 @@
     
       <loc>/fixed/mhcut-2019/</loc>
       <lastmod>2019-10-24T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/teaching/ashg19/</loc>
+      <lastmod>2019-10-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -494,7 +521,7 @@
     <url>
     
       <loc>/teaching/</loc>
-      <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2024-04-08T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

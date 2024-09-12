@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.14)  12 SEP 2024 16:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.14)  12 SEP 2024 18:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1094,11 +1094,6 @@ Underfull \hbox (badness 1024) in paragraph at lines 331--331
 [2] [3] [4]
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 625--625
-[]|\T1/cmr/bx/n/10.95 2019-
- []
-
-
 
 [6]
 
@@ -1117,10 +1112,10 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  90i,6n,93p,413b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
-Output written on MonlongJeanCV.pdf (7 pages, 133701 bytes).
+Output written on MonlongJeanCV.pdf (7 pages, 135218 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
+ 601 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
  59 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
