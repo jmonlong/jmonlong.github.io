@@ -1149,3 +1149,11 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+
+img[alt=half] {
+    width: 45%;
+    display: inline-block;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-shadow: none;
+}

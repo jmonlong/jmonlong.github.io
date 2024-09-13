@@ -1,5 +1,8 @@
 {{ partial "header.html" . }}
+
+{{ if not .Params.minimal }}
 {{ partial "navbar.html" . }}
+{{ end }}
 
 <article class="article" itemscope itemtype="http://schema.org/Article">
 
@@ -27,6 +30,7 @@
 </div>
 {{ end }}
 
+{{ if not .Params.minimal }}
 <div class="container">
   {{ partial "section_pager.html" . }}
 </div>
@@ -34,6 +38,7 @@
 <div class="article-container">
   {{ partial "comments.html" . }}
 </div>
+{{ end }}
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
