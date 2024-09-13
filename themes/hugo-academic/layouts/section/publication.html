@@ -27,13 +27,16 @@
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
 
+        {{ $.Scratch.Delete "pubtype" }}
         {{ if .Params.publication_types }}
-          {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}
+          {{ range .Params.publication_types }}
+            {{ $.Scratch.Add "pubtype" (printf "pubtype-%s " . ) }}
+          {{ end }}
         {{ else }}
-          {{ $.Scratch.Set "pubtype" 0 }}
+          {{ $.Scratch.Set "pubtype" "pubtype-0" }}
         {{ end }}
 
-        <div class="grid-sizer col-md-12 isotope-item pubtype-{{ $.Scratch.Get "pubtype" }}">
+        <div class="grid-sizer col-md-12 isotope-item {{ $.Scratch.Get "pubtype" }}">
           <i class="fa fa-file-text-o" aria-hidden="true"
              style="color:#03396c;font-size:80%;padding-top:6px; padding-right: 10px;"></i>{{ .Title }}
           <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
