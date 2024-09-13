@@ -6,9 +6,50 @@
     <description>Recent content in Jean Monlong on Jean Monlong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Jean Monlong</copyright>
+    <copyright>&amp;copy; 2024 Jean Monlong</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Join our research team in Toulouse!</title>
+      <link>/fixed/joinus/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/fixed/joinus/</guid>
+      <description>
+
+&lt;p&gt;We are two INSERM researchers in bioinformatics and genomics &lt;strong&gt;looking for researchers to join our team&lt;/strong&gt; in Toulouse 🇫🇷.
+Our research activities involve both developing new bioinformatics methods and analysing genomic data, very often within international consortia (HPRC, ENCODE, MouseENCODE).
+More precisely, Jean Monlong is interested in understanding &lt;strong&gt;structural variation using pangenomes&lt;/strong&gt; and Sarah Djebali is interested in &lt;strong&gt;regulatory genomics&lt;/strong&gt; and how it can help identify causal variants of common diseases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/headers/toulouse.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are (or know someone) &lt;strong&gt;interested in complementing or strengthening our genomics/epigenomics approaches&lt;/strong&gt;, feel free to contact us! &lt;a href=&#34;mailto:jean.monlong@inserm.fr&#34; target=&#34;_blank&#34;&gt;✉️&lt;/a&gt;&lt;a href=&#34;mailto:jean.monlong@inserm.fr&#34; target=&#34;_blank&#34;&gt;✉️&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/inserm.jpg&#34; alt=&#34;half&#34; /&gt;
+&lt;img src=&#34;/img/irsd.png&#34; alt=&#34;half&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We could introduce the institute and our ongoing projects in more details, but also explore new projects to present at the national INSERM competition to get a new permanent researcher position.
+Among others, bioinformatics techniques for variant annotation and interpretation, large-cohort analysis (e.g. GWAS, imputation), rare disease genomic diagnostic and regulatory relationship identification could be exciting themes to explore together.&lt;/p&gt;
+
+&lt;h4 id=&#34;more-information-about-us&#34;&gt;More information about us&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jean Monlong (&lt;a href=&#34;mailto:jean.monlong@inserm.fr&#34; target=&#34;_blank&#34;&gt;jean.monlong@inserm.fr&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jmonlong.github.io/&#34; target=&#34;_blank&#34;&gt;https://jmonlong.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://humanpangenome.org/&#34; target=&#34;_blank&#34;&gt;Human Pangenome Reference Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Sarah Djebali (&lt;a href=&#34;wmailto:sarah.djebali@inserm.fr&#34; target=&#34;_blank&#34;&gt;sarah.djebali@inserm.fr&lt;/a&gt;)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.irsd.fr/sarah-djebali.html&#34; target=&#34;_blank&#34;&gt;http://www.irsd.fr/sarah-djebali.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.encodeproject.org/&#34; target=&#34;_blank&#34;&gt;ENCODE/MouseENCODE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Characterising the CYP21A2 gene with Parakit</title>
@@ -526,29 +567,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 &lt;p&gt;Cellular origins of pediatric brain tumors identified
 - &lt;a href=&#34;https://www.mcgill.ca/newsroom/channels/news/cellular-origins-pediatric-brain-tumors-identified-302813&#34; target=&#34;_blank&#34;&gt;McGill News&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
-      <link>/talk/gi2019/</link>
-      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/gi2019/</guid>
-      <description>&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; is presenting genotyping of structural variances in graph genomes using vg. &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt;&lt;br&gt;&lt;br&gt;Preprint: &lt;a href=&#34;https://t.co/7R7JJ0CrCu&#34;&gt;https://t.co/7R7JJ0CrCu&lt;/a&gt;&lt;br&gt;Code: &lt;a href=&#34;https://t.co/e6nRfAbGSj&#34;&gt;https://t.co/e6nRfAbGSj&lt;/a&gt; &lt;a href=&#34;https://t.co/te1eVRSysg&#34;&gt;pic.twitter.com/te1eVRSysg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Martin Steinegger 🇺🇦 (@thesteinegger) &lt;a href=&#34;https://twitter.com/thesteinegger/status/1192453087337811969?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; has some beef with the VCF format (lol don&amp;#39;t we all!): multiple equivalent representation, over-simplification, impractical; he suggests representations based on mapping directly to the assembly &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Standage (@byuhobbes) &lt;a href=&#34;https://twitter.com/byuhobbes/status/1192455833940045825?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nice talk from &lt;a href=&#34;https://twitter.com/JMonlong?ref_src=twsrc%5Etfw&#34;&gt;@JMonlong&lt;/a&gt; about SV genotyping using VG  &lt;a href=&#34;https://twitter.com/BenedictPaten?ref_src=twsrc%5Etfw&#34;&gt;@BenedictPaten&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/hashtag/gi2019?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#gi2019&lt;/a&gt; . Certainly a field we need more developments in to include SV in medical fields!&lt;/p&gt;&amp;mdash; Fritz Sedlazeck (@sedlazeck) &lt;a href=&#34;https://twitter.com/sedlazeck/status/1192455931881234432?ref_src=twsrc%5Etfw&#34;&gt;November 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
 </description>
     </item>
     
