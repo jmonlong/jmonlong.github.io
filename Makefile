@@ -1,6 +1,6 @@
 main: docs/index.html
 
-docs/index.html: misc/JM-publication.bib static/MonlongJeanCV.pdf
+docs/index.html: misc/JM-publication.bib static/MonlongJeanCV.pdf content/*/*md
 	Rscript -e "blogdown::build_site(build_rmd=TRUE)"
 
 static/MonlongJeanCV.pdf: misc/MonlongJeanCV.pdf

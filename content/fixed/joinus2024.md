@@ -7,7 +7,7 @@ url = "/fixed/joinus"
 
 We are two INSERM researchers in bioinformatics and genomics **looking for researchers to join our team** in Toulouse :fr:. 
 **We do not have a funded open position currently** (unfortunately). 
-We are looking for researchers that either already have an INSERM position, or would like to apply for one through the national competition. 
+We are looking for researchers that either already have an INSERM position, or would like to apply for one through the [national competition](https://pro.inserm.fr/rubriques/content/join-us/researchers/becoming-researcher-crcn). 
 In that case, we offer to help with preparing a strong application and training for the competition.
 
 Our research activities involve both developing new bioinformatics methods and analysing genomic data, very often within international consortia (HPRC, ENCODE, MouseENCODE). 
