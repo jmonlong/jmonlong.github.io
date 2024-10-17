@@ -145,6 +145,11 @@ S~Negi, SL~Stenton, SI~Berger, B~McNulty, I~Violich, J~Gardner, ..., E~Vilain, A
 \newblock Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection.
 \newblock {\em \href{https://www.medrxiv.org/content/early/2024/08/22/2024.08.22.24312327}{medRxiv}}, 2024.
 
+\bibitem{Novak2024}
+AM~Novak, D~Chung, G~Hickey, S~Djebali, TT~Yokoyama, E~Garrison, G~Narzisi, B~Paten, and {\bf J}~{\bf Monlong}.
+\newblock Efficient indexing and querying of annotations in a pangenome graph.
+\newblock {\em \href{https://www.biorxiv.org/content/early/2024/10/15/2024.10.12.618009}{bioRxiv}}, 2024.
+
 \bibitem{Pervouchine2015}
 D~Pervouchine, S~Djebali, A~Breschi, CA~Davis, PP~Barja, A~Dobin, A~Tanzer, J~Lagarde, C~Zaleski, L~See, M~Fastuca, J~Drenkow, H~Wang, G~Bussotti, B~Pei, S~Balasubramanian, {\bf J}~{\bf Monlong}, ..., C~Notredame, R~Guigo, and TR~Gingeras.
 \newblock {Enhanced transcriptome maps from multiple mouse tissues reveal evolutionary constraint in gene expression}.
