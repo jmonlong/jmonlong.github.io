@@ -29,11 +29,11 @@
       <link itemprop="url" href="{{ $.Site.BaseURL }}">
 
       <ul class="social-icon" aria-hidden="true">
-        {{ range $.Site.Params.social }}
+        {{ range $.Site.Params.main }}
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
           </a>
         </li>
         {{ end }}
@@ -43,7 +43,7 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
           </a>
         </li>
         {{ end }}
@@ -53,7 +53,17 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ $pack }}-{{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      <ul class="social-icon" aria-hidden="true">
+        {{ range $.Site.Params.social }}
+        {{ $pack := or .icon_pack "fa" }}
+        <li>
+          <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
+            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
           </a>
         </li>
         {{ end }}
