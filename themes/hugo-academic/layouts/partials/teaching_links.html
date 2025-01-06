@@ -6,6 +6,11 @@
 <!--   {{ i18n "btn_details" }} -->
 <!-- </a> -->
 <!-- {{ end }} -->
+{{ with $.Params.event_url }}
+<a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
+  {{ i18n "event" }}
+</a>
+{{ end }}
 {{ with $.Params.url_pdf }}
 <a class="btn btn-primary btn-outline{{ if $is_list }} btn-xs{{end}}" href="{{ . | absURL }}">
   {{ i18n "btn_pdf" }}

@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Recent advances in human pangenomics</title>
+      <link>/teaching/bioinfomics2024/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/bioinfomics2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive Genomic Data: Statistical and Bioinformatic advances</title>
+      <link>/teaching/atelierinserm2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/atelierinserm2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Join our research team in Toulouse!</title>
       <link>/fixed/joinus/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0200</pubDate>
@@ -513,65 +531,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
       
       <guid>/talk/gsptopmed2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Genotyping structural variants in pangenome graphs using the vg toolkit</title>
-      <link>/fixed/vg-sv-2020/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/vg-sv-2020/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1941-7&#34; target=&#34;_blank&#34;&gt;Genome Biology&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Variant Detection Gets Boost From Graph Genomes, De Novo Assemblies
-- &lt;a href=&#34;https://www.genomeweb.com/sequencing/variant-detection-gets-boost-graph-genomes-de-novo-assemblies&#34; target=&#34;_blank&#34;&gt;GenomeWeb&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stalled developmental programs at the root of pediatric brain tumors</title>
-      <link>/fixed/scrna-pediatric-brain-tumor-2019/</link>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/fixed/scrna-pediatric-brain-tumor-2019/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;https://www.nature.com/articles/s41588-019-0531-7&#34; target=&#34;_blank&#34;&gt;Nature Genetics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Origin of Childhood Brain Tumors Discovered
-- &lt;a href=&#34;https://www.genengnews.com/news/origin-of-childhood-brain-tumors-discovered/&#34; target=&#34;_blank&#34;&gt;GEN News&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Researchers discover cellular origins of pediatric brain tumors
-- &lt;a href=&#34;https://www.news-medical.net/news/20191125/Researchers-discover-cellular-origins-of-pediatric-brain-tumors.aspx&#34; target=&#34;_blank&#34;&gt;News Medical Life Sciences&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Incursion inédite dans les tumeurs du cerveau
-- &lt;a href=&#34;https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2020/incursion-inedite-tumeurs-du-cerveau/&#34; target=&#34;_blank&#34;&gt;Québec Science&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Cellular origins of pediatric brain tumors identified
-- &lt;a href=&#34;https://www.mcgill.ca/newsroom/channels/news/cellular-origins-pediatric-brain-tumors-identified-302813&#34; target=&#34;_blank&#34;&gt;McGill News&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
     </item>
     
   </channel>

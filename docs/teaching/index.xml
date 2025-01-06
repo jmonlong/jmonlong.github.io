@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Jean Monlong</copyright>
-    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent advances in human pangenomics</title>
+      <link>/teaching/bioinfomics2024/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/bioinfomics2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive Genomic Data: Statistical and Bioinformatic advances</title>
+      <link>/teaching/atelierinserm2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/atelierinserm2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HPRC workshop</title>

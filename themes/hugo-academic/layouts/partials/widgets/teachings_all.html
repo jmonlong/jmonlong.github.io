@@ -11,10 +11,6 @@
 </div>
 <div class="row">
   <div class="col-xs-12 col-md-12">
-    {{ with $page.Content }}
-    <div class="article-style" itemprop="articleBody">{{ . | markdownify }}</div>
-    {{ end }}
-
     {{ range (where $.Data.Pages "Type" "teaching").GroupByDate "2006" }}
     <div class="row" id="teaching_list">
       <div class="col-md-2">
@@ -38,5 +34,9 @@
     </div>
     {{ end }}
 
+    {{ with $page.Content }}
+    <div class="article-style" itemprop="articleBody">{{ . | markdownify }}</div>
+    {{ end }}
+    
   </div>
 </div>
