@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit</title>
+      <link>/talk/miggs2024/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/miggs2024/</guid>
+      <description>The preprint associated with this presentation came out a bit later: Novak et al. bioRxiv 2024.
+Abstract Jean Monlong$^{1}$, Adam M. Novak$^2$, Dickson Chung$^2$, Glenn Hickey$^2$, Toshiyuki T. Yokoyama$^3$, Erik Garrison$^4$, Benedict Paten$^2$
+ Institut de Recherche en Santé Digestive, INSERM, Toulouse, France UC Santa Cruz Genomics Institute, Santa Cruz, CA, USA Department of Computational Biology and Medical Sciences, University of Tokyo, Chiba, Japan. University of Tennessee Health Science Center, Memphis, TN, USA  The current reference genome is the backbone of diverse and rich annotations.</description>
+    </item>
+    
+    <item>
       <title>Characterising the CYP21A2 gene with Parakit</title>
       <link>/talk/iggsy2024/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>

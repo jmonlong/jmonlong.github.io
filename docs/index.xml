@@ -20,6 +20,54 @@
     </item>
     
     <item>
+      <title>Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit</title>
+      <link>/talk/miggs2024/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/miggs2024/</guid>
+      <description>
+
+&lt;p&gt;The preprint associated with this presentation came out a bit later: &lt;a href=&#34;https://doi.org/10.1101/2024.10.12.618009&#34; target=&#34;_blank&#34;&gt;Novak et al. bioRxiv 2024&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Jean Monlong&lt;/strong&gt;$^{1}$, Adam M. Novak$^2$, Dickson Chung$^2$, Glenn Hickey$^2$, Toshiyuki T. Yokoyama$^3$, Erik Garrison$^4$, Benedict Paten$^2$&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Institut de Recherche en Santé Digestive, INSERM, Toulouse, France&lt;/li&gt;
+&lt;li&gt;UC Santa Cruz Genomics Institute, Santa Cruz, CA, USA&lt;/li&gt;
+&lt;li&gt;Department of Computational Biology and Medical Sciences, University of Tokyo, Chiba, Japan.&lt;/li&gt;
+&lt;li&gt;University of Tennessee Health Science Center, Memphis, TN, USA&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The current reference genome is the backbone of diverse and rich annotations.
+To enable similar enrichment of a pangenome reference, there is a dire need for tools and formats for pangenomic annotation.
+Simple text formats, like VCF or BED, have been widely adopted and helped this critical exchange of genomic information.
+The Graph Alignment Format (GAF) text format, which was proposed to represent alignments, could be used to represent any type of annotation in a pangenome graph.
+Here I review how some features of the &lt;code&gt;vg&lt;/code&gt; ecosystem can already provide indexing, querying, and visualization capabilities for annotations represented as paths.&lt;/p&gt;
+
+&lt;p&gt;I will first explain how GAF files can be sorted, indexed and queried to extract annotations overlapping a subgraph.
+&lt;!-- First, to address the need for fast querying of the annotations, we updated the vg toolkit to be able to sort GAF files, index them, and query them to extract alignments covering a subgraph or region on a path.  --&gt;
+Alignments are currently sorted based on the covered node IDs, similar to the approach for sorting read alignments in the GAM format, a binary format used previously by the &lt;code&gt;vg&lt;/code&gt; toolkit.
+To index the bgzipped GAF file, we extended HTSlib/tabix to work with the GAF format.
+Second, &lt;code&gt;vg annotate&lt;/code&gt; was recently updated to better produce graph annotations as paths, starting from annotation files relative to linear references.
+More precisely, it can to take annotations in BED or GFF3 files, written relative to reference paths or haplotypes, and produce GAF files representing the equivalent paths through the pangenome.&lt;/p&gt;
+
+&lt;p&gt;To showcase these commands, I projected annotations for all haplotypes in the latest draft human pangenome (HPRC v1.1 GRCh38-based Minigraph-Cactus pangenome).
+This included genes, segmental duplications, tandem repeats and repeats annotations.
+&lt;code&gt;vg annotate&lt;/code&gt; can annotate ~4M gene annotations in ~16 mins, and ~5.5M repeats from RepeatMasker in ~9 mins on a single-threaded machine.
+Finally, these rich annotations can then be quickly queried with &lt;code&gt;vg&lt;/code&gt; and visualized using existing tools like the sequenceTubeMap or Bandage.&lt;/p&gt;
+
+&lt;p&gt;After this overview of the current &amp;ldquo;&lt;code&gt;vg&lt;/code&gt;&amp;rdquo; options, it is clear that more needs to be done to make it a useful solution for the community.
+For example, we are assuming that we have annotations of the different haplotypes in the pangenome.
+There is still no clear solution to lift annotations from one reference/haplotype to other haplotypes, except through reanalysis/reannotation of each haplotype.
+Another limitation is that the annotation information is currently reduced to a single label.
+For many annotations, it would be useful to keep the metadata organized, so that the user can access/use it within visualization tools.
+Overall, we are also in need for visualization tools that can efficiently layout and organize many &lt;em&gt;paths&lt;/em&gt; through a pangenome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Massive Genomic Data: Statistical and Bioinformatic advances</title>
       <link>/teaching/atelierinserm2024/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
@@ -522,15 +570,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 - &lt;a href=&#34;https://www.eurekalert.org/news-releases/596015&#34; target=&#34;_blank&#34;&gt;McGill Press Release&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Genotyping structural variants in TOPMed using pangenome graphs</title>
-      <link>/talk/gsptopmed2020/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/gsptopmed2020/</guid>
-      <description></description>
     </item>
     
   </channel>

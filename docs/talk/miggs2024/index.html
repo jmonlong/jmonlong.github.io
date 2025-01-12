@@ -61,11 +61,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="/talk/iggsy2024/">
+  <link rel="canonical" href="/talk/miggs2024/">
 
   
 
-  <title>Characterising the CYP21A2 gene with Parakit | Jean Monlong</title>
+  <title>Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit | Jean Monlong</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -175,7 +175,7 @@
 
   
 <div class="article-header">
-  <img src="/img/headers/ascona.jpg" class="article-banner" itemprop="image">
+  <img src="/img/headers/lille.jpg" class="article-banner" itemprop="image">
   
 </div>
 
@@ -184,7 +184,7 @@
   <div class="article-container">
 
     <div class="pub-title">
-      <h1 itemprop="name">Characterising the CYP21A2 gene with Parakit</h1>
+      <h1 itemprop="name">Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit</h1>
       <span class="pub-authors" itemprop="author">
         
       </span>
@@ -203,7 +203,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            Jul 2, 2024
+            Sep 23, 2024
           </div>
         </div>
       </div>
@@ -217,8 +217,8 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Event</div>
           <div class="col-xs-12 col-sm-9">
-            <a href="https://iggsy.org" target="_blank">
-            International Genome Graph Symposium
+            <a href="https://miggs.mathnum.inrae.fr/evenements" target="_blank">
+            Methods for Interfacing with Graphs of Genomic Sequences Symposium
             </a>
           </div>
         </div>
@@ -233,7 +233,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Location</div>
-          <div class="col-xs-12 col-sm-9">Ascona, Switzerland</div>
+          <div class="col-xs-12 col-sm-9">Lille, France</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -254,15 +254,15 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://iggsy.org">
+<a class="btn btn-primary btn-outline" href="https://miggs.mathnum.inrae.fr/evenements">
   Event
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="/slides/JeanMonlong-IGGSY24.pdf">
-  PDF
-</a>
 
+<a class="btn btn-primary btn-outline" href="https://jmonlong.github.io/manu-vggafannot/vggafannot-miggs24.html">
+  Slides
+</a>
 
 
 
@@ -281,6 +281,45 @@
 
     <div class="article-style">
       
+
+<p>The preprint associated with this presentation came out a bit later: <a href="https://doi.org/10.1101/2024.10.12.618009" target="_blank">Novak et al. bioRxiv 2024</a>.</p>
+
+<h2 id="abstract">Abstract</h2>
+
+<p><strong>Jean Monlong</strong>$^{1}$, Adam M. Novak$^2$, Dickson Chung$^2$, Glenn Hickey$^2$, Toshiyuki T. Yokoyama$^3$, Erik Garrison$^4$, Benedict Paten$^2$</p>
+
+<ol>
+<li>Institut de Recherche en Santé Digestive, INSERM, Toulouse, France</li>
+<li>UC Santa Cruz Genomics Institute, Santa Cruz, CA, USA</li>
+<li>Department of Computational Biology and Medical Sciences, University of Tokyo, Chiba, Japan.</li>
+<li>University of Tennessee Health Science Center, Memphis, TN, USA</li>
+</ol>
+
+<p>The current reference genome is the backbone of diverse and rich annotations.
+To enable similar enrichment of a pangenome reference, there is a dire need for tools and formats for pangenomic annotation.
+Simple text formats, like VCF or BED, have been widely adopted and helped this critical exchange of genomic information.
+The Graph Alignment Format (GAF) text format, which was proposed to represent alignments, could be used to represent any type of annotation in a pangenome graph.
+Here I review how some features of the <code>vg</code> ecosystem can already provide indexing, querying, and visualization capabilities for annotations represented as paths.</p>
+
+<p>I will first explain how GAF files can be sorted, indexed and queried to extract annotations overlapping a subgraph.
+<!-- First, to address the need for fast querying of the annotations, we updated the vg toolkit to be able to sort GAF files, index them, and query them to extract alignments covering a subgraph or region on a path.  -->
+Alignments are currently sorted based on the covered node IDs, similar to the approach for sorting read alignments in the GAM format, a binary format used previously by the <code>vg</code> toolkit.
+To index the bgzipped GAF file, we extended HTSlib/tabix to work with the GAF format.
+Second, <code>vg annotate</code> was recently updated to better produce graph annotations as paths, starting from annotation files relative to linear references.
+More precisely, it can to take annotations in BED or GFF3 files, written relative to reference paths or haplotypes, and produce GAF files representing the equivalent paths through the pangenome.</p>
+
+<p>To showcase these commands, I projected annotations for all haplotypes in the latest draft human pangenome (HPRC v1.1 GRCh38-based Minigraph-Cactus pangenome).
+This included genes, segmental duplications, tandem repeats and repeats annotations.
+<code>vg annotate</code> can annotate ~4M gene annotations in ~16 mins, and ~5.5M repeats from RepeatMasker in ~9 mins on a single-threaded machine.
+Finally, these rich annotations can then be quickly queried with <code>vg</code> and visualized using existing tools like the sequenceTubeMap or Bandage.</p>
+
+<p>After this overview of the current &ldquo;<code>vg</code>&rdquo; options, it is clear that more needs to be done to make it a useful solution for the community.
+For example, we are assuming that we have annotations of the different haplotypes in the pangenome.
+There is still no clear solution to lift annotations from one reference/haplotype to other haplotypes, except through reanalysis/reannotation of each haplotype.
+Another limitation is that the annotation information is currently reduced to a single label.
+For many annotations, it would be useful to keep the metadata organized, so that the user can access/use it within visualization tools.
+Overall, we are also in need for visualization tools that can efficiently layout and organize many <em>paths</em> through a pangenome.</p>
+
     </div>
 
   </div>
@@ -290,13 +329,10 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="/talk/jobim2024/"><span
-      aria-hidden="true">&larr;</span> Pangenome graph construction from genome alignments with Minigraph-Cactus</a></li>
+    <li class="previous"><a href="/talk/iggsy2024/"><span
+      aria-hidden="true">&larr;</span> Characterising the CYP21A2 gene with Parakit</a></li>
     
 
-    
-    <li class="next"><a href="/talk/miggs2024/">Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>
