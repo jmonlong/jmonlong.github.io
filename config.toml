@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Jean Monlong"
-copyright = "&copy; 2024 Jean Monlong"
+copyright = "&copy; 2025 Jean Monlong"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -30,7 +30,7 @@ publishDir = "docs"
   organization = "IRSD, Toulouse, France"
   organization_url = "https://www.irsd.fr/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait2018.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait2024.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jean.monlong@gmail.com"
   address = "B522, INSERM IRSD U1220, CHU PURPAN, Place du Docteur Baylac, CS 60039, 31024 TOULOUSE CEDEX 3, ​FRANCE"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
