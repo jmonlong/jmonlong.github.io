@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  3 JUL 2024 07:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.3)  25 JAN 2025 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **misc/MonlongJeanCV.tex
 (./misc/MonlongJeanCV.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-04-11>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
 
 ! LaTeX Error: File `cv.cls' not found.
 
@@ -19,10 +19,10 @@ Enter file name:
 l.2 ^^M
         
 Here is how much of TeX's memory you used:
- 20 strings out of 475967
- 439 string characters out of 5790026
- 1925751 words of memory out of 5000000
- 22299 multiletter control sequences out of 15000+600000
+ 20 strings out of 475247
+ 439 string characters out of 5767525
+ 385346 words of memory out of 5000000
+ 23005 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  19i,0n,29p,86b,17s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -149,6 +149,42 @@ Among others, bioinformatics techniques for variant annotation and interpretatio
     </item>
     
     <item>
+      <title>Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection</title>
+      <link>/fixed/ont-rare-disease/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/fixed/ont-rare-disease/</guid>
+      <description>&lt;p&gt;Published in &lt;a href=&#34;https://doi.org/10.1016/j.ajhg.2025.01.002&#34; target=&#34;_blank&#34;&gt;The American Journal of Human Genetics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Long read sequencing reveals more genetic information while cutting time and cost of rare disease diagnoses
+- &lt;a href=&#34;https://news.ucsc.edu/2025/01/paten-ajhg-25.html&#34; target=&#34;_blank&#34;&gt;UCSC News&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Long-read sequencing revolutionizes diagnosis of rare diseases
+- &lt;a href=&#34;https://www.news-medical.net/news/20250124/Long-read-sequencing-revolutionizes-diagnosis-of-rare-diseases.aspx&#34; target=&#34;_blank&#34;&gt;News Medical&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Long read sequencing reveals more genetic information while cutting time and cost of rare disease diagnoses
+- &lt;a href=&#34;https://www.sciencedaily.com/releases/2025/01/250124151012.htm&#34; target=&#34;_blank&#34;&gt;Science Daily&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Long-Read Sequencing Transforms Rare Disease Diagnosis with Breakthrough Precision
+- &lt;a href=&#34;https://www.world-today-news.com/long-read-sequencing-transforms-rare-disease-diagnosis-with-breakthrough-precision/&#34; target=&#34;_blank&#34;&gt;World Today News&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A draft human pangenome reference</title>
       <link>/fixed/hprc-draft-human-pangenome/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
@@ -530,46 +566,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
       
       <guid>/talk/voiceresearcher2020/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy</title>
-      <link>/fixed/scrna-glioblastoma-2020/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/scrna-glioblastoma-2020/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;https://www.nature.com/articles/s41467-020-17186-5&#34; target=&#34;_blank&#34;&gt;Nature Communications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Incursion inédite dans les tumeurs du cerveau
-- &lt;a href=&#34;https://www.quebecscience.qc.ca/sciences/les-10-decouvertes-de-2020/incursion-inedite-tumeurs-du-cerveau/&#34; target=&#34;_blank&#34;&gt;Québec Science&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Top Quebec discoveries of 2020 feature McGill brain cancer studies
-- &lt;a href=&#34;https://www.mcgilltribune.com/sci-tech/top-quebec-discoveries-of-2020-feature-mcgill-brain-cancer-studies-01262021/&#34; target=&#34;_blank&#34;&gt;The McGill Tribune&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;scRNA-seq of glioblastoma complexity reveals its pattern of development
-- &lt;a href=&#34;https://www.rna-seqblog.com/scrna-seq-of-glioblastoma-complexity-reveals-its-pattern-of-development/&#34; target=&#34;_blank&#34;&gt;RNA-Seq Blog&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Deconstructing glioblastoma complexity reveals its pattern of development
-- &lt;a href=&#34;https://www.eurekalert.org/news-releases/596015&#34; target=&#34;_blank&#34;&gt;McGill Press Release&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
     </item>
     
   </channel>
