@@ -5,6 +5,11 @@ M~Arseneault*, {\bf J}~{\bf Monlong*}, ..., M~Lathrop, G~Bourque, and Y~Riazalho
 \newblock {Loss of chromosome Y leads to down regulation of KDM5D and KDM6C epigenetic modifiers in clear cell renal cell carcinoma}.
 \newblock {\em \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5362952/}{Scientific Reports}}, 2017.
 
+\bibitem{Billingsley2024}
+KJ~Billingsley, M~Meredith, K~Daida, P~Alvarez~Jerez, S~Negi, L~Malik, ..., {\bf J}~{\bf Monlong}, ..., M~Kolmogorov, M~Jain, FJ~Sedlazeck, B~Paten, and C~Blauwendraat.
+\newblock Long-read sequencing of hundreds of diverse brains provides insight into the impact of structural variation on gene expression and {DNA} methylation.
+\newblock {\em \href{http://biorxiv.org/lookup/doi/10.1101/2024.12.16.628723}{bioRxiv}}, 2024.
+
 \bibitem{GTEx2013}
 {\bf The GTEx}~{\bf Consortium}.
 \newblock {The Genotype-Tissue Expression (GTEx) project}.
@@ -129,6 +134,11 @@ M~Mel\'e, PG~Ferreira, F~Reverter, DS~DeLuca, {\bf J}~{\bf Monlong}, M~Sammeth, 
 {\bf J}~{\bf Monlong}, M~Calvo, PG~Ferreira, and R~Guig{\'{o}}.
 \newblock {Identification of genetic variants associated with alternative splicing using sQTLseekeR}.
 \newblock {\em \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143934/}{Nature Communications}}, 2014.
+
+\bibitem{Monlong2025}
+{\bf J}~{\bf Monlong}, X~Chen, H~Barseghyan, WJ~Rowell, S~Negi, N~Nokoff, L~Mohnach, J~Hirsch, C~Finlayson, CE~Keegan, M~Almalvez, SI~Berger, I~DeDios, B~McNulty, A~Robertson, K~Miga, PW~Speiser, B~Paten, E~Vilain, and EC~Délot.
+\newblock Long-read sequencing resolves the clinically relevant {CYP21A2} locus, supporting a new clinical test for {Congenital} {Adrenal} {Hyperplasia}.
+\newblock {\em \href{http://medrxiv.org/lookup/doi/10.1101/2025.02.07.25321404}{medRxiv}}, February 2025.
 
 \bibitem{Monlong2018reppopsv}
 {\bf J}~{\bf Monlong}, P~Cossette, C~Meloche, G~Rouleau, SL~Girard, and G~Bourque.
