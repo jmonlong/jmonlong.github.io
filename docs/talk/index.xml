@@ -83,11 +83,9 @@ Abstract Jean Monlong$^{1}$, Adam M. Novak$^2$, Dickson Chung$^2$, Glenn Hickey$
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/talk/gi2019/</guid>
-      <description>@JMonlong is presenting genotyping of structural variances in graph genomes using vg. #gi2019
-Preprint: https://t.co/7R7JJ0CrCu
-Code: https://t.co/e6nRfAbGSj pic.twitter.com/te1eVRSysg
-&amp;mdash; Martin Steinegger 🇺🇦 (@thesteinegger) November 7, 2019  @JMonlong has some beef with the VCF format (lol don&amp;#39;t we all!): multiple equivalent representation, over-simplification, impractical; he suggests representations based on mapping directly to the assembly #gi2019
-&amp;mdash; Daniel Standage (@byuhobbes) November 7, 2019  Nice talk from @JMonlong about SV genotyping using VG @BenedictPaten at #gi2019 .</description>
+      <description>@JMonlong has some beef with the VCF format (lol don&amp;#39;t we all!): multiple equivalent representation, over-simplification, impractical; he suggests representations based on mapping directly to the assembly #gi2019
+&amp;mdash; Daniel Standage (@byuhobbes) November 7, 2019  Nice talk from @JMonlong about SV genotyping using VG @BenedictPaten at #gi2019 . Certainly a field we need more developments in to include SV in medical fields!
+&amp;mdash; Fritz Sedlazeck (@sedlazeck) November 7, 2019  </description>
     </item>
     
     <item>
@@ -158,10 +156,10 @@ Genotyping Structural Variants in Pangenome Graphs Using the VG Toolkit #nccb201
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>/talk/genomeinformatics2014/</guid>
-      <description>Jean Monlong SV detection in normal and aberrant genomes #gi2014
-&amp;mdash; Karyn Meltz Murphy (@karynotype) September 23, 2014  JM PopSV: population based approach. Use a set of reference experiments to detect abnormal patterns #gi2014
-&amp;mdash; Karyn Meltz Murphy (@karynotype) September 23, 2014  Monlong: rather than throw out findings in hard-to-map genome tracts, embrace them -- at population scale -- to call elusive SVs. #gi2014
-&amp;mdash; Nathan Pearson (@GenomeNathan) September 23, 2014  Jean Monlong: importance of normalization.</description>
+      <description>Monlong: rather than throw out findings in hard-to-map genome tracts, embrace them -- at population scale -- to call elusive SVs. #gi2014
+&amp;mdash; Nathan Pearson (@GenomeNathan) September 23, 2014  Jean Monlong: importance of normalization. Some sample seqs still biased after linear/quantile norm - try PCA-based normalization #gi2014
+&amp;mdash; Nancy Yu (@ynancy) September 23, 2014  JM: showing a &amp;quot;funky snowman&amp;quot; plot of tumour-normal Z-scores #gi2014
+&amp;mdash; Torsten Seemann (@torstenseemann) September 23, 2014  </description>
     </item>
     
     <item>
