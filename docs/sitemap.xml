@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>/talk/crct2025/</loc>
+      <lastmod>2025-05-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/fhug4-2025/</loc>
+      <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/teaching/bioinfomics2024/</loc>
       <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     </url>
@@ -320,42 +338,6 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/talk/ichg2016/</loc>
       <lastmod>2016-04-05T00:00:00+00:00</lastmod>
     </url>
@@ -421,15 +403,6 @@
     
       <loc>/talk/research-day-2014/</loc>
       <lastmod>2014-06-05T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -515,28 +488,8 @@
     
     <url>
     
-      <loc>/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

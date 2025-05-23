@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Integrating structural variants in genomic studies with long-read sequencing and pangenomes</title>
+      <link>/talk/crct2025/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/crct2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive haplotype-resolved view of genomic variation and methylation with long-read nanopore sequencing</title>
+      <link>/talk/fhug4-2025/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/fhug4-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent advances in human pangenomics</title>
       <link>/teaching/bioinfomics2024/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
@@ -479,93 +497,6 @@ We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;fi
 
 
 </description>
-    </item>
-    
-    <item>
-      <title>Pangenomics enables genotyping of known structural variants in 5202 diverse genomes</title>
-      <link>/fixed/giraffe-sv-2021/</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/giraffe-sv-2021/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;https://www.science.org/doi/10.1126/science.abg8871&#34; target=&#34;_blank&#34;&gt;Science&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A new way to find genetic variations removes bias from human genotyping
-- &lt;a href=&#34;https://news.ucsc.edu/2021/12/pangenomics.html&#34; target=&#34;_blank&#34;&gt;UCSC News&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The benchmark for human diversity is based on one man’s genome. A new tool could change that.
-- &lt;a href=&#34;https://www.popsci.com/science/human-genome-blueprint/&#34; target=&#34;_blank&#34;&gt;Popular Science&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Novel tool can efficiently map new genome sequences to a &amp;ldquo;pangenome&amp;rdquo;
-- &lt;a href=&#34;https://www.azolifesciences.com/news/20211217/New-tool-can-efficiently-map-new-genome-sequences-to-a-pangenome.aspx&#34; target=&#34;_blank&#34;&gt;AZ Life Sciences&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Pangenomic Mapping Tool Betters Structural Variant Identification
-- &lt;a href=&#34;https://www.genengnews.com/topics/omics/pangenomic-mapping-tool-betters-structural-variant-identification/&#34; target=&#34;_blank&#34;&gt;GEN News&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A New Way to Find Genetic Variations Removes Bias from Human Genotyping
-- &lt;a href=&#34;A New Way to Find Genetic Variations Removes Bias from Human Genotyping&#34; target=&#34;_blank&#34;&gt;Lab Manager&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Science Papers on Pan-Cancer T Cell Atlas, Short-Read Mapping Tool for Pangenomes
-- &lt;a href=&#34;https://www.genomeweb.com/scan/science-papers-pan-cancer-t-cell-atlas-short-read-mapping-tool-pangenomes&#34; target=&#34;_blank&#34;&gt;GenomeWeb&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Advancing genomics to better understand and treat disease
-- &lt;a href=&#34;https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Giraffe: A new short-read mapping tool
-- &lt;a href=&#34;https://frontlinegenomics.com/giraffe-a-new-short-read-mapping-tool/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=giraffe-a-new-short-read-mapping-tool&#34; target=&#34;_blank&#34;&gt;Front Line Genomics&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;video-summary&#34;&gt;Video summary&lt;/h2&gt;
-
-&lt;p&gt;We (mostly Xian) made a 5 mins that summarize this article&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/scD37MOBmQ0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Genotyping structural variants in human cohorts using pangenome graphs</title>
-      <link>/talk/voiceresearcher2020/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/voiceresearcher2020/</guid>
-      <description></description>
     </item>
     
   </channel>

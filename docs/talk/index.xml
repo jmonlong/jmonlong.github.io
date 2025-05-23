@@ -13,6 +13,24 @@
     
     
     <item>
+      <title>Integrating structural variants in genomic studies with long-read sequencing and pangenomes</title>
+      <link>/talk/crct2025/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/crct2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive haplotype-resolved view of genomic variation and methylation with long-read nanopore sequencing</title>
+      <link>/talk/fhug4-2025/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/fhug4-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Current options to index, represent, and visualize annotations in a pangenome with the vg toolkit</title>
       <link>/talk/miggs2024/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>

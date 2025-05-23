@@ -12,35 +12,5 @@
 	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Getting started with the Academic framework for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
-Key features:
- Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Easy to customize  Table of Contents    Installation Getting Started  Core parameters Introduce yourself Customize the homepage Add your content Remove unused widgets and pages Customization &amp;amp; Upgrading  Advanced customization  Navigation menu Website icon Theme color (CSS) Analytics Third party and local scripts (JS) Language and translation Permalinks  Upgrading Feedback &amp;amp; Contributing License    Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
-    </item>
-    
-    <item>
-      <title>Customizing the homepage with widgets</title>
-      <link>/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/widgets/</guid>
-      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
- About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
-    </item>
-    
-    <item>
-      <title>Managing content</title>
-      <link>/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
