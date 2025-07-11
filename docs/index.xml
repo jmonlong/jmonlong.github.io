@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Integrating structural variants in genomic studies of rare and complex diseases with long-read sequencing and pangenomes</title>
+      <link>/talk/jobim-2025/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/jobim-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integrating structural variants in genomic studies with long-read sequencing and pangenomes</title>
       <link>/talk/crct2025/</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
@@ -387,115 +396,6 @@ Among others, bioinformatics techniques for variant annotation and interpretatio
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 
 &lt;p&gt;Accurate identification of genomic variants is critical for genetic studies and, more and more, for clinical genetic testing. With genome sequencing technology, the whole-genome can be assessed and a comprehensive spectrum of genomic variants could in theory be called. Some genomics regions and variants are in practice still challenging to detect with the standard techniques, which is to first align the sequenced reads to a reference genome. A new approach has recently shown better results by a reference pangenome instead, i.e. a reference representing multiple genomes and incorporating information about known variants a priori. At the forefront of human pangenomics, the Human Pangenome Reference Consortium (HPRC) aims at producing high-quality phased de novo assemblies for more than 300 diverse individuals, and build a comprehensive and representative human pangenome. With its draft representing 45 individuals, we show that using the HPRC pangenome improves the mapping of short reads and, as a result, the identification of short variants in an individual. Our approach maps the short Illumina reads to the pangenome using vg Giraffe and calls short variants with DeepVariant using new models trained on the pangenome. We compared our approach to the standard technique of mapping reads to the linear reference genome with BWA-MEM, or the more recent Dragen pipeline. Using both the Genome in a Bottle and the Challenging Medically-Relevant Genes truthsets, we observed a better performance for our pangenomic approach. It makes about 34% less errors and is capable of calling short variants in a larger fraction of the genome, including in more challenging regions. As expected, the calling accuracy increases when trio sequencing data is available and is still superior when mapping the short-reads to the HPRC pangenome rather than to the linear reference genome or using the DragenGRAPH mapper. In addition to quantifying the benefit of this pangenomic approach, we share the resources and workflows to accurately call small variants from sequencing data using the HPRC draft pangenome.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultrarapid Nanopore Genome Sequencing in a Critical Care Setting</title>
-      <link>/fixed/nicu-rapid-nanopore-2022/</link>
-      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/fixed/nicu-rapid-nanopore-2022/</guid>
-      <description>
-
-&lt;p&gt;Published in &lt;a href=&#34;http://www.nejm.org/doi/10.1056/NEJMc2112090&#34; target=&#34;_blank&#34;&gt;New England Journal of Medicine&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For this study, we set the &lt;a href=&#34;https://www.guinnessworldrecords.com/world-records/675050-fastest%C2%A0dna-sequencing%C2%A0technique&#34; target=&#34;_blank&#34;&gt;Guinness World Record&lt;/a&gt; for fastest sequencing technique.
-We sequenced a patient and called variants (SNVs/indels/SVs) in &lt;strong&gt;five hours and two minutes&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/nicu-rapid-nanopore-record.webp&#34; alt=&#34;&#34; /&gt;
-&lt;em&gt;Image: Steve Fisch/Stanford University.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;press&#34;&gt;Press&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Fastest DNA sequencing technique helps undiagnosed patients find answers in mere hours
-- &lt;a href=&#34;https://med.stanford.edu/news/all-news/2022/01/dna-sequencing-technique.html&#34; target=&#34;_blank&#34;&gt;Stanford Medicine News&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Advancing genomics to better understand and treat disease
-- &lt;a href=&#34;https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/&#34; target=&#34;_blank&#34;&gt;Google Blog&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Researchers shatter the speed record for diagnosing rare genetic diseases with DNA sequencing
-- &lt;a href=&#34;https://www.statnews.com/2022/01/12/researchers-shatter-speed-record-for-diagnosing-rare-genetic-diseases-with-dna-sequencing/&#34; target=&#34;_blank&#34;&gt;STAT News&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Scientists describe new approach in NEJM, using Oxford Nanopore DNA sequencing technology to improve prognosis in critically ill patients, in less than 8 hours
-- &lt;a href=&#34;https://nanoporetech.com/about-us/news/scientists-describe-new-approach-nejm-using-oxford-nanopore-dna-sequencing-technology&#34; target=&#34;_blank&#34;&gt;Oxford Nanopore News&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Stanford University uses AI computing to cut DNA sequencing down to five hours
-- &lt;a href=&#34;https://www.zdnet.com/article/stanford-uni-nvidia-use-ai-computing-to-cut-dna-sequencing-down-to-five-hours/&#34; target=&#34;_blank&#34;&gt;ZDNet&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;DNA sequencing world record set by Stanford University researchers
-- &lt;a href=&#34;https://www.geeky-gadgets.com/dna-sequencing-world-record-21-02-2022/&#34; target=&#34;_blank&#34;&gt;Geeky Gadgets&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Guinness World Record Awarded for Fastest DNA Sequencing
-- &lt;a href=&#34;https://tech-chat.co.za/2022/02/20/guinness-world-record-awarded-for-fastest-dna-sequencing/&#34; target=&#34;_blank&#34;&gt;Tech Chat&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Guinness World Record Awarded for Fastest DNA Sequencing — Just 5 Hours
-- &lt;a href=&#34;https://blogs.nvidia.com/blog/2022/02/18/guinness-world-record-fastest-dna-sequencing/&#34; target=&#34;_blank&#34;&gt;NVIDIA Blog&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Rapid DNA Sequencing Tech Breaks the Speed Record for Reading Whole Genomes
-- &lt;a href=&#34;https://singularityhub.com/2022/02/06/rapid-dna-sequencing-tech-breaks-the-speed-record-for-reading-whole-genomes/&#34; target=&#34;_blank&#34;&gt;SingularityHub&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Record-breaking DNA sequencing offers hope to those with rare diseases. Here&amp;rsquo;s how
-- &lt;a href=&#34;https://www.weforum.org/agenda/2022/02/dna-sequencing-diagnosis-rare-disease-biotechnology-genome/&#34; target=&#34;_blank&#34;&gt;World Economic Forum&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Record breaking sequencing technique diagnoses patients in hours
-- &lt;a href=&#34;https://biotechscope.com/record-breaking-sequencing-technique-diagnoses-patients-hours/&#34; target=&#34;_blank&#34;&gt;BioTechScope&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;radio&#34;&gt;Radio&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Rapid genome sequencing in the clinic
-- &lt;a href=&#34;https://www.bbc.co.uk/sounds/play/m0014p9j&#34; target=&#34;_blank&#34;&gt;Inside Health (BBC)&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“Officially amazing!” 🧬 Euan Ashley, MD, PhD, and his team have set the first Guinness World Record for the fastest DNA sequencing technique. &lt;a href=&#34;https://t.co/ygnet4OZOs&#34;&gt;https://t.co/ygnet4OZOs&lt;/a&gt;&lt;a href=&#34;https://twitter.com/GWR?ref_src=twsrc%5Etfw&#34;&gt;@GWR&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Genome?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Genome&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DNA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DNA&lt;/a&gt; &lt;a href=&#34;https://t.co/NYvShBOybI&#34;&gt;pic.twitter.com/NYvShBOybI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Stanford Medicine (@StanfordMed) &lt;a href=&#34;https://twitter.com/StanfordMed/status/1496291719100260356?ref_src=twsrc%5Etfw&#34;&gt;February 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-
 </description>
     </item>
     
