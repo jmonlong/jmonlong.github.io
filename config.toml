@@ -133,11 +133,13 @@ publishDir = "docs"
     icon = "fa-envelope"
     icon_pack = "fa"
     link = "mailto:jean.monlong@gmail.com"
+    text = "Email"
 
   [[params.main]]
     icon = "fa-github"
     icon_pack = "fa-brands"
     link = "//github.com/jmonlong"
+    text = "GitHub"
 
   # [[params.social]]
   #   icon = "twitter"
@@ -148,31 +150,37 @@ publishDir = "docs"
     icon = "fa-bluesky"
     icon_pack = "fa-brands"
     link = "//bsky.app/profile/jmonlong.bsky.social"
+    text = "Bluesky"
 
   [[params.social]]
     icon = "fa-mastodon"
     icon_pack = "fa-brands"
     link = "//mastodon.social/@jmonlong"
+    text = "Mastodon"
 
   [[params.main]]
     icon = "ai-orcid"
     icon_pack = "ai"
     link = "http://orcid.org/0000-0002-9737-5516"
+    text = "ORCID"
 
   [[params.socialpub]]
     icon = "ai-pubmed"
     icon_pack = "ai"
     link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Monlong%2C%20Jean[Full%20Author%20Name]%20OR%20Monlong%2C%20Jean[Full%20Investigator%20Name]&sort=date"
+    text = "PubMed"
 
   [[params.socialpub]]
     icon = "ai-biorxiv"
     icon_pack = "ai"
     link = "https://www.biorxiv.org/search/author1%3AJean%2BMonlong%2B"
+    text = "bioRxiv"
 
   [[params.socialpub]]
     icon = "ai-google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=alKo_WkAAAAJ"
+    text = "Google Scholar"
 
   # [[params.socialpub]]
   #   icon = "researchgate"
@@ -183,11 +191,13 @@ publishDir = "docs"
     icon = "fa-file-text"
     icon_pack = "fa"
     link = "MonlongJeanCV.pdf"
+    text = "CV"
 
   [[params.socialcv]]
     icon = "fa-linkedin"
     icon_pack = "fa-brands"
     link = "https://www.linkedin.com/in/jeanmonlong/"
+    text = "LinkedIn"
 
 
 

@@ -33,7 +33,7 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon" title="{{ .text }}"></i>
           </a>
         </li>
         {{ end }}
@@ -43,7 +43,7 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon" title="{{ .text }}"></i>
           </a>
         </li>
         {{ end }}
@@ -53,7 +53,7 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon" title="{{ .text }}"></i>
           </a>
         </li>
         {{ end }}
@@ -63,7 +63,7 @@
         {{ $pack := or .icon_pack "fa" }}
         <li>
           <a itemprop="sameAs" href="{{ .link | safeURL }}" target="_blank">
-            <i class="{{ $pack }} {{ .icon }} big-icon"></i>
+            <i class="{{ $pack }} {{ .icon }} big-icon" title="{{ .text }}"></i>
           </a>
         </li>
         {{ end }}
