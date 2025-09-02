@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.2)  12 FEB 2025 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.11)  2 SEP 2025 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -110,7 +110,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count276
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count277
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
@@ -227,10 +227,10 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 \smedskip=\skip63
 \ssmallskip=\skip64
 ) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/01/25 v25.2 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count291
 \U@D=\dimen164
-\l@unhyphenated=\language7
+\l@unhyphenated=\language5
  (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count292
@@ -239,9 +239,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language5). Reported on input line 105.
+(babel)             (\language3). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language5). Reported on input line 108.
+(babel)             (\language3). Reported on input line 108.
 )) (/home/jmonlong/.TinyTeX/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
@@ -1138,15 +1138,11 @@ Underfull \hbox (badness 10000) detected at line 228
  []
 
 )
-Underfull \hbox (badness 1024) in paragraph at lines 343--343
+Underfull \hbox (badness 1024) in paragraph at lines 349--349
 []|\T1/cmr/m/n/10.95 M Kol-mogorov, KJ Billings-ley, M Mas-toras, M Mered-ith, \T1/cmr/bx/n/10.95 J Mon-long\T1/cmr/m/n/10.95 , ...,
  []
 
-[2] [3] [4] [5]
-
-[6]
-
-[7]
+[2] [3] [4] [5] [6] [7]
 
 [8] (./MonlongJeanCV.aux)
  ***********
@@ -1155,18 +1151,18 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11115 strings out of 475129
- 173482 string characters out of 5764575
- 646980 words of memory out of 5000000
+ 11115 strings out of 475128
+ 173482 string characters out of 5764694
+ 647112 words of memory out of 5000000
  33915 multiletter control sequences out of 15000+600000
  570237 words of font info for 63 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  90i,6n,93p,413b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0800.600pk> </home/jmonlong/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk>
-Output written on MonlongJeanCV.pdf (8 pages, 136758 bytes).
+Output written on MonlongJeanCV.pdf (8 pages, 136769 bytes).
 PDF statistics:
- 612 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
+ 621 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
  63 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
