@@ -130,6 +130,11 @@ R~Lorig-Roach, M~Meredith, {\bf J}~{\bf Monlong}, ..., P~Carnevali, K~Miga, and 
 \newblock Phased nanopore assembly with {Shasta} and modular graph phasing with {GFAse}.
 \newblock {\em \href{http://genome.cshlp.org/lookup/doi/10.1101/gr.278268.123}{Genome Research}}, 2024.
 
+\bibitem{HPRC2preprint}
+JK~Lucas, P~Hebbar, W~Liao, JF~Macias-Velasco, AM~Novak, M~Asri, JR~Balacco, ..., {\bf Jean}~{\bf Monlong}, ..., T~Marschall, KH~Miga, AM~Phillippy, T~Wang, and B~Paten.
+\newblock {HPRC2}: A human pangenome reference with near-complete coverage of common genetic variation.
+\newblock {\em \href{https://www.biorxiv.org/content/early/2026/07/22/2026.07.21.739710}{bioRxiv}}, 2026.
+
 \bibitem{Mele2015}
 M~Mel\'e, PG~Ferreira, F~Reverter, DS~DeLuca, {\bf J}~{\bf Monlong}, M~Sammeth, ..., and The~GTEx Consortium.
 \newblock The human transcriptome across tissues and individuals.

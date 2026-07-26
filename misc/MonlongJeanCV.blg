@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2025)
+This is BibTeX, Version 0.99e (TeX Live 2026)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: MonlongJeanCV.aux
 The style file: plain.bst
 Database file #1: JM-publication.bib
-You've used 47 entries,
+You've used 48 entries,
             2118 wiz_defined-function locations,
-            749 strings with 20792 characters,
-and the built_in function-call counts, 23252 in all, are:
-= -- 1865
-> -- 2498
+            755 strings with 21215 characters,
+and the built_in function-call counts, 23895 in all, are:
+= -- 1914
+> -- 2576
 < -- 2
-+ -- 994
-- -- 944
-* -- 2139
-:= -- 4416
-add.period$ -- 142
-call.type$ -- 47
-change.case$ -- 613
++ -- 1025
+- -- 974
+* -- 2204
+:= -- 4539
+add.period$ -- 145
+call.type$ -- 48
+change.case$ -- 631
 chr.to.int$ -- 0
-cite$ -- 47
-duplicate$ -- 484
-empty$ -- 824
-format.name$ -- 944
-if$ -- 4207
+cite$ -- 48
+duplicate$ -- 494
+empty$ -- 841
+format.name$ -- 974
+if$ -- 4320
 int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 47
-newline$ -- 238
-num.names$ -- 94
-pop$ -- 613
+int.to.str$ -- 48
+missing$ -- 48
+newline$ -- 243
+num.names$ -- 96
+pop$ -- 631
 preamble$ -- 1
-purify$ -- 566
+purify$ -- 583
 quote$ -- 0
-skip$ -- 341
+skip$ -- 348
 stack$ -- 0
-substring$ -- 270
-swap$ -- 57
+substring$ -- 275
+swap$ -- 58
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 188
+type$ -- 192
 warning$ -- 0
-while$ -- 97
-width$ -- 49
-write$ -- 476
+while$ -- 99
+width$ -- 50
+write$ -- 486
